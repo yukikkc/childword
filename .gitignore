@@ -21,7 +21,6 @@ vocabulary_before_dedup.js
 *.md
 !README.md
 !LICENSE.md
-!OFFLINE_GUIDE.md
 !IPHONE_GUIDE.md
 
 # macOS
