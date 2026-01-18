@@ -67,8 +67,8 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/[あなたのユーザー名]/child-word.git
-cd child-word
+git clone https://github.com/yukikkc/childword.git
+cd childword
 
 # Pythonでローカルサーバーを起動
 python3 -m http.server 8000
@@ -118,13 +118,13 @@ MIT License - 詳細は[LICENSE](LICENSE)ファイルを参照してください
 ### ファイル構成
 
 ```
-child-word/
+childword/
 ├── index.html          # メインアプリ（スマホ版）
 ├── pc.html            # PC版
 ├── vocabulary.js      # 4,000語の単語データ
 ├── manifest.json      # PWA設定ファイル
 ├── sw.js              # Service Worker（オフライン対応）
-├── OFFLINE_GUIDE.md   # オフライン使用ガイド
+├── IPHONE_GUIDE.md    # iPhone使用ガイド
 ├── .gitignore         # Git除外設定
 ├── LICENSE            # MITライセンス
 └── README.md          # このファイル
@@ -132,7 +132,7 @@ child-word/
 
 **📦 最小構成（完全オフライン使用）:**
 ```
-child-word/
+childword/
 ├── index.html      # 必須
 └── vocabulary.js   # 必須（4000語）
 ```
@@ -154,7 +154,7 @@ child-word/
 
 ## 貢献
 
-バグ報告や機能提案は[Issues](https://github.com/[あなたのユーザー名]/child-word/issues)までお願いします。
+バグ報告や機能提案は[Issues](https://github.com/yukikkc/childword/issues)までお願いします。
 
 ## 謝辞
 
