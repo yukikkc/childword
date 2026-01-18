@@ -1,0 +1,40 @@
+# Python関連
+*.py
+*.pyc
+__pycache__/
+
+# バックアップファイル
+*_backup.*
+*_before_*
+vocabulary_backup.js
+vocabulary_before_dedup.js
+
+# 一時ファイル・生成ファイル
+*.json
+!package*.json
+!manifest.json
+# vocabulary.jsは除外しない（必要なファイル）
+
+# レポート・ログファイル
+*.txt
+*.csv
+*.md
+!README.md
+!LICENSE.md
+!OFFLINE_GUIDE.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# その他
+node_modules/
+.env
