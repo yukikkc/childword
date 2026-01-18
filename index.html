@@ -616,14 +616,22 @@
         function initializeApp() {
             try {
                 console.log('アプリを初期化中...');
-                
-                // 語彙データの確認
-                if (!vocabulary || !Array.isArray(vocabulary) || vocabulary.length === 0) {
-                    throw new Error('語彙データが見つかりません');
+
+                // 語彙データの確認（詳細なエラーメッセージ）
+                if (typeof vocabulary === 'undefined') {
+                    throw new Error('vocabulary.jsが読み込まれていません。index.htmlとvocabulary.jsが同じフォルダにあるか確認してください。');
                 }
-                
-                console.log(`語彙データ確認: ${vocabulary.length}語`);
-                
+
+                if (!Array.isArray(vocabulary)) {
+                    throw new Error('語彙データの形式が正しくありません。vocabularyは配列である必要があります。');
+                }
+
+                if (vocabulary.length === 0) {
+                    throw new Error('語彙データが空です。vocabulary.jsの内容を確認してください。');
+                }
+
+                console.log(`✓ 語彙データ読み込み成功: ${vocabulary.length}語`);
+
                 filteredVocabulary = vocabulary;
                 
                 // UI初期化
