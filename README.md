@@ -29,8 +29,7 @@
 
 ### オンラインで使用
 
-1. `index.html`をブラウザで開く（スマホ版）
-2. または`pc.html`をブラウザで開く（PC版）
+`index.html`をブラウザで開く（PC・スマホ両対応）
 
 ### オフライン（Wi-Fi/ネット接続なし）で使用
 
@@ -119,8 +118,7 @@ MIT License - 詳細は[LICENSE](LICENSE)ファイルを参照してください
 
 ```
 childword/
-├── index.html          # メインアプリ（スマホ版）
-├── pc.html            # PC版
+├── index.html          # メインアプリ（PC・スマホ両対応）
 ├── vocabulary.js      # 4,000語の単語データ
 ├── manifest.json      # PWA設定ファイル
 ├── sw.js              # Service Worker（オフライン対応）
