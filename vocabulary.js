@@ -3999,6 +3999,107 @@ const vocabulary =
             { category: "動詞", jp: "申請する", en: "apply for", exampleJp: "太郎はパスポートの更新を申請した。", exampleEn: "Taro applied for a passport renewal." },
             { category: "動詞", jp: "更新する", en: "renew", exampleJp: "ケンタは運転免許証を更新する必要がある。", exampleEn: "Kenta needs to renew the driver's license." },
             { category: "動詞", jp: "却下する", en: "reject", exampleJp: "審査委員会は申請を却下することを決定した。", exampleEn: "The review committee decided to reject the application." },
-            { category: "動詞", jp: "発行する", en: "issue", exampleJp: "市役所は新しい証明書を発行した。", exampleEn: "City hall issued a new certificate." }
+            { category: "動詞", jp: "発行する", en: "issue", exampleJp: "市役所は新しい証明書を発行した。", exampleEn: "City hall issued a new certificate." },
+
+            // ========== Yuki専用：インター対策 ==========
+
+            // 聞き返しフレーズ
+            { category: "聞き返しフレーズ", jp: "もう一度言っていただけますか？", en: "Sorry, could you say that again?", exampleJp: "すみません、最後の部分をもう一度言っていただけますか？", exampleEn: "Sorry, could you say that last part again?" },
+            { category: "聞き返しフレーズ", jp: "少しゆっくり話していただけますか？", en: "Could you speak a little slower?", exampleJp: "すみません、少しゆっくり話していただけますか？", exampleEn: "Sorry, could you speak a little slower?" },
+            { category: "聞き返しフレーズ", jp: "〜とはどういう意味ですか？", en: "What do you mean by ___?", exampleJp: "「assessment」とはどういう意味ですか？", exampleEn: "What do you mean by 'assessment'?" },
+            { category: "聞き返しフレーズ", jp: "理解できたか確認させてください", en: "Let me make sure I understand.", exampleJp: "理解できたか確認させてください。来週テストがあるということですか？", exampleEn: "Let me make sure I understand. You're saying there's a test next week?" },
+            { category: "聞き返しフレーズ", jp: "〜ということですか？", en: "Do you mean ___?", exampleJp: "宿題を増やすということですか？", exampleEn: "Do you mean more homework?" },
+            { category: "聞き返しフレーズ", jp: "もう少し詳しく教えていただけますか？", en: "Could you tell me more about that?", exampleJp: "その件についてもう少し詳しく教えていただけますか？", exampleEn: "Could you tell me more about that?" },
+
+            // 先生との会話
+            { category: "先生との会話", jp: "うちの子はクラスでどうですか？", en: "How is my child doing in class?", exampleJp: "最近、うちの子はクラスでどうですか？", exampleEn: "How is my child doing in class lately?" },
+            { category: "先生との会話", jp: "他の子とうまくやっていますか？", en: "Is she getting along with the other kids?", exampleJp: "娘は他の子とうまくやっていますか？", exampleEn: "Is my daughter getting along with the other kids?" },
+            { category: "先生との会話", jp: "授業に参加していますか？", en: "Does he participate in class?", exampleJp: "息子は授業に積極的に参加していますか？", exampleEn: "Does my son actively participate in class?" },
+            { category: "先生との会話", jp: "家で〜に気づきました", en: "I've noticed ___ at home.", exampleJp: "家で宿題をやりたがらないことに気づきました。", exampleEn: "I've noticed he doesn't want to do homework at home." },
+            { category: "先生との会話", jp: "学校でもそうですか？", en: "Is that happening at school too?", exampleJp: "家で疲れている様子ですが、学校でもそうですか？", exampleEn: "She seems tired at home. Is that happening at school too?" },
+            { category: "先生との会話", jp: "〜について少し心配しています", en: "I'm a little worried about ___.", exampleJp: "息子の英語の読解力について少し心配しています。", exampleEn: "I'm a little worried about my son's reading skills in English." },
+            { category: "先生との会話", jp: "〜についてお話ししたいのですが", en: "I wanted to talk to you about ___.", exampleJp: "娘の友人関係についてお話ししたいのですが。", exampleEn: "I wanted to talk to you about my daughter's friendships." },
+            { category: "先生との会話", jp: "この年齢の子には普通ですか？", en: "Is this normal for kids this age?", exampleJp: "集中力が続かないのですが、この年齢の子には普通ですか？", exampleEn: "He can't focus for long. Is this normal for kids this age?" },
+            { category: "先生との会話", jp: "家でどうサポートできますか？", en: "What can we do to help at home?", exampleJp: "算数が苦手なのですが、家でどうサポートできますか？", exampleEn: "She's struggling with math. What can we do to help at home?" },
+            { category: "先生との会話", jp: "〜は可能でしょうか？", en: "Would it be possible to ___?", exampleJp: "宿題を少し減らすことは可能でしょうか？", exampleEn: "Would it be possible to reduce the homework a little?" },
+            { category: "先生との会話", jp: "〜していただけると嬉しいのですが", en: "I was hoping you could ___.", exampleJp: "席を前の方にしていただけると嬉しいのですが。", exampleEn: "I was hoping you could move his seat to the front." },
+            { category: "先生との会話", jp: "〜だったら教えていただけますか？", en: "Could you let me know if ___?", exampleJp: "何か問題があったら教えていただけますか？", exampleEn: "Could you let me know if there are any problems?" },
+            { category: "先生との会話", jp: "〜していただけると助かります", en: "I'd appreciate it if you could ___.", exampleJp: "週に一度進捗を教えていただけると助かります。", exampleEn: "I'd appreciate it if you could update me weekly on her progress." },
+            { category: "先生との会話", jp: "教えていただきありがとうございます", en: "Thank you for letting me know.", exampleJp: "その件を教えていただきありがとうございます。", exampleEn: "Thank you for letting me know about that." },
+            { category: "先生との会話", jp: "本当に助かります", en: "I really appreciate your help.", exampleJp: "いつも息子を見ていただき、本当に助かります。", exampleEn: "I really appreciate your help with my son." },
+            { category: "先生との会話", jp: "何かあればいつでも連絡ください", en: "Please feel free to contact me if anything comes up.", exampleJp: "気になることがあれば、いつでも連絡ください。", exampleEn: "Please feel free to contact me if anything comes up." },
+
+            // 言い換え表現
+            { category: "言い換え表現", jp: "内向的です", en: "quiet and shy", exampleJp: "うちの子は内向的で、すぐには友達を作れません。", exampleEn: "My child is quiet and shy, so she doesn't make friends quickly." },
+            { category: "言い換え表現", jp: "偏食があります", en: "doesn't eat many kinds of food", exampleJp: "息子は偏食があり、野菜を食べません。", exampleEn: "My son doesn't eat many kinds of food. He won't eat vegetables." },
+            { category: "言い換え表現", jp: "集中力がない", en: "has trouble focusing for a long time", exampleJp: "娘は集中力がなく、すぐに気が散ります。", exampleEn: "My daughter has trouble focusing for a long time. She gets distracted easily." },
+            { category: "言い換え表現", jp: "いじめられている", en: "other kids are being mean to", exampleJp: "息子がいじめられているかもしれません。", exampleEn: "I think other kids might be being mean to my son." },
+            { category: "言い換え表現", jp: "授業についていけない", en: "having trouble keeping up with the class", exampleJp: "娘は算数の授業についていけないようです。", exampleEn: "My daughter seems to be having trouble keeping up with math class." },
+            { category: "言い換え表現", jp: "積極的です", en: "not shy / speaks up", exampleJp: "息子は積極的で、よく発言します。", exampleEn: "My son is not shy. He speaks up a lot." },
+            { category: "言い換え表現", jp: "得意です", en: "good at / doesn't struggle with", exampleJp: "娘は絵を描くのが得意です。", exampleEn: "My daughter is good at drawing." },
+            { category: "言い換え表現", jp: "苦手です", en: "has trouble with / not good at", exampleJp: "息子は人前で話すのが苦手です。", exampleEn: "My son has trouble speaking in front of people." },
+            { category: "言い換え表現", jp: "改善した", en: "better than before / not as bad as before", exampleJp: "息子の行動は以前より改善しました。", exampleEn: "My son's behavior is better than before." },
+            { category: "言い換え表現", jp: "悪化した", en: "worse than before / getting worse", exampleJp: "娘の不安が悪化しているようです。", exampleEn: "My daughter's anxiety seems to be getting worse." },
+
+            // 逃げ道フレーズ
+            { category: "逃げ道フレーズ", jp: "〜のようなもの", en: "something like", exampleJp: "それは...なんというか、不安のようなものです。", exampleEn: "It's... something like anxiety." },
+            { category: "逃げ道フレーズ", jp: "一種の〜", en: "a kind of", exampleJp: "それは一種のアレルギーだと思います。", exampleEn: "I think it's a kind of allergy." },
+            { category: "逃げ道フレーズ", jp: "ほら、あの〜", en: "you know, the thing that", exampleJp: "ほら、あの、子供が怖がるやつです。", exampleEn: "You know, the thing that kids are scared of." },
+            { category: "逃げ道フレーズ", jp: "つまり", en: "I mean", exampleJp: "彼は...つまり、あまり話さないんです。", exampleEn: "He's... I mean, he doesn't talk much." },
+            { category: "逃げ道フレーズ", jp: "なんて言うんだっけ", en: "how do you say", exampleJp: "えーと、なんて言うんだっけ...緊張している、です。", exampleEn: "Um, how do you say... nervous." },
+            { category: "逃げ道フレーズ", jp: "うまく言えないのですが", en: "I'm not sure how to say it, but", exampleJp: "うまく言えないのですが、息子は少し変わっています。", exampleEn: "I'm not sure how to say it, but my son is a little different." },
+
+            // 主語固定フレーズ
+            { category: "主語固定フレーズ", jp: "要するに", en: "The thing is", exampleJp: "要するに、娘は新しい環境が苦手なんです。", exampleEn: "The thing is, my daughter doesn't do well in new environments." },
+            { category: "主語固定フレーズ", jp: "私が言いたいのは", en: "What I mean is", exampleJp: "私が言いたいのは、もう少しサポートが必要だということです。", exampleEn: "What I mean is, she needs a little more support." },
+            { category: "主語固定フレーズ", jp: "ポイントは", en: "The point is", exampleJp: "ポイントは、息子が自信を持てるようになることです。", exampleEn: "The point is, my son needs to become more confident." },
+            { category: "主語固定フレーズ", jp: "私の意見は", en: "My opinion is that", exampleJp: "私の意見は、宿題が多すぎるということです。", exampleEn: "My opinion is that there's too much homework." },
+            { category: "主語固定フレーズ", jp: "私が心配しているのは", en: "What I'm worried about is", exampleJp: "私が心配しているのは、息子の社交性です。", exampleEn: "What I'm worried about is my son's social skills." },
+
+            // 簡単動詞
+            { category: "簡単動詞", jp: "成功する", en: "be successful / get success", exampleJp: "息子が学校で成功できるよう願っています。", exampleEn: "I hope my son can be successful at school." },
+            { category: "簡単動詞", jp: "参加する", en: "join / be there", exampleJp: "娘は運動会に参加しますか？", exampleEn: "Will my daughter join the sports day?" },
+            { category: "簡単動詞", jp: "維持する", en: "keep", exampleJp: "息子の成績を維持したいです。", exampleEn: "I want to keep my son's grades up." },
+            { category: "簡単動詞", jp: "取得する・得る", en: "get", exampleJp: "良い成績を取得することが目標です。", exampleEn: "The goal is to get good grades." },
+            { category: "簡単動詞", jp: "必要とする", en: "need", exampleJp: "娘はもっと練習が必要です。", exampleEn: "My daughter needs more practice." },
+            { category: "簡単動詞", jp: "〜させる", en: "make / let", exampleJp: "息子に宿題をさせています。", exampleEn: "I make my son do his homework." },
+            { category: "簡単動詞", jp: "持っている・ある", en: "have", exampleJp: "娘にはアレルギーがあります。", exampleEn: "My daughter has allergies." },
+            { category: "簡単動詞", jp: "〜である・〜の状態だ", en: "be", exampleJp: "息子は今とても疲れています。", exampleEn: "My son is very tired now." },
+
+            // 三人称単数（文法練習）
+            { category: "三人称単数", jp: "彼は〜したくない", en: "He doesn't want to", exampleJp: "彼は学校に行きたくないようです。", exampleEn: "He doesn't want to go to school." },
+            { category: "三人称単数", jp: "彼女は〜が必要だ", en: "She needs", exampleJp: "彼女はもっと時間が必要です。", exampleEn: "She needs more time." },
+            { category: "三人称単数", jp: "〜する人", en: "Someone who doesn't", exampleJp: "食べない人がいます。", exampleEn: "There's someone who doesn't eat." },
+            { category: "三人称単数", jp: "私の父は〜を持っている", en: "My father has", exampleJp: "私の父は車を持っています。", exampleEn: "My father has a car." },
+            { category: "三人称単数", jp: "先生は〜と言っている", en: "The teacher says", exampleJp: "先生は宿題が大事だと言っています。", exampleEn: "The teacher says homework is important." },
+            { category: "三人称単数", jp: "みんな〜を望んでいる", en: "Everyone wants", exampleJp: "みんな良い成績を望んでいます。", exampleEn: "Everyone wants good grades." },
+            { category: "三人称単数", jp: "誰も〜を知らない", en: "Nobody knows", exampleJp: "誰も答えを知らない。", exampleEn: "Nobody knows the answer." },
+
+            // 学校単語
+            { category: "学校単語", jp: "進捗", en: "progress", exampleJp: "息子の進捗について教えてください。", exampleEn: "Please tell me about my son's progress." },
+            { category: "学校単語", jp: "成績", en: "grades", exampleJp: "娘の成績が下がっています。", exampleEn: "My daughter's grades are going down." },
+            { category: "学校単語", jp: "出席", en: "attendance", exampleJp: "息子の出席状況はどうですか？", exampleEn: "How is my son's attendance?" },
+            { category: "学校単語", jp: "行事", en: "school event", exampleJp: "来月の学校行事について教えてください。", exampleEn: "Please tell me about next month's school events." },
+            { category: "学校単語", jp: "遠足", en: "field trip", exampleJp: "遠足にはお弁当が必要ですか？", exampleEn: "Do we need to pack lunch for the field trip?" },
+            { category: "学校単語", jp: "保護者会", en: "parent meeting", exampleJp: "次の保護者会はいつですか？", exampleEn: "When is the next parent meeting?" },
+            { category: "学校単語", jp: "面談", en: "conference / meeting", exampleJp: "先生と面談をお願いできますか？", exampleEn: "Could I have a meeting with you?" },
+            { category: "学校単語", jp: "学期", en: "term / semester", exampleJp: "今学期の目標は何ですか？", exampleEn: "What are the goals for this term?" },
+            { category: "学校単語", jp: "時間割", en: "schedule / timetable", exampleJp: "来週の時間割を教えてください。", exampleEn: "Please tell me next week's schedule." },
+
+            // 送り迎え
+            { category: "送り迎え", jp: "今日何か知っておくべきことはありますか？", en: "Is there anything I should know about today?", exampleJp: "おはようございます。今日何か知っておくべきことはありますか？", exampleEn: "Good morning! Is there anything I should know about today?" },
+            { category: "送り迎え", jp: "今朝ちょっと疲れているようでした", en: "She seemed a little tired this morning.", exampleJp: "今朝ちょっと疲れているようでしたので、気をつけてください。", exampleEn: "She seemed a little tired this morning, so please keep an eye on her." },
+            { category: "送り迎え", jp: "早めに迎えに来ます", en: "I'll pick him up early.", exampleJp: "病院の予約があるので、今日は早めに迎えに来ます。", exampleEn: "He has a doctor's appointment, so I'll pick him up early today." },
+            { category: "送り迎え", jp: "今日は調子がよさそうです", en: "He seems to be in good spirits today.", exampleJp: "昨日は具合が悪かったですが、今日は調子がよさそうです。", exampleEn: "He was sick yesterday, but he seems to be in good spirits today." },
+            { category: "送り迎え", jp: "お迎えが少し遅れます", en: "I'll be a little late for pickup.", exampleJp: "仕事の都合で、今日はお迎えが少し遅れます。", exampleEn: "Because of work, I'll be a little late for pickup today." },
+
+            // 修飾節マーカー
+            { category: "修飾節マーカー", jp: "〜する人/もの (who/that/which)", en: "who / that / which", exampleJp: "静かな子が好きな先生もいます。", exampleEn: "There are teachers who like quiet children." },
+            { category: "修飾節マーカー", jp: "もし〜なら (if)", en: "if", exampleJp: "もし問題があれば、連絡してください。", exampleEn: "If there are any problems, please contact me." },
+            { category: "修飾節マーカー", jp: "たとえ〜でも (even if)", en: "even if", exampleJp: "たとえ難しくても、頑張ってほしいです。", exampleEn: "Even if it's difficult, I want her to try hard." },
+            { category: "修飾節マーカー", jp: "なぜなら (because)", en: "because", exampleJp: "欠席します、なぜなら病院に行くからです。", exampleEn: "He'll be absent because he has to go to the hospital." },
+            { category: "修飾節マーカー", jp: "〜する時 (when)", en: "when", exampleJp: "疲れている時は集中できません。", exampleEn: "When she's tired, she can't focus." },
+            { category: "修飾節マーカー", jp: "〜している間 (while)", en: "while", exampleJp: "授業中は静かにしてほしいです。", exampleEn: "I want him to be quiet while in class." },
+            { category: "修飾節マーカー", jp: "〜だけれども (although)", en: "although", exampleJp: "シャイだけれども、いい子です。", exampleEn: "Although she's shy, she's a good kid." }
 
         ];
