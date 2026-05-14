@@ -4100,6 +4100,39 @@ const vocabulary =
             { category: "修飾節マーカー", jp: "なぜなら (because)", en: "because", exampleJp: "欠席します、なぜなら病院に行くからです。", exampleEn: "He'll be absent because he has to go to the hospital." },
             { category: "修飾節マーカー", jp: "〜する時 (when)", en: "when", exampleJp: "疲れている時は集中できません。", exampleEn: "When she's tired, she can't focus." },
             { category: "修飾節マーカー", jp: "〜している間 (while)", en: "while", exampleJp: "授業中は静かにしてほしいです。", exampleEn: "I want him to be quiet while in class." },
-            { category: "修飾節マーカー", jp: "〜だけれども (although)", en: "although", exampleJp: "シャイだけれども、いい子です。", exampleEn: "Although she's shy, she's a good kid." }
+            { category: "修飾節マーカー", jp: "〜だけれども (although)", en: "although", exampleJp: "シャイだけれども、いい子です。", exampleEn: "Although she's shy, she's a good kid." },
+
+            // 品詞ファミリー Week 1 (2026/5/14〜)
+            // ── Family 1: effort / try ──
+            { category: "品詞ファミリー Week1", jp: "努力 [名詞]", en: "effort", exampleJp: "もっと努力が必要です。", exampleEn: "More effort is needed." },
+            { category: "品詞ファミリー Week1", jp: "努力する [動詞] ※effortは動詞にできない", en: "try hard / make an effort", exampleJp: "たとえ才能がなくても、一生懸命努力するべきだ。", exampleEn: "Even if you don't have talent, you should try hard." },
+            { category: "品詞ファミリー Week1", jp: "一生懸命に [副詞]", en: "hard / with effort", exampleJp: "彼女は一生懸命に勉強した。", exampleEn: "She studied hard." },
+
+            // ── Family 2: importance / important / value ──
+            { category: "品詞ファミリー Week1", jp: "重要さ [名詞]", en: "importance", exampleJp: "遊びの重要さを理解してほしい。", exampleEn: "I want them to understand the importance of play." },
+            { category: "品詞ファミリー Week1", jp: "重要な [形容詞] ※動詞にできない", en: "important", exampleJp: "子供との時間は大切です。", exampleEn: "Time with your children is important." },
+            { category: "品詞ファミリー Week1", jp: "大事にする [動詞] ※importantは動詞にできない", en: "value / prioritize", exampleJp: "親は子供との時間を大事にするべきだ。", exampleEn: "Parents should value their time with children." },
+
+            // ── Family 3: luck / lucky / unlucky ──
+            { category: "品詞ファミリー Week1", jp: "運 [名詞]", en: "luck", exampleJp: "それはただの運だった。", exampleEn: "That was just luck." },
+            { category: "品詞ファミリー Week1", jp: "運がいい [形容詞] ※haveは使わない", en: "lucky", exampleJp: "いい先生に当たって運がいい。", exampleEn: "We are lucky to have a good teacher." },
+            { category: "品詞ファミリー Week1", jp: "運が悪い [形容詞] ※have unluckyとは言わない", en: "unlucky", exampleJp: "彼は運が悪かった。", exampleEn: "He was unlucky." },
+            { category: "品詞ファミリー Week1", jp: "幸運にも [副詞]", en: "luckily / fortunately", exampleJp: "幸運にも、怪我はなかった。", exampleEn: "Luckily, no one was hurt." },
+
+            // ── Family 4: success / succeed / successful ──
+            { category: "品詞ファミリー Week1", jp: "成功 [名詞]", en: "success", exampleJp: "成功には時間がかかる。", exampleEn: "Success takes time." },
+            { category: "品詞ファミリー Week1", jp: "成功する [動詞] ※can be succeedとは言わない", en: "succeed", exampleJp: "一生懸命やれば成功できる。", exampleEn: "If you try hard, you can succeed." },
+            { category: "品詞ファミリー Week1", jp: "成功した [形容詞]", en: "successful", exampleJp: "彼女は成功した実業家です。", exampleEn: "She is a successful businesswoman." },
+
+            // ── Family 5: difference / differ / different ──
+            { category: "品詞ファミリー Week1", jp: "違い [名詞]", en: "difference", exampleJp: "二人の間には大きな違いがある。", exampleEn: "There is a big difference between the two." },
+            { category: "品詞ファミリー Week1", jp: "異なる [動詞]", en: "differ", exampleJp: "意見は人によって異なる。", exampleEn: "Opinions differ from person to person." },
+            { category: "品詞ファミリー Week1", jp: "違う [形容詞] ※different FROM each other", en: "different", exampleJp: "私たちはお互いに違う。", exampleEn: "We are different from each other." },
+            { category: "品詞ファミリー Week1", jp: "違った形で [副詞]", en: "differently", exampleJp: "子供はそれぞれ違った形で学ぶ。", exampleEn: "Every child learns differently." },
+
+            // ── 品詞の見分け方ヒント ──
+            { category: "品詞ファミリー Week1", jp: "💡 -tion/-ment/-ness/-ance = 名詞", en: "noun endings: -tion, -ment, -ness, -ance", exampleJp: "importANCE, differENCE, succESS", exampleEn: "These endings tell you it's a noun." },
+            { category: "品詞ファミリー Week1", jp: "💡 -ful/-ous/-ive/-ant/-ent = 形容詞", en: "adjective endings: -ful, -ous, -ive, -ant, -ent", exampleJp: "successFUL, importANT, differENT", exampleEn: "These endings tell you it's an adjective." },
+            { category: "品詞ファミリー Week1", jp: "💡 -ly = 副詞", en: "adverb ending: -ly", exampleJp: "luckilY, differentLY, successfullY", exampleEn: "Add -ly to an adjective to make an adverb." }
 
         ];
