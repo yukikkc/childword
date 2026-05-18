@@ -4133,6 +4133,28 @@ const vocabulary =
             // ── 品詞の見分け方ヒント ──
             { category: "品詞ファミリー Week1", jp: "💡 -tion/-ment/-ness/-ance = 名詞", en: "noun endings: -tion, -ment, -ness, -ance", exampleJp: "importANCE, differENCE, succESS", exampleEn: "These endings tell you it's a noun." },
             { category: "品詞ファミリー Week1", jp: "💡 -ful/-ous/-ive/-ant/-ent = 形容詞", en: "adjective endings: -ful, -ous, -ive, -ant, -ent", exampleJp: "successFUL, importANT, differENT", exampleEn: "These endings tell you it's an adjective." },
-            { category: "品詞ファミリー Week1", jp: "💡 -ly = 副詞", en: "adverb ending: -ly", exampleJp: "luckilY, differentLY, successfullY", exampleEn: "Add -ly to an adjective to make an adverb." }
+            { category: "品詞ファミリー Week1", jp: "💡 -ly = 副詞", en: "adverb ending: -ly", exampleJp: "luckilY, differentLY, successfullY", exampleEn: "Add -ly to an adjective to make an adverb." },
+
+            // 今週の練習 2026-05-18: Lesson 07 対策
+            { category: "今週の練習 2026-05-18", jp: "状況によります", en: "It depends on the situation.", exampleJp: "電話に出るかは状況によります。", exampleEn: "It depends on the situation." },
+            { category: "今週の練習 2026-05-18", jp: "誰からの電話かによります", en: "It depends on who is calling me.", exampleJp: "電話に出るかは誰からの電話かによります。", exampleEn: "It depends on who is calling me." },
+            { category: "今週の練習 2026-05-18", jp: "先生が言うことによります", en: "It depends on what the teacher says.", exampleJp: "それは先生が言うことによります。", exampleEn: "It depends on what the teacher says." },
+            { category: "今週の練習 2026-05-18", jp: "子供の体調によります", en: "It depends on my child's condition.", exampleJp: "登校できるかは子供の体調によります。", exampleEn: "It depends on my child's condition." },
+            { category: "今週の練習 2026-05-18", jp: "電車の中で", en: "on the train", exampleJp: "電車の中で電話で話すのはよくありません。", exampleEn: "Talking on the phone on the train is not good." },
+            { category: "今週の練習 2026-05-18", jp: "電話で話す", en: "talk on the phone", exampleJp: "彼は電話で話しています。", exampleEn: "He is talking on the phone." },
+            { category: "今週の練習 2026-05-18", jp: "電話をマナーモードにする", en: "put my phone on silent mode", exampleJp: "公共の場所では電話をマナーモードにします。", exampleEn: "I put my phone on silent mode in public places." },
+            { category: "今週の練習 2026-05-18", jp: "音量を高くする", en: "set the volume high", exampleJp: "着信音の音量を高くするのはよくありません。", exampleEn: "It's not good to set the ringtone volume high." },
+            { category: "今週の練習 2026-05-18", jp: "他の人の迷惑になるかもしれない", en: "It might annoy other people.", exampleJp: "大きな着信音は他の人の迷惑になるかもしれません。", exampleEn: "A loud ringtone might annoy other people." },
+            { category: "今週の練習 2026-05-18", jp: "他の人の迷惑にならないかもしれない", en: "It might not annoy other people.", exampleJp: "短いメッセージなら他の人の迷惑にならないかもしれません。", exampleEn: "A short message might not annoy other people." },
+            { category: "今週の練習 2026-05-18", jp: "誰かとはぐれる", en: "get separated from someone", exampleJp: "誰かとはぐれたら電話します。", exampleEn: "If I get separated from someone, I will call them." },
+            { category: "今週の練習 2026-05-18", jp: "その人に電話する", en: "call them", exampleJp: "子供を見つけられなければ、その人に電話します。", exampleEn: "If I can't find my child, I will call them." },
+            { category: "今週の練習 2026-05-18", jp: "コンピューターを使います", en: "I will use a desktop computer.", exampleJp: "スマホがなければ、デスクトップコンピューターを使います。", exampleEn: "If I don't have my phone, I will use a desktop computer." },
+            { category: "今週の練習 2026-05-18", jp: "同じ仕事を続けられます", en: "I can do the same job.", exampleJp: "マレーシアでも同じ仕事を続けられます。", exampleEn: "I can do the same job in Malaysia." },
+            { category: "今週の練習 2026-05-18", jp: "家族はマレーシアに引っ越す予定です", en: "Our family will move to Malaysia.", exampleJp: "今年の終わりか来年の初めに、家族はマレーシアに引っ越す予定です。", exampleEn: "Our family will move to Malaysia at the end of this year or early next year." },
+            { category: "今週の練習 2026-05-18", jp: "娘は今年6歳になります", en: "My daughter will turn six this year.", exampleJp: "娘は今年6歳になります。", exampleEn: "My daughter will turn six this year." },
+            { category: "今週の練習 2026-05-18", jp: "子供が高校生になるまで", en: "until my child becomes a high school student", exampleJp: "下の子が高校生になるまで滞在する予定です。", exampleEn: "We plan to stay until my youngest child becomes a high school student." },
+            { category: "今週の練習 2026-05-18", jp: "問題は〜です", en: "The problem is that...", exampleJp: "問題は、子供が英語の指示を理解していないことです。", exampleEn: "The problem is that my child doesn't understand English instructions." },
+            { category: "今週の練習 2026-05-18", jp: "要するに〜です", en: "The thing is...", exampleJp: "要するに、娘は新しい環境で緊張しやすいです。", exampleEn: "The thing is, my daughter gets nervous in new environments." },
+            { category: "今週の練習 2026-05-18", jp: "短く言うと", en: "In short,", exampleJp: "短く言うと、もう少しサポートが必要です。", exampleEn: "In short, she needs a little more support." }
 
         ];
