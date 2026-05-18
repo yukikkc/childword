@@ -398,6 +398,34 @@
             text-align: center;
         }
 
+        .update-app-btn {
+            width: 100%;
+            background: #22c55e;
+            color: white;
+            border: none;
+            padding: 14px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            touch-action: manipulation;
+            -webkit-appearance: none;
+            appearance: none;
+        }
+
+        .update-app-btn:active {
+            transform: scale(0.98);
+            background: #16a34a;
+        }
+
+        .update-status {
+            margin-top: 8px;
+            color: #666;
+            font-size: 13px;
+            text-align: center;
+            min-height: 18px;
+        }
+
         .close-settings {
             background: #ff6b6b;
             color: white;
@@ -485,6 +513,11 @@
         <h2 style="text-align: center; margin-top: 0;">設定</h2>
         
         <div class="settings-content">
+            <div class="setting-item">
+                <button class="update-app-btn" id="updateAppBtn" onclick="refreshApp()">最新を反映</button>
+                <div id="updateStatus" class="update-status"></div>
+            </div>
+
             <div class="setting-item">
                 <label style="font-weight: bold; margin-bottom: 8px; display: block;">単語検索</label>
                 <div class="search-box">
@@ -580,7 +613,7 @@
     </div>
 
     <!-- 5000語の語彙データを読み込み -->
-    <script src="vocabulary.js?260518"></script>
+    <script src="vocabulary.js?260518-2"></script>
 
     <script>
         // グローバル変数
@@ -1171,6 +1204,56 @@
         function hideSettings() {
             document.getElementById('settingsPanel').style.display = 'none';
             document.body.style.overflow = '';
+        }
+
+        async function refreshApp() {
+            const button = document.getElementById('updateAppBtn');
+            const status = document.getElementById('updateStatus');
+
+            try {
+                if (button) {
+                    button.disabled = true;
+                    button.textContent = '更新中...';
+                }
+                if (status) {
+                    status.textContent = '最新データを確認しています';
+                }
+
+                if (isPlaying || isAutoPlaying) {
+                    isAutoPlaying = false;
+                    pausePlayback();
+                    releaseWakeLock();
+                }
+
+                if ('serviceWorker' in navigator) {
+                    const registration = await navigator.serviceWorker.getRegistration();
+                    if (registration) {
+                        await registration.update();
+                    }
+                }
+
+                if ('caches' in window) {
+                    const cacheNames = await caches.keys();
+                    await Promise.all(cacheNames.map(cacheName => caches.delete(cacheName)));
+                }
+
+                if (status) {
+                    status.textContent = '再読み込みします';
+                }
+
+                const url = new URL(window.location.href);
+                url.searchParams.set('refresh', Date.now().toString());
+                window.location.replace(url.toString());
+            } catch (error) {
+                console.error('更新エラー:', error);
+                if (status) {
+                    status.textContent = '更新に失敗しました。Safariで再読み込みしてください。';
+                }
+                if (button) {
+                    button.disabled = false;
+                    button.textContent = '最新を反映';
+                }
+            }
         }
         
         // タッチイベント
