@@ -4155,6 +4155,28 @@ const vocabulary =
             { category: "今週の練習 2026-05-18", jp: "子供が高校生になるまで", en: "until my child becomes a high school student", exampleJp: "下の子が高校生になるまで滞在する予定です。", exampleEn: "We plan to stay until my youngest child becomes a high school student." },
             { category: "今週の練習 2026-05-18", jp: "問題は〜です", en: "The problem is that...", exampleJp: "問題は、子供が英語の指示を理解していないことです。", exampleEn: "The problem is that my child doesn't understand English instructions." },
             { category: "今週の練習 2026-05-18", jp: "要するに〜です", en: "The thing is...", exampleJp: "要するに、娘は新しい環境で緊張しやすいです。", exampleEn: "The thing is, my daughter gets nervous in new environments." },
-            { category: "今週の練習 2026-05-18", jp: "短く言うと", en: "In short,", exampleJp: "短く言うと、もう少しサポートが必要です。", exampleEn: "In short, she needs a little more support." }
+            { category: "今週の練習 2026-05-18", jp: "短く言うと", en: "In short,", exampleJp: "短く言うと、もう少しサポートが必要です。", exampleEn: "In short, she needs a little more support." },
+
+            // 今週の練習 2026-05-18: Lesson 08 追加（救急・事故・応急処置）
+            { category: "今週の練習 2026-05-18", jp: "事故に遭いました", en: "I was in an accident.", exampleJp: "私は事故に遭いました。", exampleEn: "I was in an accident." },
+            { category: "今週の練習 2026-05-18", jp: "事故に遭ったことはありません", en: "I have never been in an accident.", exampleJp: "私は事故に遭ったことはありません。", exampleEn: "I have never been in an accident." },
+            { category: "今週の練習 2026-05-18", jp: "事故を見ました", en: "I saw an accident.", exampleJp: "道路で事故を見ました。", exampleEn: "I saw an accident on the road." },
+            { category: "今週の練習 2026-05-18", jp: "救急車を呼びました", en: "I called an ambulance.", exampleJp: "患者さんのために救急車を呼びました。", exampleEn: "I called an ambulance for the patient." },
+            { category: "今週の練習 2026-05-18", jp: "彼女は転びました", en: "She fell down.", exampleJp: "彼女は床で転びました。", exampleEn: "She fell down on the floor." },
+            { category: "今週の練習 2026-05-18", jp: "彼女は足を痛めました", en: "She hurt her leg.", exampleJp: "彼女は足を痛めました。", exampleEn: "She hurt her leg." },
+            { category: "今週の練習 2026-05-18", jp: "彼女は立てませんでした", en: "She couldn't stand up.", exampleJp: "彼女は立てなかったので、助けが必要でした。", exampleEn: "She couldn't stand up, so she needed help." },
+            { category: "今週の練習 2026-05-18", jp: "彼女は足を骨折しました", en: "She broke her leg.", exampleJp: "彼女は足を骨折しました。", exampleEn: "She broke her leg." },
+            { category: "今週の練習 2026-05-18", jp: "救急車が通る必要があります", en: "The ambulance needs to get through.", exampleJp: "救急車が先に通る必要があります。", exampleEn: "The ambulance needs to get through first." },
+            { category: "今週の練習 2026-05-18", jp: "車は救急車に道を譲るべきです", en: "Cars should give way to an ambulance.", exampleJp: "車は救急車に道を譲るべきです。", exampleEn: "Cars should give way to an ambulance." },
+            { category: "今週の練習 2026-05-18", jp: "サイレンが聞こえました", en: "I heard the siren.", exampleJp: "サイレンが聞こえたので、自転車を止めました。", exampleEn: "I heard the siren, so I stopped my bicycle." },
+            { category: "今週の練習 2026-05-18", jp: "出血を止めるべきです", en: "We should stop the bleeding.", exampleJp: "応急処置では、まず出血を止めるべきです。", exampleEn: "For first aid, we should stop the bleeding first." },
+            { category: "今週の練習 2026-05-18", jp: "熱中症かもしれません", en: "He might have heatstroke.", exampleJp: "暑い日なので、熱中症かもしれません。", exampleEn: "It's a hot day, so he might have heatstroke." },
+            { category: "今週の練習 2026-05-18", jp: "水分補給のために水を飲んでください", en: "Drink water to stay hydrated.", exampleJp: "熱中症を防ぐために、水分補給してください。", exampleEn: "Drink water to stay hydrated and prevent heatstroke." },
+            { category: "今週の練習 2026-05-18", jp: "以前、理学療法士として働いていました", en: "I used to work as a physical therapist.", exampleJp: "以前、理学療法士として働いていました。", exampleEn: "I used to work as a physical therapist." },
+            { category: "今週の練習 2026-05-18", jp: "患者さんの家を訪問していました", en: "I visited patients at home.", exampleJp: "仕事で患者さんの家を訪問していました。", exampleEn: "I visited patients at home for work." },
+            { category: "今週の練習 2026-05-18", jp: "高齢の患者さんのリハビリを手伝いました", en: "I helped elderly patients with rehabilitation.", exampleJp: "高齢の患者さんのリハビリを手伝いました。", exampleEn: "I helped elderly patients with rehabilitation." },
+            { category: "今週の練習 2026-05-18", jp: "マレーシアで運転する予定です", en: "I will drive in Malaysia.", exampleJp: "来年、マレーシアで運転する予定です。", exampleEn: "I will drive in Malaysia next year." },
+            { category: "今週の練習 2026-05-18", jp: "子供を学校に送るために車が必要です", en: "I need a car to take my children to school.", exampleJp: "マレーシアでは、子供を学校に送るために車が必要です。", exampleEn: "In Malaysia, I need a car to take my children to school." },
+            { category: "今週の練習 2026-05-18", jp: "普段は歩いて買い物に行きます", en: "I usually go shopping on foot.", exampleJp: "東京では普段、歩いて買い物に行きます。", exampleEn: "In Tokyo, I usually go shopping on foot." }
 
         ];
