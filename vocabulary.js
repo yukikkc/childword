@@ -4177,6 +4177,26 @@ const vocabulary =
             { category: "今週の練習 2026-05-18", jp: "高齢の患者さんのリハビリを手伝いました", en: "I helped elderly patients with rehabilitation.", exampleJp: "高齢の患者さんのリハビリを手伝いました。", exampleEn: "I helped elderly patients with rehabilitation." },
             { category: "今週の練習 2026-05-18", jp: "マレーシアで運転する予定です", en: "I will drive in Malaysia.", exampleJp: "来年、マレーシアで運転する予定です。", exampleEn: "I will drive in Malaysia next year." },
             { category: "今週の練習 2026-05-18", jp: "子供を学校に送るために車が必要です", en: "I need a car to take my children to school.", exampleJp: "マレーシアでは、子供を学校に送るために車が必要です。", exampleEn: "In Malaysia, I need a car to take my children to school." },
-            { category: "今週の練習 2026-05-18", jp: "普段は歩いて買い物に行きます", en: "I usually go shopping on foot.", exampleJp: "東京では普段、歩いて買い物に行きます。", exampleEn: "In Tokyo, I usually go shopping on foot." }
+            { category: "今週の練習 2026-05-18", jp: "普段は歩いて買い物に行きます", en: "I usually go shopping on foot.", exampleJp: "東京では普段、歩いて買い物に行きます。", exampleEn: "In Tokyo, I usually go shopping on foot." },
+
+            // 今週の練習 2026-05-18: Lesson 09 追加（運転・交通・移住理由）
+            { category: "今週の練習 2026-05-18", jp: "娘は腹痛でした", en: "My daughter had a stomach ache.", exampleJp: "娘は腹痛だったので、幼稚園から帰ってきました。", exampleEn: "My daughter had a stomach ache, so she came home from kindergarten." },
+            { category: "今週の練習 2026-05-18", jp: "彼女は今よくなっています", en: "She is getting better now.", exampleJp: "彼女は家で休んでいて、今よくなっています。", exampleEn: "She is resting at home, and she is getting better now." },
+            { category: "今週の練習 2026-05-18", jp: "4月から運転の練習をしています", en: "I have been practicing driving since April.", exampleJp: "マレーシアに行く前に、4月から運転の練習をしています。", exampleEn: "I have been practicing driving since April before moving to Malaysia." },
+            { category: "今週の練習 2026-05-18", jp: "運転するたびに緊張します", en: "I feel nervous every time I drive.", exampleJp: "まだ運転に慣れていないので、運転するたびに緊張します。", exampleEn: "I am not used to driving yet, so I feel nervous every time I drive." },
+            { category: "今週の練習 2026-05-18", jp: "その車はスピードを出しすぎています", en: "The car is going too fast.", exampleJp: "その車はスピードを出しすぎていて危ないです。", exampleEn: "The car is going too fast, and it is dangerous." },
+            { category: "今週の練習 2026-05-18", jp: "スピードを出しすぎると事故を起こすことがあります", en: "Driving too fast can cause an accident.", exampleJp: "スピードを出しすぎると、他の車との事故を起こすことがあります。", exampleEn: "Driving too fast can cause an accident with another car." },
+            { category: "今週の練習 2026-05-18", jp: "事故に遭うことがあります", en: "You can get into an accident.", exampleJp: "スピードを出しすぎると、事故に遭うことがあります。", exampleEn: "If you drive too fast, you can get into an accident." },
+            { category: "今週の練習 2026-05-18", jp: "東京の道は分かりにくいです", en: "Tokyo streets are confusing.", exampleJp: "東京の道は狭くて分かりにくいです。", exampleEn: "Tokyo streets are narrow and confusing." },
+            { category: "今週の練習 2026-05-18", jp: "制限速度を守るようにしています", en: "I try to follow the speed limit.", exampleJp: "運転するときは、制限速度を守るようにしています。", exampleEn: "When I drive, I try to follow the speed limit." },
+            { category: "今週の練習 2026-05-18", jp: "速度を保つようにしています", en: "I try to maintain the speed.", exampleJp: "遅すぎるのもよくないので、速度を保つようにしています。", exampleEn: "Driving too slowly is not good either, so I try to maintain the speed." },
+            { category: "今週の練習 2026-05-18", jp: "車線を変更します", en: "I change lanes.", exampleJp: "前の車がとても遅いときは、車線を変更します。", exampleEn: "When the car in front of me is very slow, I change lanes." },
+            { category: "今週の練習 2026-05-18", jp: "遅い車を追い越します", en: "I pass a slow car.", exampleJp: "安全なときだけ、遅い車を追い越します。", exampleEn: "I pass a slow car only when it is safe." },
+            { category: "今週の練習 2026-05-18", jp: "子供の教育のためにマレーシアへ引っ越します", en: "We are moving to Malaysia for our children's education.", exampleJp: "私たちは子供の教育のためにマレーシアへ引っ越します。", exampleEn: "We are moving to Malaysia for our children's education." },
+            { category: "今週の練習 2026-05-18", jp: "マレーシアは日本に近いです", en: "Malaysia is close to Japan.", exampleJp: "マレーシアは日本に近いので、行き来しやすいです。", exampleEn: "Malaysia is close to Japan, so it is easy to travel back and forth." },
+            { category: "今週の練習 2026-05-18", jp: "教育は費用対効果が高いです", en: "Education is good value for money.", exampleJp: "マレーシアの教育は費用対効果が高いと思います。", exampleEn: "I think education in Malaysia is good value for money." },
+            { category: "今週の練習 2026-05-18", jp: "夫はリモートで働いています", en: "My husband works remotely.", exampleJp: "夫はリモートで働いているので、マレーシアでも働けます。", exampleEn: "My husband works remotely, so he can work in Malaysia." },
+            { category: "今週の練習 2026-05-18", jp: "私もオンラインで働けます", en: "I can also work online.", exampleJp: "私はウェブ制作をしているので、私もオンラインで働けます。", exampleEn: "I do web development, so I can also work online." },
+            { category: "今週の練習 2026-05-18", jp: "マレーシアでは運転する必要があります", en: "I will need to drive in Malaysia.", exampleJp: "マレーシアでは、学校や買い物に行くために運転する必要があります。", exampleEn: "In Malaysia, I will need to drive to go to school and go shopping." }
 
         ];
