@@ -4199,6 +4199,25 @@ const vocabulary =
             { category: "今週の練習 2026-05-18", jp: "私もオンラインで働けます", en: "I can also work online.", exampleJp: "私はウェブ制作をしているので、私もオンラインで働けます。", exampleEn: "I do web development, so I can also work online." },
             { category: "今週の練習 2026-05-18", jp: "マレーシアでは運転する必要があります", en: "I will need to drive in Malaysia.", exampleJp: "マレーシアでは、学校や買い物に行くために運転する必要があります。", exampleEn: "In Malaysia, I will need to drive to go to school and go shopping." },
 
+            // 今週の練習 2026-05-22: Lesson 11 対策（嘘と信頼・文法修正）
+            { category: "今週の練習 2026-05-22", jp: "同意しますか？", en: "Do you agree?", exampleJp: "私の意見に同意しますか？", exampleEn: "Do you agree with me?" },
+            { category: "今週の練習 2026-05-22", jp: "同意します", en: "I agree with you.", exampleJp: "あなたの意見に同意します。", exampleEn: "I agree with you." },
+            { category: "今週の練習 2026-05-22", jp: "同意しません", en: "I don't agree.", exampleJp: "それには同意しません。", exampleEn: "I don't agree with that." },
+            { category: "今週の練習 2026-05-22", jp: "窓を割りませんでした", en: "He didn't break the window.", exampleJp: "彼は先生に窓を割っていないと言いました。", exampleEn: "He told his teacher that he didn't break the window." },
+            { category: "今週の練習 2026-05-22", jp: "先生に疑われました", en: "He was suspected by the teacher.", exampleJp: "友達が先生に疑われました。", exampleEn: "His friend was suspected by the teacher." },
+            { category: "今週の練習 2026-05-22", jp: "窓を割ったことを疑われました", en: "He was suspected of breaking the window.", exampleJp: "友達が窓を割ったことを疑われました。", exampleEn: "His friend was suspected of breaking the window." },
+            { category: "今週の練習 2026-05-22", jp: "先生に怒られました", en: "He was scolded by the teacher.", exampleJp: "正直に言わなかったので先生に怒られました。", exampleEn: "He was scolded by the teacher for not being honest." },
+            { category: "今週の練習 2026-05-22", jp: "白い嘘をつきます", en: "I tell white lies.", exampleJp: "誰かを傷つけたくないので白い嘘をつくことがあります。", exampleEn: "I sometimes tell white lies because I don't want to hurt someone." },
+            { category: "今週の練習 2026-05-22", jp: "誰かの気持ちを傷つけたくないです", en: "I don't want to hurt someone's feelings.", exampleJp: "正直に言うと気持ちを傷つけることがあります。", exampleEn: "Being honest can sometimes hurt someone's feelings." },
+            { category: "今週の練習 2026-05-22", jp: "嘘は常に悪いわけではないと思います", en: "I don't think lying is always bad.", exampleJp: "状況によっては、嘘は常に悪いわけではないと思います。", exampleEn: "I don't think lying is always bad, depending on the situation." },
+            { category: "今週の練習 2026-05-22", jp: "不安です", en: "I feel anxious.", exampleJp: "新しい環境に入るとき少し不安です。", exampleEn: "I feel a little anxious when entering a new environment." },
+            { category: "今週の練習 2026-05-22", jp: "安心しました", en: "I feel relieved.", exampleJp: "娘がよくなって安心しました。", exampleEn: "I feel relieved because my daughter is getting better." },
+            { category: "今週の練習 2026-05-22", jp: "信頼を失いました", en: "I lost trust in someone.", exampleJp: "嘘をつかれると信頼を失います。", exampleEn: "When someone lies to me, I lose trust in them." },
+            { category: "今週の練習 2026-05-22", jp: "あなたを信頼しています", en: "I trust you.", exampleJp: "いつも正直に話してくれるので、あなたを信頼しています。", exampleEn: "I trust you because you are always honest with me." },
+            { category: "今週の練習 2026-05-22", jp: "話してくれてありがとう", en: "Thank you for sharing.", exampleJp: "大変な話を聞かせてくれてありがとう。", exampleEn: "Thank you for sharing that with me." },
+            { category: "今週の練習 2026-05-22", jp: "それは辛かったですね", en: "That must have been hard.", exampleJp: "一人で抱えていたのは辛かったですね。", exampleEn: "That must have been hard to deal with alone." },
+            { category: "今週の練習 2026-05-22", jp: "そんなことがあったんですね", en: "I'm sorry to hear that.", exampleJp: "そんなことがあったんですね。大変でしたね。", exampleEn: "I'm sorry to hear that. That sounds really difficult." },
+
             // 頻出動詞: get
             { category: "頻出動詞", jp: "準備します", en: "I get ready.", exampleJp: "朝は子供たちの準備をします。", exampleEn: "I get ready with my children in the morning." },
             { category: "頻出動詞", jp: "疲れます", en: "I get tired.", exampleJp: "長い一日の後は疲れます。", exampleEn: "I get tired after a long day." },
