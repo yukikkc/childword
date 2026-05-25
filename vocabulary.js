@@ -4218,6 +4218,23 @@ const vocabulary =
             { category: "今週の練習 2026-05-22", jp: "それは辛かったですね", en: "That must have been hard.", exampleJp: "一人で抱えていたのは辛かったですね。", exampleEn: "That must have been hard to deal with alone." },
             { category: "今週の練習 2026-05-22", jp: "そんなことがあったんですね", en: "I'm sorry to hear that.", exampleJp: "そんなことがあったんですね。大変でしたね。", exampleEn: "I'm sorry to hear that. That sounds really difficult." },
 
+            // 今週の練習 2026-05-25: Lesson 12 対策（育て方・raise vs grow up）
+            { category: "今週の練習 2026-05-25", jp: "両親は私を広島で育ててくれました", en: "My parents raised me in Hiroshima.", exampleJp: "両親は私を広島で育ててくれました。", exampleEn: "My parents raised me in Hiroshima." },
+            { category: "今週の練習 2026-05-25", jp: "3人の子供を育てるのは大変でした", en: "It was hard to raise three children.", exampleJp: "両親にとって3人の子供を育てるのは大変でした。", exampleEn: "It was hard for my parents to raise three children." },
+            { category: "今週の練習 2026-05-25", jp: "自立した子供に育てたいです", en: "I want to bring up my children to be independent.", exampleJp: "過干渉にならず、自立した子供に育てたいです。", exampleEn: "I want to bring up my children to be independent, not over-parent them." },
+            { category: "今週の練習 2026-05-25", jp: "私は広島で育ちました", en: "I grew up in Hiroshima.", exampleJp: "私は広島で育ちましたが、今は東京に住んでいます。", exampleEn: "I grew up in Hiroshima, but now I live in Tokyo." },
+            { category: "今週の練習 2026-05-25", jp: "子供たちは早く大きくなっています", en: "My children are growing up fast.", exampleJp: "子供たちはあっという間に大きくなっています。", exampleEn: "My children are growing up so fast." },
+            { category: "今週の練習 2026-05-25", jp: "私は結婚しています", en: "I'm married.", exampleJp: "私は結婚していて、3人の子供がいます。", exampleEn: "I'm married and I have three children." },
+            { category: "今週の練習 2026-05-25", jp: "母は私のことをとても寂しがりました", en: "My mother missed me a lot.", exampleJp: "東京に引っ越したとき、母は私のことをとても寂しがりました。", exampleEn: "When I moved to Tokyo, my mother missed me a lot." },
+            { category: "今週の練習 2026-05-25", jp: "過干渉にしたくないです", en: "I don't want to over-parent my children.", exampleJp: "子供の人生は子供のものなので、過干渉にしたくないです。", exampleEn: "It's their life, so I don't want to over-parent my children." },
+            { category: "今週の練習 2026-05-25", jp: "子供の決断を尊重したいです", en: "I want to respect my children's decisions.", exampleJp: "子供には自分の夢があるので、決断を尊重したいです。", exampleEn: "Children have their own dreams, so I want to respect their decisions." },
+            { category: "今週の練習 2026-05-25", jp: "子供に口うるさく言います", en: "I nag my children.", exampleJp: "宿題をするように子供に口うるさく言います。", exampleEn: "I nag my children to do their homework." },
+            { category: "今週の練習 2026-05-25", jp: "落ち込んでいるとき元気づけてくれました", en: "They cheered me up when I was sad.", exampleJp: "悲しいとき、両親はいつも元気づけてくれました。", exampleEn: "My parents always cheered me up when I was sad." },
+            { category: "今週の練習 2026-05-25", jp: "両親はとても支えてくれました", en: "My parents were very supportive.", exampleJp: "塾やバレエなど、両親はとても支えてくれました。", exampleEn: "My parents were very supportive with cram school and ballet." },
+            { category: "今週の練習 2026-05-25", jp: "子供にプレッシャーをかけたくないです", en: "I don't want to put pressure on my children.", exampleJp: "夢は子供自身が決めるべきなので、プレッシャーをかけたくないです。", exampleEn: "I don't want to put pressure on my children to follow my dreams." },
+            { category: "今週の練習 2026-05-25", jp: "子供を手放すことが難しいです", en: "It's hard to let go of your children.", exampleJp: "親にとって、子供が大人になっても手放すことが難しいです。", exampleEn: "It's hard for parents to let go of their children, even when they grow up." },
+            { category: "今週の練習 2026-05-25", jp: "塾に通っていました", en: "I went to cram school.", exampleJp: "いい学校に入るために塾に通っていました。", exampleEn: "I went to cram school to get into a good school." },
+
             // 頻出動詞: get
             { category: "頻出動詞", jp: "準備します", en: "I get ready.", exampleJp: "朝は子供たちの準備をします。", exampleEn: "I get ready with my children in the morning." },
             { category: "頻出動詞", jp: "疲れます", en: "I get tired.", exampleJp: "長い一日の後は疲れます。", exampleEn: "I get tired after a long day." },
