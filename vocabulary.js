@@ -4255,6 +4255,46 @@ const vocabulary =
             { category: "今週の練習 2026-05-25", jp: "お金を稼ぐには努力が必要です", en: "We need to work hard to make money.", exampleJp: "お金は簡単に使えますが、稼ぐには努力が必要です。", exampleEn: "Money is easy to spend, but we need to work hard to make money." },
             { category: "今週の練習 2026-05-25", jp: "今はフリーランスです", en: "I'm a freelancer now.", exampleJp: "PT を辞めて、今はフリーランスのウェブデザイナーです。", exampleEn: "I quit being a PT, and I'm a freelancer now." },
             { category: "今週の練習 2026-05-25", jp: "在宅で仕事しています", en: "I work from home.", exampleJp: "フリーランスなので在宅で仕事しています。", exampleEn: "Since I'm a freelancer, I work from home." },
+
+            // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
+            // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
+
+            // 反射練習: 三単現のs（最重要・全レッスンで出続けているエラー）
+            { category: "反射練習", jp: "息子は幼稚園に行きます", en: "My son goes to kindergarten.", exampleJp: "息子は今年から幼稚園に行きます。", exampleEn: "My son goes to kindergarten this year." },
+            { category: "反射練習", jp: "娘は3時に帰ってきます", en: "She comes home at 3.", exampleJp: "娘は毎日3時に帰ってきます。", exampleEn: "She comes home at 3 every day." },
+            { category: "反射練習", jp: "先生は週1回来ます", en: "The teacher comes once a week.", exampleJp: "英語の先生は週1回来ます。", exampleEn: "The English teacher comes once a week." },
+            { category: "反射練習", jp: "夫はリモートで働いています", en: "My husband works remotely.", exampleJp: "夫はリモートで働いているので、マレーシアでも仕事できます。", exampleEn: "My husband works remotely, so he can work in Malaysia too." },
+            { category: "反射練習", jp: "彼は知りたがりません", en: "He doesn't want to know.", exampleJp: "彼は余計なことを知りたがりません。", exampleEn: "He doesn't want to know unnecessary things." },
+            { category: "反射練習", jp: "彼女はバスで学校に行きます", en: "She goes to school by bus.", exampleJp: "娘はスクールバスで学校に行きます。", exampleEn: "My daughter goes to school by bus." },
+            { category: "反射練習", jp: "それは状況によります", en: "It depends on the situation.", exampleJp: "いつも正直に言うべきか、それは状況によります。", exampleEn: "Whether to be honest depends on the situation." },
+            { category: "反射練習", jp: "彼はお金を節約しません", en: "He doesn't save money.", exampleJp: "彼は稼いだお金を節約しません。", exampleEn: "He doesn't save the money he earns." },
+            { category: "反射練習", jp: "娘は英語を勉強しています", en: "My daughter studies English.", exampleJp: "娘は週1回英語を勉強しています。", exampleEn: "My daughter studies English once a week." },
+            { category: "反射練習", jp: "それは彼女を幸せにします", en: "It makes her happy.", exampleJp: "子供の笑顔がそれは彼女を幸せにします。", exampleEn: "Her children's smiles make her happy." },
+            { category: "反射練習", jp: "彼女は心配しています", en: "She worries about it.", exampleJp: "彼女は子供の学校のことを心配しています。", exampleEn: "She worries about her child's school." },
+            { category: "反射練習", jp: "先生が生徒の面倒を見ます", en: "The teacher takes care of the students.", exampleJp: "インターの先生が生徒の面倒を見ます。", exampleEn: "The international school teacher takes care of the students." },
+            { category: "反射練習", jp: "彼は何も知りません", en: "He doesn't know anything.", exampleJp: "彼はその件について何も知りません。", exampleEn: "He doesn't know anything about that." },
+            { category: "反射練習", jp: "娘はよく眠れません", en: "She can't sleep well.", exampleJp: "赤ちゃんがいるので娘はよく眠れません。", exampleEn: "She can't sleep well because of the baby." },
+            { category: "反射練習", jp: "それはうまくいきます", en: "It works.", exampleJp: "短い文で話すと、それはうまくいきます。", exampleEn: "When you speak in short sentences, it works." },
+
+            // 反射練習: I'm vs I have（日本語の「〜があります」直訳エラー）
+            { category: "反射練習", jp: "私は結婚しています", en: "I'm married.", exampleJp: "私は結婚していて、3人の子供がいます。", exampleEn: "I'm married and I have three children." },
+            { category: "反射練習", jp: "私は疲れています", en: "I'm tired.", exampleJp: "赤ちゃんのお世話で私は疲れています。", exampleEn: "I'm tired from taking care of the baby." },
+            { category: "反射練習", jp: "私は不安です", en: "I'm anxious.", exampleJp: "新しい環境に慣れるまで私は不安です。", exampleEn: "I'm anxious until I get used to the new environment." },
+            { category: "反射練習", jp: "私は忙しいです", en: "I'm busy.", exampleJp: "今朝は子供の幼稚園があって私は忙しいです。", exampleEn: "I'm busy this morning because of kindergarten." },
+            { category: "反射練習", jp: "3人の子供がいます", en: "I have three children.", exampleJp: "私には3人の子供がいます。5歳、3歳、0歳です。", exampleEn: "I have three children. They are five, three, and zero." },
+            { category: "反射練習", jp: "十分あります", en: "I have enough.", exampleJp: "家と食べ物があれば十分あります。", exampleEn: "If I have a house and food, I have enough." },
+            { category: "反射練習", jp: "経験があります", en: "I have experience.", exampleJp: "理学療法士としての経験があります。", exampleEn: "I have experience as a physical therapist." },
+            { category: "反射練習", jp: "運転免許を持っています", en: "I have a driver's license.", exampleJp: "日本の運転免許を持っています。", exampleEn: "I have a Japanese driver's license." },
+            { category: "反射練習", jp: "アイデアがありません", en: "I have no idea.", exampleJp: "どうすればいいか、アイデアがありません。", exampleEn: "I have no idea what to do." },
+            { category: "反射練習", jp: "まだ時間があります", en: "I have time.", exampleJp: "今日はまだ時間があります。", exampleEn: "I have time today." },
+
+            // 反射練習: マレーシア台本（毎回説明するので丸ごと暗記）
+            { category: "反射練習", jp: "なぜマレーシアへ移住するの？", en: "We are moving to Malaysia for our children's education.", exampleJp: "子供の教育のためにマレーシアへ移住します。", exampleEn: "We are moving to Malaysia for our children's education." },
+            { category: "反射練習", jp: "マレーシアを選んだ理由①", en: "Malaysia is close to Japan.", exampleJp: "マレーシアは日本に近く、行き来しやすいです。", exampleEn: "Malaysia is close to Japan, so it's easy to travel back." },
+            { category: "反射練習", jp: "マレーシアを選んだ理由②", en: "People are kind, and education is good value for money.", exampleJp: "人が親切で、教育の費用対効果も高いです。", exampleEn: "People are kind, and education is good value for money." },
+            { category: "反射練習", jp: "移住後の仕事はどうするの？", en: "My husband works remotely, and I work from home too.", exampleJp: "夫も私もリモートワークなので、移住後も仕事を続けられます。", exampleEn: "My husband works remotely, and I work from home too, so we can continue working after moving." },
+            { category: "反射練習", jp: "いつ移住するの？", en: "We are planning to move at the end of this year or early next year.", exampleJp: "今年末か来年初めに移住する予定です。", exampleEn: "We are planning to move at the end of this year or early next year." },
+
             // 頻出動詞: get
             { category: "頻出動詞", jp: "準備します", en: "I get ready.", exampleJp: "朝は子供たちの準備をします。", exampleEn: "I get ready with my children in the morning." },
             { category: "頻出動詞", jp: "疲れます", en: "I get tired.", exampleJp: "長い一日の後は疲れます。", exampleEn: "I get tired after a long day." },
