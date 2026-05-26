@@ -4067,13 +4067,6 @@ const vocabulary =
             { category: "簡単動詞", jp: "〜である・〜の状態だ", en: "be", exampleJp: "息子は今とても疲れています。", exampleEn: "My son is very tired now." },
 
             // 三人称単数（文法練習）
-            { category: "三人称単数", jp: "彼は〜したくない", en: "He doesn't want to", exampleJp: "彼は学校に行きたくないようです。", exampleEn: "He doesn't want to go to school." },
-            { category: "三人称単数", jp: "彼女は〜が必要だ", en: "She needs", exampleJp: "彼女はもっと時間が必要です。", exampleEn: "She needs more time." },
-            { category: "三人称単数", jp: "〜する人", en: "Someone who doesn't", exampleJp: "食べない人がいます。", exampleEn: "There's someone who doesn't eat." },
-            { category: "三人称単数", jp: "私の父は〜を持っている", en: "My father has", exampleJp: "私の父は車を持っています。", exampleEn: "My father has a car." },
-            { category: "三人称単数", jp: "先生は〜と言っている", en: "The teacher says", exampleJp: "先生は宿題が大事だと言っています。", exampleEn: "The teacher says homework is important." },
-            { category: "三人称単数", jp: "みんな〜を望んでいる", en: "Everyone wants", exampleJp: "みんな良い成績を望んでいます。", exampleEn: "Everyone wants good grades." },
-            { category: "三人称単数", jp: "誰も〜を知らない", en: "Nobody knows", exampleJp: "誰も答えを知らない。", exampleEn: "Nobody knows the answer." },
 
             // 学校単語
             { category: "学校単語", jp: "進捗", en: "progress", exampleJp: "息子の進捗について教えてください。", exampleEn: "Please tell me about my son's progress." },
@@ -4256,9 +4249,26 @@ const vocabulary =
             { category: "今週の練習 2026-05-25", jp: "今はフリーランスです", en: "I'm a freelancer now.", exampleJp: "PT を辞めて、今はフリーランスのウェブデザイナーです。", exampleEn: "I quit being a PT, and I'm a freelancer now." },
             { category: "今週の練習 2026-05-25", jp: "在宅で仕事しています", en: "I work from home.", exampleJp: "フリーランスなので在宅で仕事しています。", exampleEn: "Since I'm a freelancer, I work from home." },
 
-            // ===== 反射練習: I'm vs I have / マレーシア台本 =====
+            // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
+
+            // 反射練習: 三単現のs（最重要・全レッスンで出続けているエラー）
+            { category: "反射練習", jp: "息子は幼稚園に行きます", en: "My son goes to kindergarten.", exampleJp: "息子は今年から幼稚園に行きます。", exampleEn: "My son goes to kindergarten this year." },
+            { category: "反射練習", jp: "娘は3時に帰ってきます", en: "She comes home at 3.", exampleJp: "娘は毎日3時に帰ってきます。", exampleEn: "She comes home at 3 every day." },
+            { category: "反射練習", jp: "先生は週1回来ます", en: "The teacher comes once a week.", exampleJp: "英語の先生は週1回来ます。", exampleEn: "The English teacher comes once a week." },
+            { category: "反射練習", jp: "夫はリモートで働いています", en: "My husband works remotely.", exampleJp: "夫はリモートで働いているので、マレーシアでも仕事できます。", exampleEn: "My husband works remotely, so he can work in Malaysia too." },
+            { category: "反射練習", jp: "彼は知りたがりません", en: "He doesn't want to know.", exampleJp: "彼は余計なことを知りたがりません。", exampleEn: "He doesn't want to know unnecessary things." },
+            { category: "反射練習", jp: "彼女はバスで学校に行きます", en: "She goes to school by bus.", exampleJp: "娘はスクールバスで学校に行きます。", exampleEn: "My daughter goes to school by bus." },
+            { category: "反射練習", jp: "それは状況によります", en: "It depends on the situation.", exampleJp: "いつも正直に言うべきか、それは状況によります。", exampleEn: "Whether to be honest depends on the situation." },
+            { category: "反射練習", jp: "彼はお金を節約しません", en: "He doesn't save money.", exampleJp: "彼は稼いだお金を節約しません。", exampleEn: "He doesn't save the money he earns." },
+            { category: "反射練習", jp: "娘は英語を勉強しています", en: "My daughter studies English.", exampleJp: "娘は週1回英語を勉強しています。", exampleEn: "My daughter studies English once a week." },
+            { category: "反射練習", jp: "それは彼女を幸せにします", en: "It makes her happy.", exampleJp: "子供の笑顔がそれは彼女を幸せにします。", exampleEn: "Her children's smiles make her happy." },
+            { category: "反射練習", jp: "彼女は心配しています", en: "She worries about it.", exampleJp: "彼女は子供の学校のことを心配しています。", exampleEn: "She worries about her child's school." },
+            { category: "反射練習", jp: "先生が生徒の面倒を見ます", en: "The teacher takes care of the students.", exampleJp: "インターの先生が生徒の面倒を見ます。", exampleEn: "The international school teacher takes care of the students." },
+            { category: "反射練習", jp: "彼は何も知りません", en: "He doesn't know anything.", exampleJp: "彼はその件について何も知りません。", exampleEn: "He doesn't know anything about that." },
+            { category: "反射練習", jp: "娘はよく眠れません", en: "She can't sleep well.", exampleJp: "赤ちゃんがいるので娘はよく眠れません。", exampleEn: "She can't sleep well because of the baby." },
+            { category: "反射練習", jp: "それはうまくいきます", en: "It works.", exampleJp: "短い文で話すと、それはうまくいきます。", exampleEn: "When you speak in short sentences, it works." },
 
             // 反射練習: I'm vs I have（日本語の「〜があります」直訳エラー）
             { category: "反射練習", jp: "私は結婚しています", en: "I'm married.", exampleJp: "私は結婚していて、3人の子供がいます。", exampleEn: "I'm married and I have three children." },
