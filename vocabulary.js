@@ -4235,6 +4235,18 @@ const vocabulary =
             { category: "今週の練習 2026-05-25", jp: "子供を手放すことが難しいです", en: "It's hard to let go of your children.", exampleJp: "親にとって、子供が大人になっても手放すことが難しいです。", exampleEn: "It's hard for parents to let go of their children, even when they grow up." },
             { category: "今週の練習 2026-05-25", jp: "塾に通っていました", en: "I went to cram school.", exampleJp: "いい学校に入るために塾に通っていました。", exampleEn: "I went to cram school to get into a good school." },
 
+            // Lesson 13 追加 (2026-05-26): お金・幸福・フリーランス
+            { category: "今週の練習 2026-05-25", jp: "十分あります", en: "I have enough.", exampleJp: "家と服と食べ物があれば十分あります。", exampleEn: "I have a house, clothes, and food. I have enough." },
+            { category: "今週の練習 2026-05-25", jp: "私にはそれで十分です", en: "That's enough for me.", exampleJp: "雨に濡れずに眠れるだけで十分です。", exampleEn: "Being able to sleep without getting rained on. That's enough for me." },
+            { category: "今週の練習 2026-05-25", jp: "人間の欲望には限りがありません", en: "Human desire has no limit.", exampleJp: "お金があっても幸せとは限りません。人間の欲望には限りがありません。", exampleEn: "Having money doesn't mean you're happy. Human desire has no limit." },
+            { category: "今週の練習 2026-05-25", jp: "幸福の基準は自分で決めるべきです", en: "People should decide their own standards for happiness.", exampleJp: "幸福の基準は人それぞれ、自分で決めるべきです。", exampleEn: "People should decide their own standards for happiness." },
+            { category: "今週の練習 2026-05-25", jp: "2つの仕事を持つことを許されていませんでした", en: "I wasn't allowed to have two jobs.", exampleJp: "PTだったとき、2つの仕事を持つことを許されていませんでした。", exampleEn: "When I was a PT, I wasn't allowed to have two jobs." },
+            { category: "今週の練習 2026-05-25", jp: "会社が副業を許可しませんでした", en: "The company didn't allow me to have two jobs.", exampleJp: "以前の会社は副業を許可しませんでした。", exampleEn: "My previous company didn't allow me to have two jobs." },
+            { category: "今週の練習 2026-05-25", jp: "収入が増えました", en: "My income has increased.", exampleJp: "フリーランスになってから収入が増えました。", exampleEn: "Since becoming a freelancer, my income has increased." },
+            { category: "今週の練習 2026-05-25", jp: "PTだったときより稼いでいます", en: "I earn more than when I was a PT.", exampleJp: "今はPTだったときより稼いでいます。", exampleEn: "Now I earn more than when I was a PT." },
+            { category: "今週の練習 2026-05-25", jp: "早朝に仕事します", en: "I work early in the morning.", exampleJp: "子供たちが寝ている早朝に仕事します。", exampleEn: "I work early in the morning while my children are sleeping." },
+            { category: "今週の練習 2026-05-25", jp: "お金を使うのは簡単ですが稼ぐのは難しいです", en: "It's easy to spend money, but hard to earn it.", exampleJp: "お金を使うのは簡単ですが稼ぐのは難しいです。", exampleEn: "It's easy to spend money, but hard to earn it." },
+            { category: "今週の練習 2026-05-25", jp: "日本の学校はおやつを禁止しています", en: "Many Japanese schools don't allow students to bring snacks.", exampleJp: "日本の学校はおやつを禁止していることが多いです。", exampleEn: "Many Japanese schools don't allow students to bring snacks." },
             // 頻出動詞: get
             { category: "頻出動詞", jp: "準備します", en: "I get ready.", exampleJp: "朝は子供たちの準備をします。", exampleEn: "I get ready with my children in the morning." },
             { category: "頻出動詞", jp: "疲れます", en: "I get tired.", exampleJp: "長い一日の後は疲れます。", exampleEn: "I get tired after a long day." },
