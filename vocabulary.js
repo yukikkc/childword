@@ -4249,6 +4249,40 @@ const vocabulary =
             { category: "今週の練習 2026-05-25", jp: "今はフリーランスです", en: "I'm a freelancer now.", exampleJp: "PT を辞めて、今はフリーランスのウェブデザイナーです。", exampleEn: "I quit being a PT, and I'm a freelancer now." },
             { category: "今週の練習 2026-05-25", jp: "在宅で仕事しています", en: "I work from home.", exampleJp: "フリーランスなので在宅で仕事しています。", exampleEn: "Since I'm a freelancer, I work from home." },
 
+            // 今週の練習 2026-05-25: Lesson 14 対策（Pros and Cons / 比較・仮定）
+            { category: "今週の練習 2026-05-25", jp: "一方では、もっとお金を稼げます", en: "On the one hand, I can earn more money.", exampleJp: "一方では、もっとお金を稼げます。", exampleEn: "On the one hand, I can earn more money." },
+            { category: "今週の練習 2026-05-25", jp: "もう一方では、家族と過ごす時間が減ります", en: "On the other hand, I wouldn't have enough time with my family.", exampleJp: "もう一方では、家族と過ごす時間が減ります。", exampleEn: "On the other hand, I wouldn't have enough time with my family." },
+            { category: "今週の練習 2026-05-25", jp: "以前より忙しくなるかもしれません", en: "I might be busier than before.", exampleJp: "成功したら以前より忙しくなるかもしれません。", exampleEn: "If I'm successful, I might be busier than before." },
+            { category: "今週の練習 2026-05-25", jp: "たくさんの税金を払わなければならないでしょう", en: "I would have to pay a lot of tax.", exampleJp: "お金をたくさん持っていたら、たくさんの税金を払わなければならないでしょう。", exampleEn: "If I had a lot of money, I would have to pay a lot of tax." },
+            { category: "今週の練習 2026-05-25", jp: "パートナーを見つけるのに苦労しないでしょう", en: "I wouldn't have trouble finding a partner.", exampleJp: "きれいなら、パートナーを見つけるのに苦労しないでしょう。", exampleEn: "If I were gorgeous, I wouldn't have trouble finding a partner." },
+            { category: "今週の練習 2026-05-25", jp: "来年マレーシアに引っ越す予定です", en: "We are probably moving to Malaysia next year.", exampleJp: "来年マレーシアに引っ越す予定です。", exampleEn: "We are probably moving to Malaysia next year." },
+            { category: "今週の練習 2026-05-25", jp: "飛行機で1時間半かかります", en: "It takes one and a half hours by plane.", exampleJp: "広島から飛行機で1時間半かかります。", exampleEn: "It takes one and a half hours by plane from Hiroshima." },
+            { category: "今週の練習 2026-05-25", jp: "新幹線で4時間かかります", en: "It takes four hours by Shinkansen.", exampleJp: "広島まで新幹線で4時間かかります。", exampleEn: "It takes four hours by Shinkansen to Hiroshima." },
+            { category: "今週の練習 2026-05-25", jp: "1時間半", en: "One and a half hours.", exampleJp: "飛行機で1時間半です。", exampleEn: "One and a half hours by plane." },
+            { category: "今週の練習 2026-05-25", jp: "2歳半", en: "Two and a half years old.", exampleJp: "下の子は2歳半です。", exampleEn: "My youngest is two and a half years old." },
+            { category: "今週の練習 2026-05-25", jp: "30分", en: "Half an hour.", exampleJp: "食器洗い機のおかげで30分節約できます。", exampleEn: "The dishwasher saves me half an hour a day." },
+            { category: "今週の練習 2026-05-25", jp: "どこでも便利に行けます", en: "I can go anywhere conveniently.", exampleJp: "車があればどこでも便利に行けます。", exampleEn: "If I have a car, I can go anywhere conveniently." },
+            { category: "今週の練習 2026-05-25", jp: "混んだ場所でイライラします", en: "I'd be annoyed in a crowded place.", exampleJp: "大都市に住んでいると、混んだ場所でイライラします。", exampleEn: "Living in a big city, I'd be annoyed in a crowded place." },
+            { category: "今週の練習 2026-05-25", jp: "静かな場所に行くのが好きです", en: "I like going to quiet places.", exampleJp: "リラックスするために静かな場所に行くのが好きです。", exampleEn: "I like going to quiet places to relax." },
+            { category: "今週の練習 2026-05-25", jp: "いつでもどこでも何でも便利にできます", en: "I can do everything conveniently, anytime, anywhere.", exampleJp: "大都市に住めばいつでもどこでも何でも便利にできます。", exampleEn: "Living in a big city, I can do everything conveniently, anytime, anywhere." },
+
+            // 今週の練習 2026-05-25: Lesson 15 対策（Q&A / 社会トピック / 動名詞主語）
+            { category: "今週の練習 2026-05-25", jp: "娘を育てる方が費用がかかります", en: "Raising a daughter is more expensive.", exampleJp: "多くのイベントがあるので、娘を育てる方が費用がかかります。", exampleEn: "Raising a daughter is more expensive because there are many events." },
+            { category: "今週の練習 2026-05-25", jp: "子供を育てるのは簡単ではありません", en: "Raising a child is not easy.", exampleJp: "子供を育てるのは簡単ではありませんが、とてもやりがいがあります。", exampleEn: "Raising a child is not easy, but it is very rewarding." },
+            { category: "今週の練習 2026-05-25", jp: "英語を話すのは難しいですが、楽しいです", en: "Speaking English is difficult, but I enjoy it.", exampleJp: "英語を話すのは難しいですが、楽しいです。", exampleEn: "Speaking English is difficult, but I enjoy it." },
+            { category: "今週の練習 2026-05-25", jp: "テクノロジーが私たちに時間をくれます", en: "Technology gives us more time.", exampleJp: "食器洗い機などのテクノロジーが私たちに時間をくれます。", exampleEn: "Technology like dishwashers gives us more time." },
+            { category: "今週の練習 2026-05-25", jp: "50年前は多くのことが不便でした", en: "Many things were inconvenient fifty years ago.", exampleJp: "テクノロジーがなかったので、50年前は多くのことが不便でした。", exampleEn: "Many things were inconvenient fifty years ago because there was no technology." },
+            { category: "今週の練習 2026-05-25", jp: "50年前は食器洗い機がありませんでした", en: "There were no dishwashers fifty years ago.", exampleJp: "50年前は食器洗い機がありませんでした。", exampleEn: "There were no dishwashers fifty years ago." },
+            { category: "今週の練習 2026-05-25", jp: "社会に貢献することで人々は価値を感じます", en: "Contributing to society makes people feel valuable.", exampleJp: "社会に貢献することで人々は価値を感じます。", exampleEn: "Contributing to society makes people feel valuable." },
+            { category: "今週の練習 2026-05-25", jp: "働くことで自分の価値を感じる人もいます", en: "Some people feel their value from working.", exampleJp: "定年退職しても、働くことで自分の価値を感じる人もいます。", exampleEn: "Even after retirement, some people feel their value from working." },
+            { category: "今週の練習 2026-05-25", jp: "高齢者も働けるべきです", en: "Older people should be able to work.", exampleJp: "元気なら、高齢者も働けるべきです。", exampleEn: "If they are healthy, older people should be able to work." },
+            { category: "今週の練習 2026-05-25", jp: "年をとったらフィットネストレーナーになりたいです", en: "I want to be a fitness trainer when I'm older.", exampleJp: "健康のために、年をとったらフィットネストレーナーになりたいです。", exampleEn: "For my health, I want to be a fitness trainer when I'm older." },
+            { category: "今週の練習 2026-05-25", jp: "できれば70歳まで働きたいです", en: "I want to work until I'm seventy if I can.", exampleJp: "社会に貢献したいので、できれば70歳まで働きたいです。", exampleEn: "I want to work until I'm seventy if I can, because I want to contribute to society." },
+            { category: "今週の練習 2026-05-25", jp: "話してくれてありがとうございます", en: "Thank you for sharing.", exampleJp: "あなたの経験を話してくれてありがとうございます。", exampleEn: "Thank you for sharing your experience." },
+            { category: "今週の練習 2026-05-25", jp: "それは興味深い見方ですね", en: "That's an interesting perspective.", exampleJp: "それは興味深い見方ですね。私は考えたことがありませんでした。", exampleEn: "That's an interesting perspective. I hadn't thought of it that way." },
+            { category: "今週の練習 2026-05-25", jp: "私からも質問させてください", en: "I'd like to ask you a question too.", exampleJp: "先生、私からも質問させてください。", exampleEn: "Teacher, I'd like to ask you a question too." },
+            { category: "今週の練習 2026-05-25", jp: "80歳まで教え続けるつもりですか？", en: "Do you plan to keep working until you're eighty?", exampleJp: "80歳まで教え続けるつもりですか？", exampleEn: "Do you plan to keep working until you're eighty?" },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
