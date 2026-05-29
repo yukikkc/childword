@@ -4283,6 +4283,23 @@ const vocabulary =
             { category: "今週の練習 2026-05-25", jp: "私からも質問させてください", en: "I'd like to ask you a question too.", exampleJp: "先生、私からも質問させてください。", exampleEn: "Teacher, I'd like to ask you a question too." },
             { category: "今週の練習 2026-05-25", jp: "80歳まで教え続けるつもりですか？", en: "Do you plan to keep working until you're eighty?", exampleJp: "80歳まで教え続けるつもりですか？", exampleEn: "Do you plan to keep working until you're eighty?" },
 
+            // 今週の練習 2026-05-25: Lesson 16 対策（褒め言葉・親子の絆・play/praise/pray）
+            { category: "今週の練習 2026-05-25", jp: "子供たちと5分遊びました", en: "I played with my children for five minutes.", exampleJp: "忙しくても子供たちと5分遊びました。", exampleEn: "Even when I was busy, I played with my children for five minutes." },
+            { category: "今週の練習 2026-05-25", jp: "頑張ったことを褒めました", en: "I praised her for trying.", exampleJp: "テストに失敗しても、頑張ったことを褒めました。", exampleEn: "Even though she failed, I praised her for trying." },
+            { category: "今週の練習 2026-05-25", jp: "一生懸命頑張った息子を褒めました", en: "I praised my son for working hard.", exampleJp: "結果よりも過程を大切にして、一生懸命頑張った息子を褒めました。", exampleEn: "I valued the process over the result and praised my son for working hard." },
+            { category: "今週の練習 2026-05-25", jp: "テストを受けようとしました", en: "She tried to take the test.", exampleJp: "娘はテストを受けようとしました。", exampleEn: "My daughter tried to take the test." },
+            { category: "今週の練習 2026-05-25", jp: "全部失敗しましたが、頑張りを褒めました", en: "She failed all of them, but I praised her for trying.", exampleJp: "全部失敗しましたが、挑戦したことを褒めました。", exampleEn: "She failed all of them, but I praised her for trying." },
+            { category: "今週の練習 2026-05-25", jp: "子供に自立してほしいです", en: "I want my children to be independent.", exampleJp: "子供に自立してほしいので、過干渉にならないようにしています。", exampleEn: "I want my children to be independent, so I try not to over-parent them." },
+            { category: "今週の練習 2026-05-25", jp: "自分の人生を生きてほしいです", en: "I want them to live their own lives.", exampleJp: "子供には自分の人生を生きてほしいです。", exampleEn: "I want them to live their own lives." },
+            { category: "今週の練習 2026-05-25", jp: "育つにつれて少し寂しかったです", en: "When I grew up, I was a little lonely.", exampleJp: "両親が働いていたので、育つにつれて少し寂しかったです。", exampleEn: "My parents were working, so when I grew up, I was a little lonely." },
+            { category: "今週の練習 2026-05-25", jp: "悲しいけど、嬉しくもあります", en: "I feel sad, but I'm happy too.", exampleJp: "子供が独立したら悲しいけど、嬉しくもあります。", exampleEn: "If my children become independent, I feel sad, but I'm happy too." },
+            { category: "今週の練習 2026-05-25", jp: "忙しくても子供の時間を作ります", en: "I make time for my children, even when I'm busy.", exampleJp: "忙しくても子供のために時間を作ります。", exampleEn: "I make time for my children, even when I'm busy." },
+            { category: "今週の練習 2026-05-25", jp: "毎日5分確保しています", en: "I set aside five minutes for them every day.", exampleJp: "どんなに忙しくても毎日5分確保しています。", exampleEn: "No matter how busy I am, I set aside five minutes for them every day." },
+            { category: "今週の練習 2026-05-25", jp: "仕事や夕食作りで忙しいです", en: "I'm busy working or making dinner.", exampleJp: "夕方はいつも仕事や夕食作りで忙しいです。", exampleEn: "I'm always busy working or making dinner in the evening." },
+            { category: "今週の練習 2026-05-25", jp: "フリーランスなので時間を自分で調整できます", en: "Since I'm a freelancer, I can handle my time.", exampleJp: "フリーランスなので時間を自分で調整できます。", exampleEn: "Since I'm a freelancer, I can handle my time." },
+            { category: "今週の練習 2026-05-25", jp: "ちょっとした言葉が大きな違いを生みます", en: "Small words like \"That's great\" make a big difference.", exampleJp: "「すごいね」のようなちょっとした言葉が大きな違いを生みます。", exampleEn: "Small words like \"That's great\" make a big difference." },
+            { category: "今週の練習 2026-05-25", jp: "待たせる前に「すごいね」と言うと愛情が伝わります", en: "Saying \"That's great\" before asking a child to wait shows care and love.", exampleJp: "待たせる前に「すごいね」と言うと愛情が伝わります。", exampleEn: "Saying \"That's great\" before asking a child to wait shows care and love." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
