@@ -4346,6 +4346,30 @@ const vocabulary =
             { category: "今週の練習 2026-06-01", jp: "13と30の聞き分け（thirteen / thirty）", en: "thirteen or thirty?", exampleJp: "13ですか、30ですか？", exampleEn: "Is that thirteen or thirty?" },
             { category: "今週の練習 2026-06-01", jp: "予約は2時半です", en: "The appointment is at two thirty.", exampleJp: "予約は2時半です。", exampleEn: "The appointment is at two thirty." },
 
+            // ===== 感覚で掴む英語（コアイメージ）=====
+            // ※暗記でなく「ネイティブの感覚」で理解する永続セット。「レッスン復習」に移動しない。
+            // --- 前置詞のコアイメージ（1個ずつ覚えず、イメージを当てる） ---
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【at】感覚＝点（ピンポイントの時刻・地点）", en: "at seven o'clock / at the door", exampleJp: "ドアのところで7時に待ち合わせ＝どちらも「点」。", exampleEn: "Let's meet at the door at seven o'clock." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【on】感覚＝接触・くっついている", en: "on the table / on Monday / on the bus", exampleJp: "机にくっつく・曜日に乗る・バスに乗る、全部「接触」。", exampleEn: "The book is on the table." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【in】感覚＝中・囲まれた空間や期間", en: "in the room / in May / in 2026", exampleJp: "部屋の中・5月の中・2026年の中、全部「囲まれた中」。", exampleEn: "We are moving in December." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【to】感覚＝→到達点・向かう先", en: "go to school / give it to her", exampleJp: "矢印が刺さる先。学校へ、彼女へ。", exampleEn: "I give this book to her." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【for】感覚＝〜に向けて・〜のため・その期間", en: "a gift for you / for two hours", exampleJp: "気持ちや時間を「〜に向ける」。", exampleEn: "This is a gift for you." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【with】感覚＝一緒・持っている・〜を使って", en: "with my family / cut it with scissors", exampleJp: "家族と一緒・ハサミを使って、どちらも「ともに」。", exampleEn: "I live with my family." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【as】感覚＝イコール・〜として・役割", en: "as a mother / as you know", exampleJp: "「私＝母」の役割。as = イコール。", exampleEn: "As a mother, I understand." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【of】感覚＝〜の一部・つながり", en: "a cup of tea / the end of the year", exampleJp: "全体の一部を取り出すつながり。", exampleEn: "We are moving at the end of the year." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【by】感覚＝すぐそば・手段・期限", en: "by the window / by bus / by Friday", exampleJp: "窓のそば・バスで・金曜までに、全部「近く・経由」。", exampleEn: "I go to work by bus." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【from】感覚＝起点（〜から）", en: "from Japan / from nine to five", exampleJp: "スタート地点。日本から、9時から。", exampleEn: "I am from Japan." },
+
+            // --- 冠詞のコアイメージ（ルールでなく「相手の頭にある？」で判断） ---
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【a / an】感覚＝まだ相手の頭に無い「初めての1個」", en: "I saw a dog.", exampleJp: "相手がまだ知らない＝初めて出すから a。", exampleEn: "I saw a dog in the park." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【the】感覚＝もうある「あれね」と指せる特定の1個", en: "The dog was cute.", exampleJp: "さっき出した犬＝お互い分かる＝the。", exampleEn: "The dog was very cute." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【無冠詞】感覚＝モノでなく概念・種類そのもの", en: "I like dogs. / I drink coffee.", exampleJp: "特定の1匹でなく「犬という種類」全般。", exampleEn: "I like dogs and I drink coffee every morning." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【冠詞の判断】「相手の頭にもうある？」の1問だけ", en: "already known = the / new = a / concept = (none)", exampleJp: "ある→the、初めて→a、概念→無冠詞。これだけ。", exampleEn: "I'm a freelancer. The freelancer (=that one) works hard." },
+
+            // --- 組み立て・伝え方の感覚（背伸びして崩れる癖への処方） ---
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【組み立て】まず言い切る→後から足す", en: "My family is moving. ...to Malaysia. ...at the end of the year.", exampleJp: "完璧な長文を狙わず、短く言い切ってから継ぎ足す。", exampleEn: "My family is moving to Malaysia at the end of the year." },
+            { category: "感覚で掴む英語（コアイメージ）", jp: "【伝え方】丁寧な命令は質問の形（Do you want to...? = やって）", en: "Do you want to...? = Please do it.", exampleJp: "選択を聞いてるのでなく柔らかい指示。Sure!で即行動。", exampleEn: "Do you want to read it? — Sure!" },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
