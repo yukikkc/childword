@@ -4319,6 +4319,33 @@ const vocabulary =
             { category: "今週の練習 2026-06-01", jp: "私は毎日仕事すべきです（walk/work注意）", en: "I should work every day.", exampleJp: "私は毎日働くべきです（walkではなくwork）。", exampleEn: "I should work every day." },
             { category: "今週の練習 2026-06-01", jp: "私は学校まで歩きます（walk/work注意）", en: "I walk to school.", exampleJp: "私は学校まで歩きます（workではなくwalk）。", exampleEn: "I walk to school." },
 
+            // 速い英語・電話リスニング対策（6/3追加）
+            // --- くっつく英語（連結音）：速いと聞こえないのは速度ではなくコレ ---
+            { category: "今週の練習 2026-06-01", jp: "【連結音】What do you = ワダヤ", en: "What do you want?", exampleJp: "「What do you」は速いと「ワダヤ」に聞こえる。", exampleEn: "What do you want? (sounds like 'whaddaya')" },
+            { category: "今週の練習 2026-06-01", jp: "【連結音】Do you want to = ジュワナ", en: "Do you want to come?", exampleJp: "「Do you want to」は速いと「ジュワナ」に聞こえる。", exampleEn: "Do you want to come? (sounds like 'd'ya wanna')" },
+            { category: "今週の練習 2026-06-01", jp: "【連結音】Did you = ディジャ", en: "Did you call them?", exampleJp: "「Did you」は速いと「ディジャ」に聞こえる。", exampleEn: "Did you call them? (sounds like 'didja')" },
+            { category: "今週の練習 2026-06-01", jp: "【連結音】Let me = レンミ", en: "Let me check.", exampleJp: "「Let me」は速いと「レンミ」に聞こえる。", exampleEn: "Let me check. (sounds like 'lemme')" },
+            { category: "今週の練習 2026-06-01", jp: "【連結音】Going to = ガナ", en: "I'm going to call you.", exampleJp: "「going to」は速いと「ガナ（gonna）」に聞こえる。", exampleEn: "I'm going to call you. (sounds like 'gonna')" },
+            { category: "今週の練習 2026-06-01", jp: "【連結音】I don't know = アイダノ", en: "I don't know.", exampleJp: "「I don't know」は速いと「アイダノ」に聞こえる。", exampleEn: "I don't know. (sounds like 'I dunno')" },
+
+            // --- 電話専用の確認フレーズ（見えない分、倍 確認してよい） ---
+            { category: "今週の練習 2026-06-01", jp: "電話が聞こえにくいので、もう一度お願いできますか", en: "Sorry, the line is a bit unclear. Could you repeat that?", exampleJp: "すみません、電話が少し聞こえにくくて。もう一度お願いできますか？", exampleEn: "Sorry, the line is a bit unclear. Could you repeat that?" },
+            { category: "今週の練習 2026-06-01", jp: "つづりを教えてもらえますか", en: "Could you spell that, please?", exampleJp: "お名前のつづりを教えてもらえますか？", exampleEn: "Could you spell that, please?" },
+            { category: "今週の練習 2026-06-01", jp: "復唱させてください。〜ということですね？", en: "Let me repeat that back to you. You said ___, right?", exampleJp: "確認のため復唱させてください。3時の予約ということですね？", exampleEn: "Let me repeat that back to you. You said three o'clock, right?" },
+            { category: "今週の練習 2026-06-01", jp: "もう少しゆっくり話してもらえますか", en: "Could you speak a little more slowly, please?", exampleJp: "すみません、もう少しゆっくり話してもらえますか？", exampleEn: "Could you speak a little more slowly, please?" },
+            { category: "今週の練習 2026-06-01", jp: "聞こえますか？", en: "Can you hear me?", exampleJp: "もしもし、聞こえますか？", exampleEn: "Hello, can you hear me?" },
+
+            // --- 電話の定型文（マレーシアで実際に使う：予約・問い合わせ） ---
+            { category: "今週の練習 2026-06-01", jp: "予約を取りたいのですが", en: "I'd like to make an appointment.", exampleJp: "子供の診察の予約を取りたいのですが。", exampleEn: "I'd like to make an appointment for my child." },
+            { category: "今週の練習 2026-06-01", jp: "子供のことで電話しています", en: "I'm calling about my child.", exampleJp: "息子のことで電話しています。", exampleEn: "I'm calling about my son." },
+            { category: "今週の練習 2026-06-01", jp: "予約は何時ですか？", en: "What time is the appointment?", exampleJp: "予約は何時になりますか？", exampleEn: "What time is the appointment?" },
+            { category: "今週の練習 2026-06-01", jp: "お名前を教えてもらえますか", en: "Could I have your name, please?", exampleJp: "確認のため、お名前を教えてもらえますか？", exampleEn: "Could I have your name, please?" },
+
+            // --- 数字の聞き分け（電話で致命的：予約時間・番号） ---
+            { category: "今週の練習 2026-06-01", jp: "15と50の聞き分け（fifteen / fifty）", en: "fifteen or fifty?", exampleJp: "15ですか、50ですか？（fifteenは後ろ、fiftyは前にアクセント）", exampleEn: "Is that fifteen or fifty?" },
+            { category: "今週の練習 2026-06-01", jp: "13と30の聞き分け（thirteen / thirty）", en: "thirteen or thirty?", exampleJp: "13ですか、30ですか？", exampleEn: "Is that thirteen or thirty?" },
+            { category: "今週の練習 2026-06-01", jp: "予約は2時半です", en: "The appointment is at two thirty.", exampleJp: "予約は2時半です。", exampleEn: "The appointment is at two thirty." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
