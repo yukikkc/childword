@@ -613,7 +613,7 @@
     </div>
 
     <!-- 5000語の語彙データを読み込み -->
-    <script src="vocabulary.js?260603c"></script>
+    <script src="vocabulary.js?260603d"></script>
 
     <script>
         // グローバル変数
@@ -795,11 +795,18 @@
             }
         }
         
+        // 長文型カード判定：カテゴリー名が ⭐ で始まるものは「例文だけ表示・読み上げ」
+        function isLongForm(word) {
+            return !!(word && typeof word.category === 'string' && word.category.charAt(0) === '⭐');
+        }
+
         // 現在の単語表示
         function displayCurrentWord() {
             try {
                 if (!filteredVocabulary || filteredVocabulary.length === 0) {
                     console.log('表示する語彙がありません');
+                    document.getElementById('wordJapanese').style.display = '';
+                    document.getElementById('wordEnglish').style.display = '';
                     document.getElementById('wordJapanese').textContent = isBookmarkMode ? 'ブックマークがありません' : '語彙がありません';
                     document.getElementById('wordEnglish').textContent = '';
                     document.getElementById('exampleJapanese').textContent = isBookmarkMode ? '⭐をタップして単語を保存してください' : '';
@@ -815,10 +822,23 @@
                     return;
                 }
 
-                document.getElementById('wordJapanese').textContent = word.jp || '';
-                document.getElementById('wordEnglish').textContent = word.en || '';
-                document.getElementById('exampleJapanese').textContent = word.exampleJp || '';
-                document.getElementById('exampleEnglish').textContent = word.exampleEn || '';
+                const wordJpEl = document.getElementById('wordJapanese');
+                const wordEnEl = document.getElementById('wordEnglish');
+                if (isLongForm(word)) {
+                    // 長文型：単語行は隠し、例文だけ表示
+                    wordJpEl.style.display = 'none';
+                    wordEnEl.style.display = 'none';
+                    document.getElementById('exampleJapanese').textContent = word.exampleJp || word.jp || '';
+                    document.getElementById('exampleEnglish').textContent = word.exampleEn || word.en || '';
+                } else {
+                    // 単語型：従来どおり単語＋例文
+                    wordJpEl.style.display = '';
+                    wordEnEl.style.display = '';
+                    wordJpEl.textContent = word.jp || '';
+                    wordEnEl.textContent = word.en || '';
+                    document.getElementById('exampleJapanese').textContent = word.exampleJp || '';
+                    document.getElementById('exampleEnglish').textContent = word.exampleEn || '';
+                }
                 document.getElementById('progress').textContent = `${currentIndex + 1} / ${filteredVocabulary.length}`;
                 document.getElementById('categoryTitle').textContent = word.category || '';
 
@@ -880,6 +900,27 @@
             const includeEnSentence = document.getElementById('includeEnSentence').checked;
             const readOrder = document.querySelector('input[name="readOrder"]:checked').value;
             const englishRepeat = parseInt(document.querySelector('input[name="englishRepeat"]:checked').value);
+
+            // 長文型：単語パートを飛ばし、例文だけで組み立てる（同じ長文を読む）
+            if (isLongForm(word)) {
+                const enS = { text: word.exampleEn || word.en, lang: 'en-US', rate: speechRate, delay: 700 };
+                const jpS = { text: word.exampleJp || word.jp, lang: 'ja-JP', rate: speechRate, delay: 500 };
+                const seq = [];
+                if (readOrder === 'en-jp') {
+                    if (includeEnSentence) seq.push({ ...enS });
+                    if (includeJpSentence) seq.push({ ...jpS });
+                    if (includeEnSentence && englishRepeat === 2) seq.push({ ...enS });
+                } else {
+                    if (includeJpSentence) seq.push({ ...jpS });
+                    if (includeEnSentence) seq.push({ ...enS });
+                    if (includeEnSentence && englishRepeat === 2) seq.push({ ...enS });
+                }
+                if (seq.length > 0) {
+                    seq[seq.length - 1].isLast = true;
+                    return seq;
+                }
+                return [{ text: word.exampleEn || word.en || word.jp, lang: 'en-US', rate: speechRate, isLast: true }];
+            }
 
             const sequence = [];
 

@@ -33,11 +33,13 @@ Important files:
 
 1. Edit `vocabulary.js`.
 2. Add new objects near the end of the array.
-3. For weekly lesson-derived cards, use the current weekly category unless Yuki asks otherwise:
+3. For weekly lesson-derived cards, use the current weekly category unless Yuki asks otherwise. **Lesson-derived categories MUST start with `⭐︎ ` (star U+2B50 + U+FE0E + space)** — the app treats any category beginning with `⭐` as a "long-form" card and shows/reads the **example sentence only** (exampleEn/exampleJp), skipping the word fields. Original word-bank categories stay unprefixed.
 
 ```js
-{ category: "今週の練習 2026-05-18", jp: "...", en: "...", exampleJp: "...", exampleEn: "..." }
+{ category: "⭐︎ 今週の練習 2026-05-18", jp: "...", en: "...", exampleJp: "...", exampleEn: "..." }
 ```
+
+The current long-form (⭐︎) categories are: `⭐︎ レッスン復習`, `⭐︎ 今週の練習 YYYY-MM-DD`, `⭐︎ 反射練習`, `⭐︎ 先生との会話`, `⭐︎ 言い換え表現`, `⭐︎ 逃げ道フレーズ`, `⭐︎ 主語固定フレーズ`, `⭐︎ 聞き返しフレーズ`, `⭐︎ 送り迎え`, `⭐︎ 修飾節マーカー`.
 
 4. Update cache/version references:
 
