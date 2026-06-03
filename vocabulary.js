@@ -4346,6 +4346,19 @@ const vocabulary =
             { category: "今週の練習 2026-06-01", jp: "13と30の聞き分け（thirteen / thirty）", en: "thirteen or thirty?", exampleJp: "13ですか、30ですか？", exampleEn: "Is that thirteen or thirty?" },
             { category: "今週の練習 2026-06-01", jp: "予約は2時半です", en: "The appointment is at two thirty.", exampleJp: "予約は2時半です。", exampleEn: "The appointment is at two thirty." },
 
+            // Lesson 19対策（6/3追加）：子供の紹介・中断フレーズ・paternity leave
+            { category: "今週の練習 2026-06-01", jp: "子供が3人います ― 5歳、3歳、それと赤ちゃん", en: "I have three kids — five, three, and a baby.", exampleJp: "子供が3人います。5歳、3歳、それと赤ちゃんです。", exampleEn: "I have three kids — five, three, and a baby." },
+            { category: "今週の練習 2026-06-01", jp: "赤ちゃんは生後7ヶ月です", en: "The baby is seven months old.", exampleJp: "一番下の赤ちゃんは生後7ヶ月です。", exampleEn: "The baby is seven months old." },
+            { category: "今週の練習 2026-06-01", jp: "今日は夫が子供たちを見てくれています", en: "My husband is taking care of them today.", exampleJp: "今日は夫が子供たちを見てくれています。", exampleEn: "My husband is taking care of them today." },
+            { category: "今週の練習 2026-06-01", jp: "台風で子供たちは休みです", en: "The kids have a day off because of the typhoon.", exampleJp: "台風で子供たちは今日学校がお休みです。", exampleEn: "The kids have a day off because of the typhoon." },
+            { category: "今週の練習 2026-06-01", jp: "すみません、少し止めてもいいですか？赤ちゃんが呼んでいて", en: "Sorry, can we pause for a moment? My baby needs me.", exampleJp: "すみません、少し止めてもいいですか？赤ちゃんが呼んでいて。", exampleEn: "Sorry, can we pause for a moment? My baby needs me." },
+            { category: "今週の練習 2026-06-01", jp: "鼻水が出ていて。すぐ戻ります", en: "He has a runny nose. I'll be right back.", exampleJp: "息子が鼻水が出ていて。すぐ戻ります。", exampleEn: "He has a runny nose. I'll be right back." },
+            { category: "今週の練習 2026-06-01", jp: "失礼しました。続けましょう", en: "Sorry about that. Let's continue.", exampleJp: "お待たせしてすみません。続けましょう。", exampleEn: "Sorry about that. Let's continue." },
+            { category: "今週の練習 2026-06-01", jp: "先に文を読んでもいいですか？", en: "Can I read the sentence first?", exampleJp: "答える前に、先に文を読んでもいいですか？", exampleEn: "Can I read the sentence first?" },
+            { category: "今週の練習 2026-06-01", jp: "maternity leave（母の育休）/ paternity leave（父の育休）", en: "maternity leave / paternity leave", exampleJp: "母親の育休はmaternity、父親の育休はpaternity。", exampleEn: "Mothers take maternity leave; fathers take paternity leave." },
+            { category: "今週の練習 2026-06-01", jp: "夫は育休中です", en: "My husband is on paternity leave.", exampleJp: "今、夫は育休中です。", exampleEn: "My husband is on paternity leave." },
+            { category: "今週の練習 2026-06-01", jp: "quizってどういう意味ですか？テストのようなもの？", en: "What does \"quiz\" mean? Is it like a test?", exampleJp: "quizってどういう意味ですか？テストのようなものですか？", exampleEn: "What does \"quiz\" mean? Is it like a test?" },
+
             // ===== 感覚で掴む英語（コアイメージ）=====
             // ※暗記でなく「ネイティブの感覚」で理解する永続セット。「レッスン復習」に移動しない。
             // --- 前置詞のコアイメージ（1個ずつ覚えず、イメージを当てる） ---
