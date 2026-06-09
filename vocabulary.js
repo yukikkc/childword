@@ -4374,6 +4374,19 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供に失敗する機会を与えるべきです", en: "We should give children a chance to fail.", exampleJp: "親は子供に失敗する機会を与えるべきです。", exampleEn: "We should give children a chance to fail." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "聞こえているので、続けても構いません", en: "I can hear you clearly, so I don't mind continuing.", exampleJp: "はっきり聞こえているので、続けても構いません。", exampleEn: "I can hear you clearly, so I don't mind continuing." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "苦い野菜を先に、甘い野菜は後に", en: "Bitter vegetables first, sweet vegetables later.", exampleJp: "離乳食では、苦い野菜を先に、甘い野菜は後に。", exampleEn: "For baby food, bitter vegetables first, sweet vegetables later." },
+            // --- Lesson 23（反抗期・友達親子 / rebellious phase の発音・句動詞・聞き返し）---
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "学生のとき、反抗期がありました", en: "When I was a student, I had a rebellious phase.", exampleJp: "学生のとき、私にも反抗期がありました。", exampleEn: "When I was a student, I had a rebellious phase." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "10代はよく反抗期を通ります", en: "Teenagers often go through a rebellious phase.", exampleJp: "10代の子はよく反抗期を通ります。", exampleEn: "Teenagers often go through a rebellious phase." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供は成長すると自立したがります", en: "When children grow up, they want to be independent.", exampleJp: "子供は成長すると、自立したがります。", exampleEn: "When children grow up, they want to be independent." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "親に口答えしてはいけません", en: "Don't talk back to your parents.", exampleJp: "親に口答えしてはいけません。", exampleEn: "Don't talk back to your parents." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "若いとき、外出を許されていましたか？", en: "Were you allowed to go out when you were young?", exampleJp: "若いとき、夜に外出するのを許されていましたか？", exampleEn: "Were you allowed to go out at night when you were young?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "親と子は考え方が違います", en: "Children and parents have different views.", exampleJp: "親孝行について、親と子は考え方が違います。", exampleEn: "Children and parents have different views on filial piety." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供には自分の意見を言ってほしいです", en: "I want my children to express their own opinions.", exampleJp: "子供には自分の意見をきちんと言ってほしいです。", exampleEn: "I want my children to express their own opinions." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "親を敬うべきです", en: "We should respect our parents.", exampleJp: "私たちは親を敬うべきです。", exampleEn: "We should respect our parents." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "もう一度お願いします", en: "One more, please.", exampleJp: "すみません、もう一度お願いします。", exampleEn: "One more, please." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "考えさせてください／ちょっと見せてください", en: "Let me think. Let me see.", exampleJp: "ちょっと考えさせてください。少し見せてください。", exampleEn: "Let me think. Let me see." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "もう一度言っていただけますか？", en: "Could you say that one more time?", exampleJp: "すみません、もう一度言っていただけますか？", exampleEn: "Could you say that one more time?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "〜ということですか？", en: "You mean ___?", exampleJp: "つまり、宿題を増やすということですか？", exampleEn: "You mean more homework?" },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
