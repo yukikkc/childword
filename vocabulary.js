@@ -4387,6 +4387,22 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "考えさせてください／ちょっと見せてください", en: "Let me think. Let me see.", exampleJp: "ちょっと考えさせてください。少し見せてください。", exampleEn: "Let me think. Let me see." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "もう一度言っていただけますか？", en: "Could you say that one more time?", exampleJp: "すみません、もう一度言っていただけますか？", exampleEn: "Could you say that one more time?" },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "〜ということですか？", en: "You mean ___?", exampleJp: "つまり、宿題を増やすということですか？", exampleEn: "You mean more homework?" },
+            // --- Lesson 24（学校給食・インター給食 / 移動動詞+to・when節の時制）---
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "来年、家族でマレーシアに引っ越します", en: "Our family is moving to Malaysia next year.", exampleJp: "来年、家族でマレーシアに引っ越します。", exampleEn: "Our family is moving to Malaysia next year." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供たちはインターナショナルスクールに通います", en: "My children go to international school.", exampleJp: "マレーシアでは、子供たちはインターナショナルスクールに通います。", exampleEn: "In Malaysia, my children go to international school." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "去年マレーシアに行きました", en: "We went to Malaysia last year.", exampleJp: "去年、家族でマレーシアに行きました。", exampleEn: "We went to Malaysia last year." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供が大きくなったら日本に戻ります", en: "When my children grow up, I will come back to Japan.", exampleJp: "子供が大きくなったら、日本に戻るつもりです。", exampleEn: "When my children grow up, I will come back to Japan." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "マレーシアに引っ越したら、子供はインターに通います", en: "When we move to Malaysia, my kids will go to international school.", exampleJp: "マレーシアに引っ越したら、子供たちはインターに通います。", exampleEn: "When we move to Malaysia, my kids will go to international school." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "毎朝、子供を学校へ送ります", en: "I take my kids to school every morning.", exampleJp: "毎朝、車で子供を学校へ送ります。", exampleEn: "I take my kids to school every morning by car." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "学校が給食を出します", en: "The school provides their meals.", exampleJp: "そのインターでは、学校が給食を出します。", exampleEn: "The school provides their meals." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "学校ではどんな食事が出ますか？", en: "What kind of food does the school serve?", exampleJp: "すみません、学校ではどんな食事が出ますか？", exampleEn: "What kind of food does the school serve?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "学校で昼食は出ますか？", en: "Does the school provide lunch?", exampleJp: "学校で昼食は出ますか、それとも持参ですか？", exampleEn: "Does the school provide lunch, or should we bring it?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "うちの子は食べられない野菜があります", en: "My child doesn't eat some vegetables.", exampleJp: "うちの子は食べられない野菜があります。", exampleEn: "My child doesn't eat some vegetables." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "メニューは専門の栄養士が作っています", en: "The menu is made by a professional nutritionist.", exampleJp: "給食のメニューは、専門の栄養士が作っています。", exampleEn: "The menu is made by a professional nutritionist." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "日本では給食は無料です", en: "School lunch is free in Japan.", exampleJp: "日本の小学校では、給食は無料です。", exampleEn: "School lunch is free in elementary schools in Japan." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "私は10時から4時までリモートで働いています", en: "I work remotely, from ten to four.", exampleJp: "私は10時から4時までリモートで働いています。", exampleEn: "I work remotely, from ten to four." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "フリーランスなので早朝も働きます", en: "I'm a freelancer, so I also work early in the morning.", exampleJp: "フリーランスなので、早朝も少し働きます。", exampleEn: "I'm a freelancer, so I also work early in the morning." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "あなたの国の食事について聞いてもいいですか？", en: "Could I ask you about food in your country?", exampleJp: "あなたの国の食事について聞いてもいいですか？", exampleEn: "Could I ask you about food in your country?" },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
