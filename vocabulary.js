@@ -4387,7 +4387,7 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "考えさせてください／ちょっと見せてください", en: "Let me think. Let me see.", exampleJp: "ちょっと考えさせてください。少し見せてください。", exampleEn: "Let me think. Let me see." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "もう一度言っていただけますか？", en: "Could you say that one more time?", exampleJp: "すみません、もう一度言っていただけますか？", exampleEn: "Could you say that one more time?" },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "〜ということですか？", en: "You mean ___?", exampleJp: "つまり、宿題を増やすということですか？", exampleEn: "You mean more homework?" },
-            // --- Lesson 24（学校給食・インター給食 / 移動動詞+to・when節の時制）---
+            // --- Lesson 25（学校給食・インター給食 / when節の時制・移動動詞+to）---
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "来年、家族でマレーシアに引っ越します", en: "Our family is moving to Malaysia next year.", exampleJp: "来年、家族でマレーシアに引っ越します。", exampleEn: "Our family is moving to Malaysia next year." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供たちはインターナショナルスクールに通います", en: "My children go to international school.", exampleJp: "マレーシアでは、子供たちはインターナショナルスクールに通います。", exampleEn: "In Malaysia, my children go to international school." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "去年マレーシアに行きました", en: "We went to Malaysia last year.", exampleJp: "去年、家族でマレーシアに行きました。", exampleEn: "We went to Malaysia last year." },
@@ -4403,6 +4403,20 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "私は10時から4時までリモートで働いています", en: "I work remotely, from ten to four.", exampleJp: "私は10時から4時までリモートで働いています。", exampleEn: "I work remotely, from ten to four." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "フリーランスなので早朝も働きます", en: "I'm a freelancer, so I also work early in the morning.", exampleJp: "フリーランスなので、早朝も少し働きます。", exampleEn: "I'm a freelancer, so I also work early in the morning." },
             { category: "⭐︎ 今週の練習 2026-06-08", jp: "あなたの国の食事について聞いてもいいですか？", en: "Could I ask you about food in your country?", exampleJp: "あなたの国の食事について聞いてもいいですか？", exampleEn: "Could I ask you about food in your country?" },
+            // --- Lesson 24（外国人生徒への支援 / walk-work・R/L・コミュニケーションカード）---
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "私は毎日家で働いています", en: "I work from home every day.", exampleJp: "私はフリーランスで、毎日家で働いています。", exampleEn: "I work from home every day." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供と一緒に歩いて学校へ行きます", en: "I walk to school with my kids.", exampleJp: "毎朝、子供と一緒に歩いて学校へ行きます。", exampleEn: "I walk to school with my kids every morning." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "今、働いています／今、歩いています", en: "I'm working now. I'm walking now.", exampleJp: "今は働いています。少し歩いています。", exampleEn: "I'm working now. I'm walking now." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "子供たちは海外で勉強します", en: "My children will study abroad.", exampleJp: "来年から、子供たちは海外で勉強します。", exampleEn: "My children will study abroad." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "海外から来た子がたくさんいます", en: "There are many kids from abroad.", exampleJp: "うちの子の幼稚園には、海外から来た子がたくさんいます。", exampleEn: "There are many kids from abroad at my child's kindergarten." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "お腹がすいた／眠い", en: "I'm hungry. I'm sleepy.", exampleJp: "お腹がすきました。眠いです。", exampleEn: "I'm hungry. I'm sleepy." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "トイレに行きたいです", en: "I want to go to the toilet.", exampleJp: "すみません、トイレに行きたいです。", exampleEn: "I want to go to the toilet." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "手伝ってもらえますか？", en: "Can you help me?", exampleJp: "すみません、手伝ってもらえますか？", exampleEn: "Can you help me?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "分かりません", en: "I don't understand.", exampleJp: "すみません、よく分かりません。", exampleEn: "Sorry, I don't understand." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "AとBの違いは何ですか？", en: "What is the difference between A and B?", exampleJp: "credential と qualification の違いは何ですか？", exampleEn: "What is the difference between credential and qualification?" },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "先生が本を1冊すすめてくれました", en: "She recommended a book for me.", exampleJp: "歴史の先生が本を1冊すすめてくれました。", exampleEn: "The history teacher recommended a book for me." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "昔より先生に相談しやすいです", en: "It's easier to approach teachers than before.", exampleJp: "今は昔より先生に相談しやすいです。", exampleEn: "It's easier to approach teachers than before." },
+            { category: "⭐︎ 今週の練習 2026-06-08", jp: "いつ英語を学びましたか？", en: "When did you learn English?", exampleJp: "先生はいつ英語を学びましたか？", exampleEn: "When did you learn English?" },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
