@@ -4267,6 +4267,20 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "私たちの家族は来年マレーシアへ引っ越します", en: "Our family is moving to Malaysia next year.", exampleJp: "私たちの家族は来年マレーシアへ引っ越します。", exampleEn: "Our family is moving to Malaysia next year." },
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供を持つことを心配しないで、と若い人たちに伝えたいです", en: "I want to tell young people not to worry about having children.", exampleJp: "子供を持つことを心配しないで、と若い人たちに伝えたいです。", exampleEn: "I want to tell young people not to worry about having children." },
 
+            // --- Lesson 31（努力より運／音読完成・副詞語順・at the end of 慢性）---
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "私は日本から来ました。東京に住んでいます", en: "I'm from Japan. I live in Tokyo.", exampleJp: "私は日本から来ました。東京に住んでいます。", exampleEn: "I'm from Japan. I live in Tokyo." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "今年末にマレーシアへ引っ越す予定です", en: "We are moving to Malaysia at the end of this year.", exampleJp: "今年末にマレーシアへ引っ越す予定です。", exampleEn: "We are moving to Malaysia at the end of this year." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "いつ運が来るか分かりません", en: "We don't know when luck comes.", exampleJp: "いつ運が来るか分かりません。", exampleEn: "We don't know when luck comes." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "運を期待していると、運は来ません", en: "If we expect luck, luck will not come.", exampleJp: "運を期待していると、運は来ません。", exampleEn: "If we expect luck, luck will not come." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "努力が必要です。一歩一歩", en: "We need effort. Step by step.", exampleJp: "努力が必要です。一歩一歩積み上げていくしかありません。", exampleEn: "We need effort. Step by step." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "学校は子供が新しいことに挑戦できる環境を整えるべきです", en: "Schools should prepare an environment for children to try new things.", exampleJp: "学校は子供が新しいことに挑戦できる環境を整えるべきだと思います。", exampleEn: "Schools should prepare an environment for children to try new things." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供は自分で試すことで失敗から学べます", en: "Children may learn from failure by themselves.", exampleJp: "子供は自分で何かを試すことで、失敗から学べます。", exampleEn: "Children may learn from failure by themselves when they try something." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "90年代は情報がとても少なかった", en: "In the 90s, we had very little information.", exampleJp: "90年代はインターネットがなく、情報がとても少なかった。", exampleEn: "In the 90s, we had very little information because the internet wasn't popular." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供たちに苦労を経験させたいです", en: "I want my children to experience hardship.", exampleJp: "マレーシアに移住して、子供たちに苦労を経験させたいです。", exampleEn: "I want my children to experience hardship when we move to Malaysia." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供たちは私より流暢に英語を話せるようになるでしょう", en: "They will be able to speak English more fluently than me.", exampleJp: "マレーシアで育てば、子供たちは私より流暢に英語を話せるようになるでしょう。", exampleEn: "If they grow up in Malaysia, they will be able to speak English more fluently than me." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "記事の一部には同意します", en: "I agree with part of the article.", exampleJp: "全部ではないですが、記事の一部には同意します。", exampleEn: "Not all of it, but I agree with part of the article." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "若者はほとんど新しいことに挑戦しません", en: "They hardly try new things.", exampleJp: "今の若者はほとんど新しいことに挑戦しません。", exampleEn: "Some young people hardly try new things." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
