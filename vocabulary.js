@@ -4281,6 +4281,29 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "記事の一部には同意します", en: "I agree with part of the article.", exampleJp: "全部ではないですが、記事の一部には同意します。", exampleEn: "Not all of it, but I agree with part of the article." },
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "若者はほとんど新しいことに挑戦しません", en: "They hardly try new things.", exampleJp: "今の若者はほとんど新しいことに挑戦しません。", exampleEn: "Some young people hardly try new things." },
 
+            // --- Lesson 33（出産・育児の自由会話 / paternity leave・a little noise・序数）---
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "バックグラウンドに少し音があります。ご理解ありがとうございます", en: "There is a little noise in the background. I appreciate your understanding.", exampleJp: "バックグラウンドに少し音があります。ご理解ありがとうございます。", exampleEn: "There is a little noise in the background. I appreciate your understanding." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "夫は1年間育休を取っています", en: "My husband takes paternity leave for one year.", exampleJp: "夫は1年間育休を取っています。", exampleEn: "My husband takes paternity leave for one year." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "7ヶ月です。8キロあります。大きい赤ちゃんです", en: "He is seven months old. He is eight kilograms. He is a big baby.", exampleJp: "7ヶ月です。8キロあります。大きい赤ちゃんです。", exampleEn: "He is seven months old. He is eight kilograms. He is a big baby." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "家の中で役割を分担しています", en: "We share the responsibilities at home.", exampleJp: "私と夫は家の中で役割を分担しています。", exampleEn: "My husband and I share the responsibilities at home." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "第一子は朝4時に生まれました", en: "My first baby was born at 4 a.m.", exampleJp: "第一子は朝4時に生まれました。", exampleEn: "My first baby was born at 4 a.m." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "赤ちゃんが生まれるまで夫は眠れませんでした", en: "My husband couldn't sleep until my baby was born.", exampleJp: "赤ちゃんが生まれるまで夫は眠れませんでした。", exampleEn: "My husband couldn't sleep until my baby was born." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "2人目の出産はずっと早く終わります", en: "Your second delivery will be much faster.", exampleJp: "2人目の出産はずっと早く終わりますよ。", exampleEn: "Don't worry. Your second delivery will be much faster." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "とても感情的な体験でした。圧倒されました", en: "It was an emotional experience. It was overwhelming.", exampleJp: "出産はとても感情的な体験でした。圧倒されました。", exampleEn: "Giving birth was an emotional experience. It was overwhelming." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "初めて赤ちゃんに会えて感動しました", en: "It was heartwarming to see the baby for the first time.", exampleJp: "初めて赤ちゃんに会えてとても感動しました。", exampleEn: "It was heartwarming to see the baby for the first time." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供が何人かいます／少し音があります（可算・不可算の対）", en: "There are a few children. There is a little noise.", exampleJp: "子供が何人かいます（数えられる）。少し音があります（数えられない）。", exampleEn: "There are a few children. There is a little noise. (a few = countable / a little = uncountable)" },
+
+            // --- Lesson 34（バッテリー安全・hard vs hardly・体験談）---
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "娘は飛行機の中で激しく泣きました", en: "My daughter cried hard on the plane.", exampleJp: "娘は眠れなくて飛行機の中で激しく泣きました。", exampleEn: "My daughter cried hard on the plane because she couldn't sleep." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "激しく泣いた vs ほとんど泣かなかった（hard/hardlyの違い）", en: "She cried hard. She hardly cried.", exampleJp: "激しく泣いた = She cried hard. ／ ほとんど泣かなかった = She hardly cried.", exampleEn: "She cried hard. (= a lot) vs She hardly cried. (= almost not at all)" },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "3人目の子はまだ生まれていませんでした", en: "My third child was not born then.", exampleJp: "マレーシアに行ったとき、3人目の子はまだ生まれていませんでした。", exampleEn: "When we went to Malaysia, my third child was not born then." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "バッテリーが膨らんでいたので怖かったです", en: "The battery was swollen, so I was scared.", exampleJp: "バッテリーが膨らんでいたので怖かったです。", exampleEn: "The battery was swollen, so I was scared." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "捨てることを許可されませんでした", en: "I was not allowed to throw it away.", exampleJp: "バッテリーはゴミとして捨てることを許可されませんでした。", exampleEn: "I was not allowed to throw the battery away as garbage." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "古いバッテリーはリサイクルショップに持っていく必要があります", en: "I need to bring old batteries to a recycling shop.", exampleJp: "私の地域では、古いバッテリーはリサイクルショップに持っていく必要があります。", exampleEn: "In my area, I need to bring old batteries to a recycling shop." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "電車でもし火事が起きても、すぐに降りられません", en: "I can't get off the train immediately if there's a fire.", exampleJp: "電車でもし火事が起きても、すぐに降りられません。", exampleEn: "I can't get off the train immediately if there's a fire." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "新幹線に乗るとき、誰が乗ってくるか確認します", en: "When I ride the Shinkansen, I check who comes in.", exampleJp: "新幹線に乗るとき、他の乗客が乗ってきたとき誰なのか確認するようにしています。", exampleEn: "When I ride the Shinkansen, I check who comes in." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "駅から駅へ移動しやすいので電車が好きです", en: "I like taking the train because it's easy to go from station to station.", exampleJp: "駅から駅へ移動しやすいので電車が好きです。", exampleEn: "I like taking the train because it's easy to go from station to station." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
