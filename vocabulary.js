@@ -4281,6 +4281,20 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "記事の一部には同意します", en: "I agree with part of the article.", exampleJp: "全部ではないですが、記事の一部には同意します。", exampleEn: "Not all of it, but I agree with part of the article." },
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "若者はほとんど新しいことに挑戦しません", en: "They hardly try new things.", exampleJp: "今の若者はほとんど新しいことに挑戦しません。", exampleEn: "Some young people hardly try new things." },
 
+            // --- Lesson 32（AI・キャリア転換・determine vs decide）---
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "私の家族は今年末にマレーシアへ引っ越します", en: "My family is moving to Malaysia at the end of this year.", exampleJp: "私の家族は今年末にマレーシアへ引っ越す予定です。", exampleEn: "My family is moving to Malaysia at the end of this year." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "娘は来年小学校に入学します", en: "She will start elementary school next year.", exampleJp: "娘は来年小学校に入学します。", exampleEn: "She will start elementary school next year." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "理学療法士のころは毎日職場に通っていました", en: "I went to the office every day when I was a physical therapist.", exampleJp: "理学療法士のころは毎日職場に通っていました。", exampleEn: "I went to the office every day when I was a physical therapist." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "第一子が生まれてからウェブ開発の勉強を始めました", en: "I started to study web development after I had my first child.", exampleJp: "第一子が生まれてから、ウェブ開発の勉強を始めました。", exampleEn: "I started to study web development after I had my first child." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "転職してフリーランスになりました", en: "I changed my career and became a freelancer.", exampleJp: "転職してフリーランスになりました。", exampleEn: "I changed my career and became a freelancer." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "仕事でChatGPTとClaudeを使っています", en: "I use ChatGPT and Claude Code for my work.", exampleJp: "仕事でChatGPTとClaude Codeを使っています。", exampleEn: "I use ChatGPT and Claude Code for my work." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "出力の質が違います", en: "The quality of the output is different.", exampleJp: "ツールによって出力の質が違います。", exampleEn: "The quality of the output is different depending on the tool." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "Claude Codeはより詳しい出力をします", en: "Claude Code gives more detailed output.", exampleJp: "Claude Codeはより詳しい出力をします。", exampleEn: "Claude Code gives more detailed output." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "AIツールは同時に多くのファイルを確認できます", en: "AI tools can check many files at the same time.", exampleJp: "AIツールは同時に多くのファイルを確認できます。とても速いです。", exampleEn: "AI tools can check many files at the same time. It is very fast." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "より複雑なプログラムを書くことができます", en: "They can code more complex programs.", exampleJp: "AIを使えば、より複雑なプログラムを書くことができます。", exampleEn: "With AI, they can code more complex programs." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "以前より多くの種類の仕事が受けられます", en: "I can get more types of jobs than before.", exampleJp: "AIのおかげで、以前より多くの種類の仕事が受けられます。", exampleEn: "Thanks to AI, I can get more types of jobs than before." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "determine＝突き止める／decide＝選択する（違い）", en: "Determine means to find out. Decide means to make a choice.", exampleJp: "determine は突き止める・確立する。decide は選択する、どちらにするか決める。", exampleEn: "Determine means to find out or establish something. Decide means to make a choice." },
+
             // --- Lesson 33（出産・育児の自由会話 / paternity leave・a little noise・序数）---
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "バックグラウンドに少し音があります。ご理解ありがとうございます", en: "There is a little noise in the background. I appreciate your understanding.", exampleJp: "バックグラウンドに少し音があります。ご理解ありがとうございます。", exampleEn: "There is a little noise in the background. I appreciate your understanding." },
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "夫は1年間育休を取っています", en: "My husband takes paternity leave for one year.", exampleJp: "夫は1年間育休を取っています。", exampleEn: "My husband takes paternity leave for one year." },
