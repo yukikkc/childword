@@ -4304,6 +4304,19 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "新幹線に乗るとき、誰が乗ってくるか確認します", en: "When I ride the Shinkansen, I check who comes in.", exampleJp: "新幹線に乗るとき、他の乗客が乗ってきたとき誰なのか確認するようにしています。", exampleEn: "When I ride the Shinkansen, I check who comes in." },
             { category: "⭐︎ 今週の練習 2026-06-22", jp: "駅から駅へ移動しやすいので電車が好きです", en: "I like taking the train because it's easy to go from station to station.", exampleJp: "駅から駅へ移動しやすいので電車が好きです。", exampleEn: "I like taking the train because it's easy to go from station to station." },
 
+            // --- Lesson 35（結婚観・独身時代・昔→今の対比 / make an effort / in contrast）---
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "31歳のときに結婚しました", en: "I got married when I was 31 years old.", exampleJp: "31歳のときに結婚しました。", exampleEn: "I got married when I was 31 years old." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "結婚前は子供が欲しいと思っていませんでした", en: "Before I got married, I didn't want to have children.", exampleJp: "結婚前は子供が欲しいと思っていませんでした。", exampleEn: "Before I got married, I didn't want to have children." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "一生懸命働いて、自分に集中したかったのです", en: "I wanted to work hard and focus on myself.", exampleJp: "当時は一生懸命働いて、自分に集中したかったのです。", exampleEn: "I wanted to work hard and focus on myself." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "旅行して、独身を楽しみたかったのです", en: "I wanted to travel and enjoy being single.", exampleJp: "旅行して、独身を楽しみたかったのです。", exampleEn: "I wanted to travel and enjoy being single." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "でも今は子供が3人いて、毎日とても幸せです", en: "But now I have three children and I'm very happy every day.", exampleJp: "でも今は子供が3人いて、毎日とても幸せです。", exampleEn: "But now I have three children and I'm very happy every day." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "パートナーがいるとエネルギーをもらえます", en: "With a partner, I can get more energy.", exampleJp: "パートナーがいると、より多くのエネルギーをもらえます。", exampleEn: "With a partner, I can get more energy." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "東京では高校まで授業料が無料です", en: "In Tokyo, tuition fees are free until high school.", exampleJp: "東京では今、高校まで授業料が無料です。", exampleEn: "In Tokyo, tuition fees are free until high school." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "子供が多い家庭は政府の補助を受けられます", en: "Parents with young children can get a government subsidy.", exampleJp: "子供が多い家庭は政府の補助を受けられます。", exampleEn: "Parents with young children can get a government subsidy." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "兄は結婚しようと努力していません", en: "He doesn't make an effort to get married.", exampleJp: "兄は結婚しようと特に努力していないようです。", exampleEn: "He doesn't make an effort to get married." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "まだ結婚したくない若者の気持ちは理解できます", en: "I can relate to young people who don't want to get married yet.", exampleJp: "まだ結婚したくないという若者の気持ちは理解できます。", exampleEn: "I can relate to young people who don't want to get married yet." },
+            { category: "⭐︎ 今週の練習 2026-06-22", jp: "対照的に、高収入の家庭では結婚率が上がりました", en: "In contrast, high-income families saw marriage rates grow.", exampleJp: "対照的に、高収入の家庭では結婚率が上がりました。", exampleEn: "In contrast, high-income families saw marriage rates grow." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
