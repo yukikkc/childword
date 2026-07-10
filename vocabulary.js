@@ -4420,6 +4420,28 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-06", jp: "YouTubeにはたくさんの情報があります", en: "There is a lot of information on YouTube.", exampleJp: "YouTubeにはたくさんの情報があります。", exampleEn: "There is a lot of information on YouTube." },
             { category: "⭐︎ 今週の練習 2026-07-06", jp: "全部は聞き取れませんでしたが、答えてみます", en: "I couldn't catch everything, but I'll try to answer.", exampleJp: "全部は聞き取れませんでしたが、答えてみます。", exampleEn: "I couldn't catch everything, but I'll try to answer." },
 
+            // Lesson 40（7/10）: 学生時代の回想（過去形・had to/couldn't）、助動詞エコー、ランドセル文化説明
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "高校生の頃、校則はとても厳しかったです", en: "When I was in high school, the school rules were very strict.", exampleJp: "高校生の頃、校則はとても厳しかったです。", exampleEn: "When I was in high school, the school rules were very strict." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "制服を着なければなりませんでした。靴下まで制服の一部でした", en: "We had to wear uniforms. Even our socks were part of the uniform.", exampleJp: "制服を着なければなりませんでした。靴下まで制服の一部でした。", exampleEn: "We had to wear uniforms. Even our socks were part of the uniform." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "学生だけで映画館に行くことはできませんでした", en: "Students couldn't go to the movies by themselves.", exampleJp: "学生だけで映画館に行くことはできませんでした。", exampleEn: "Students couldn't go to the movies by themselves." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "親と一緒に行かなければなりませんでした", en: "We had to go with our parents.", exampleJp: "親と一緒に行かなければなりませんでした。", exampleEn: "We had to go with our parents." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "週末には先生が映画館の周りを見回っていました", en: "Teachers patrolled around the movie theater on weekends.", exampleJp: "週末には先生が映画館の周りを見回っていました。", exampleEn: "Teachers patrolled around the movie theater on weekends." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "先生に見つかったら、翌日学校の掃除をしなければなりませんでした", en: "If a student was spotted by a teacher, they had to clean the school the next day.", exampleJp: "先生に見つかったら、翌日学校の掃除をしなければなりませんでした。", exampleEn: "If a student was spotted by a teacher, they had to clean the school the next day." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "大学では好きな服を着ることができました", en: "At university, we could wear anything we liked.", exampleJp: "大学では好きな服を着ることができました。", exampleEn: "At university, we could wear anything we liked." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "日本の子供はランドセルというカバンを使います", en: "Japanese children use a school bag called a randoseru.", exampleJp: "日本の子供はランドセルというカバンを使います。", exampleEn: "Japanese children use a school bag called a randoseru." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "親は小学校が始まる1年前にそれを買います", en: "Parents buy it a year before elementary school starts.", exampleJp: "親は小学校が始まる1年前にそれを買います。", exampleEn: "Parents buy it a year before elementary school starts." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "私は同じカバンを6年間使いました", en: "I used the same bag for six years.", exampleJp: "私は同じカバンを6年間使いました。", exampleEn: "I used the same bag for six years." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "それは日本の伝統で、とても便利です", en: "It's a Japanese tradition, and it's very convenient.", exampleJp: "それは日本の伝統で、とても便利です。", exampleEn: "It's a Japanese tradition, and it's very convenient." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "持っていましたか？— はい、持っていました", en: "Did you have one? — Yes, I did.", exampleJp: "持っていましたか？— はい、持っていました。", exampleEn: "Did you have one? — Yes, I did." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "そう感じたことはありますか？— いいえ、ありません", en: "Did you ever feel that? — No, I didn't.", exampleJp: "そう感じたことはありますか？— いいえ、ありません。", exampleEn: "Did you ever feel that? — No, I didn't." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "先生は私たちの声を聞いてくれましたが、校則を変えるのは難しかったです", en: "The teachers listened to us, but it was hard to change the school rules.", exampleJp: "先生は私たちの声を聞いてくれましたが、校則を変えるのは難しかったです。", exampleEn: "The teachers listened to us, but it was hard to change the school rules." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "学生だけで買い物に行くことはできませんでした", en: "Students couldn't go shopping on their own.", exampleJp: "学生だけで買い物に行くことはできませんでした。", exampleEn: "Students couldn't go shopping on their own." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "すみません、「parents' time」とはどういう意味ですか？", en: "Sorry, what do you mean by \"parents' time\"?", exampleJp: "すみません、「parents' time」とはどういう意味ですか？", exampleEn: "Sorry, what do you mean by \"parents' time\"?" },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "夫は11月か12月にビザが取れます", en: "My husband will get his visa in November or December.", exampleJp: "夫は11月か12月にビザが取れます。", exampleEn: "My husband will get his visa in November or December." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "私たちは今年の年末にマレーシアに引っ越します", en: "We're moving to Malaysia at the end of this year.", exampleJp: "私たちは今年の年末にマレーシアに引っ越します。", exampleEn: "We're moving to Malaysia at the end of this year." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "子供たちはマレーシアの学校に行くので、ランドセルは必要ありません", en: "My children will go to a school in Malaysia, so they won't need a randoseru.", exampleJp: "子供たちはマレーシアの学校に行くので、ランドセルは必要ありません。", exampleEn: "My children will go to a school in Malaysia, so they won't need a randoseru." },
+            { category: "⭐︎ 今週の練習 2026-07-06", jp: "難しいですが、やってみます", en: "It's difficult, but I'll try.", exampleJp: "難しいですが、やってみます。", exampleEn: "It's difficult, but I'll try." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
