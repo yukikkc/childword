@@ -4464,6 +4464,25 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "先生たちは自然な速さで話したので、全部は聞き取れませんでした", en: "The teachers spoke naturally, so I couldn't understand everything.", exampleJp: "先生たちは自然な速さで話したので、全部は聞き取れませんでした。", exampleEn: "The teachers spoke naturally, so I couldn't understand everything." },
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "子供のお迎えで忙しいので、レッスン後に勉強できません", en: "I'm busy picking up my children, so I can't study after class.", exampleJp: "子供のお迎えで忙しいので、レッスン後に勉強できません。", exampleEn: "I'm busy picking up my children, so I can't study after class." },
 
+            // ----- Lesson 42（7/14 TOEIC初回: Could I/you・will+軽い動詞・学校見学3文台本・TOEIC頻出文） -----
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "予約を変更させていただくことはできますか？", en: "Could I possibly change my appointment?", exampleJp: "予約を変更させていただくことはできますか？", exampleEn: "Could I possibly change my appointment?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "もう一度再生していただけますか？", en: "Could you play it one more time?", exampleJp: "もう一度再生していただけますか？", exampleEn: "Could you play it one more time?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "質問の文を見せていただけますか？", en: "Could you show me the question sentence?", exampleJp: "質問の文を見せていただけますか？", exampleEn: "Could you show me the question sentence?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この教材を使うのは初めてです", en: "It's my first time using this textbook.", exampleJp: "この教材を使うのは初めてです。", exampleEn: "It's my first time using this textbook." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "進め方がよく分かりません。教えてください", en: "I'm not sure how to proceed. Please teach me.", exampleJp: "進め方がよく分かりません。教えてください。", exampleEn: "I'm not sure how to proceed. Please teach me." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "「for」の使い方がよく分かりません", en: "I'm not sure how to use \"for.\"", exampleJp: "「for」の使い方がよく分かりません。", exampleEn: "I'm not sure how to use \"for.\"" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "理解できているか確認させてください", en: "Let me make sure I understand.", exampleJp: "理解できているか確認させてください。", exampleEn: "Let me make sure I understand." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "レッスンの後で調べます", en: "I'll look it up after the lesson.", exampleJp: "レッスンの後で調べます。", exampleEn: "I'll look it up after the lesson." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "今夜試してみます", en: "I'll try it tonight.", exampleJp: "今夜試してみます。", exampleEn: "I'll try it tonight." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "夫はマレーシアに行って小学校を見学しました", en: "My husband went to Malaysia and visited an elementary school.", exampleJp: "夫はマレーシアに行って小学校を見学しました。", exampleEn: "My husband went to Malaysia and visited an elementary school." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "私はLINEのビデオ通話でオンライン参加しました", en: "I joined online via LINE video call.", exampleJp: "私はLINEのビデオ通話でオンライン参加しました。", exampleEn: "I joined online via LINE video call." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "先生たちの話は全部は聞き取れませんでしたが、夫は理解していました", en: "I couldn't understand everything the teachers said, but my husband understood.", exampleJp: "先生たちの話は全部は聞き取れませんでしたが、夫は理解していました。", exampleEn: "I couldn't understand everything the teachers said, but my husband understood." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "たぶん人の名前だと思います", en: "Maybe it's a person's name.", exampleJp: "たぶん人の名前だと思います。", exampleEn: "Maybe it's a person's name." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "事務用品の注文は誰の担当ですか？", en: "Who's in charge of ordering office supplies?", exampleJp: "事務用品の注文は誰の担当ですか？", exampleEn: "Who's in charge of ordering office supplies?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "経費報告書のこの項目は何ですか？", en: "What's this item on your expense report?", exampleJp: "経費報告書のこの項目は何ですか？", exampleEn: "What's this item on your expense report?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "バスはもう出発しましたか？", en: "Has the bus already left?", exampleJp: "バスはもう出発しましたか？", exampleEn: "Has the bus already left?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "休憩しますか？— はい、休みが必要です", en: "Do you want to take a break? — Yes, I need a rest.", exampleJp: "休憩しますか？— はい、休みが必要です。", exampleEn: "Do you want to take a break? — Yes, I need a rest." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
