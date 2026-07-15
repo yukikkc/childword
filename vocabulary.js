@@ -4483,6 +4483,25 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "バスはもう出発しましたか？", en: "Has the bus already left?", exampleJp: "バスはもう出発しましたか？", exampleEn: "Has the bus already left?" },
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "休憩しますか？— はい、休みが必要です", en: "Do you want to take a break? — Yes, I need a rest.", exampleJp: "休憩しますか？— はい、休みが必要です。", exampleEn: "Do you want to take a break? — Yes, I need a rest." },
 
+            // ----- Lesson 43（7/15 TOEIC2日目: or疑問文の答え方・Could we・レベル申告・It's been・TOEIC頻出文） -----
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "車で来ますか、電車で来ますか？— 車です", en: "Are you coming by car or by train? — By car.", exampleJp: "車で来ますか、電車で来ますか？— 車です。", exampleEn: "Are you coming by car or by train? — By car." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "このレッスンだけでお願いします", en: "Just this lesson, please.", exampleJp: "このレッスンだけでお願いします。", exampleEn: "Just this lesson, please." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "復習は飛ばしてもいいですか？", en: "Could we skip the review?", exampleJp: "復習は飛ばしてもいいですか？", exampleEn: "Could we skip the review?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "次の章に進んでもいいですか？", en: "Could we move on to the next chapter?", exampleJp: "次の章に進んでもいいですか？", exampleEn: "Could we move on to the next chapter?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この問題は私には少し簡単なので、先に進んでもいいですか？", en: "These questions are a little easy for me, so could we move on?", exampleJp: "この問題は私には少し簡単なので、先に進んでもいいですか？", exampleEn: "These questions are a little easy for me, so could we move on?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この部分は少し難しいです。ゆっくり進めてもらえますか？", en: "This part is a little difficult. Could we slow down?", exampleJp: "この部分は少し難しいです。ゆっくり進めてもらえますか？", exampleEn: "This part is a little difficult. Could we slow down?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "1年くらいになります", en: "It's been about a year.", exampleJp: "1年くらいになります。", exampleEn: "It's been about a year." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "ネイティブキャンプを始めて7ヶ月になります", en: "It's been seven months since I started NativeCamp.", exampleJp: "ネイティブキャンプを始めて7ヶ月になります。", exampleEn: "It's been seven months since I started NativeCamp." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "ここで働いて長いんですか？", en: "Have you been working here long?", exampleJp: "ここで働いて長いんですか？", exampleEn: "Have you been working here long?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "オフィスはどこですか？— 公園の近くです", en: "Where is your office? — It's near the park.", exampleJp: "オフィスはどこですか？— 公園の近くです。", exampleEn: "Where is your office? — It's near the park." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "以前一緒に働いていました", en: "We used to work together.", exampleJp: "以前一緒に働いていました。", exampleEn: "We used to work together." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この書類を確認してもらえますか？— もちろん、今やりますね", en: "Can you check this document for me? — Sure, let me do that now.", exampleJp: "この書類を確認してもらえますか？— もちろん、今やりますね。", exampleEn: "Can you check this document for me? — Sure, let me do that now." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この注文は送料無料です", en: "Shipping is free with this order.", exampleJp: "この注文は送料無料です。", exampleEn: "Shipping is free with this order." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "昨日新しい支店に行きましたか？— 行きました。本当に素敵でした", en: "Did you visit the new branch yesterday? — I did. It really looks great.", exampleJp: "昨日新しい支店に行きましたか？— 行きました。本当に素敵でした。", exampleEn: "Did you visit the new branch yesterday? — I did. It really looks great." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "窓側の席がいいですか？— 通路側の席がいいです", en: "Would you prefer a window seat? — I'd like a seat by the aisle.", exampleJp: "窓側の席がいいですか？— 通路側の席がいいです。", exampleEn: "Would you prefer a window seat? — I'd like a seat by the aisle." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "なぜサラはそんなに早く出たのですか？— 町の反対側で約束があるからです", en: "Why did Sarah leave so early? — Because she has an appointment across town.", exampleJp: "なぜサラはそんなに早く出たのですか？— 町の反対側で約束があるからです。", exampleEn: "Why did Sarah leave so early? — Because she has an appointment across town." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "この新しい書類は分かりにくいですね — 私も苦労しています", en: "These new forms are hard to understand. — I have trouble with them too.", exampleJp: "この新しい書類は分かりにくいですね。— 私も苦労しています。", exampleEn: "These new forms are hard to understand. — I have trouble with them too." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
