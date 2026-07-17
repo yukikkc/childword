@@ -4502,6 +4502,24 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "なぜサラはそんなに早く出たのですか？— 町の反対側で約束があるからです", en: "Why did Sarah leave so early? — Because she has an appointment across town.", exampleJp: "なぜサラはそんなに早く出たのですか？— 町の反対側で約束があるからです。", exampleEn: "Why did Sarah leave so early? — Because she has an appointment across town." },
             { category: "⭐︎ 今週の練習 2026-07-13", jp: "この新しい書類は分かりにくいですね — 私も苦労しています", en: "These new forms are hard to understand. — I have trouble with them too.", exampleJp: "この新しい書類は分かりにくいですね。— 私も苦労しています。", exampleEn: "These new forms are hard to understand. — I have trouble with them too." },
 
+            // ----- Lesson 44（7/16 TOEIC3日目: 会員登録・お店の語彙 annual fee / on special / inquire・確認質問） -----
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "会員カードはお持ちですか？— いいえ。作るのは無料ですか？", en: "Do you have a member's card? — No, is it free to get one?", exampleJp: "会員カードはお持ちですか？— いいえ。作るのは無料ですか？", exampleEn: "Do you have a member's card? — No, is it free to get one?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "年会費が20ドルかかりますが、入会時に10ドルの入会割引があります", en: "There is an annual fee of $20, but you'll get a $10 welcome discount when you sign up.", exampleJp: "年会費が20ドルかかりますが、入会時に10ドルの入会割引があります。", exampleEn: "There is an annual fee of $20, but you'll get a $10 welcome discount when you sign up." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "さらに本と文房具は全品5%引きです。セール中でもです", en: "Plus 5% off all books and stationery, even if they are on special.", exampleJp: "さらに本と文房具は全品5%引きです。セール中でもです。", exampleEn: "Plus 5% off all books and stationery, even if they are on special." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "これらの本は今週セール中です", en: "These books are on special this week.", exampleJp: "これらの本は今週セール中です。", exampleEn: "These books are on special this week." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "オンラインでの購入にも適用されますか？", en: "Does it apply to online purchases, too?", exampleJp: "オンラインでの購入にも適用されますか？", exampleEn: "Does it apply to online purchases, too?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "実は、店舗にはめったに行きません", en: "I actually hardly ever visit the store in person.", exampleJp: "実は、店舗にはめったに行きません。", exampleEn: "I actually hardly ever visit the store in person." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "割引はオンラインストアでも使えます", en: "The discounts are good for our online store as well.", exampleJp: "割引はオンラインストアでも使えます。", exampleEn: "The discounts are good for our online store as well." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "よろしければ、今すぐカードをお作りできますよ", en: "I can make a card for you right now if you like.", exampleJp: "よろしければ、今すぐカードをお作りできますよ。", exampleEn: "I can make a card for you right now if you like." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "1分しかかかりません", en: "It only takes a minute.", exampleJp: "1分しかかかりません。", exampleEn: "It only takes a minute." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "お名前とメールアドレスだけ必要です", en: "I'll just need your name and email address.", exampleJp: "お名前とメールアドレスだけ必要です。", exampleEn: "I'll just need your name and email address." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "お会計は33ドル40セントです", en: "Your total is 33 dollars and 40 cents.", exampleJp: "お会計は33ドル40セントです。", exampleEn: "Your total is 33 dollars and 40 cents." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "「annual fee」はどういう意味ですか？", en: "What does \"annual fee\" mean?", exampleJp: "「annual fee」はどういう意味ですか？", exampleEn: "What does \"annual fee\" mean?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "文を見せていただけますか？", en: "Could I see the sentence, please?", exampleJp: "文を見せていただけますか？", exampleEn: "Could I see the sentence, please?" },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "これを使うのは初めてです", en: "It's my first time using this.", exampleJp: "これを使うのは初めてです。", exampleEn: "It's my first time using this." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "割引について問い合わせたいのですが", en: "I'd like to inquire about a discount.", exampleJp: "割引について問い合わせたいのですが。", exampleEn: "I'd like to inquire about a discount." },
+            { category: "⭐︎ 今週の練習 2026-07-13", jp: "ええと、そうですね", en: "Let me see.", exampleJp: "ええと、そうですね。", exampleEn: "Let me see." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
