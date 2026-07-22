@@ -4576,6 +4576,42 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-20", jp: "もう一度再生していただけますか？", en: "Could you play it one more time?", exampleJp: "もう一度再生していただけますか？", exampleEn: "Could you play it one more time?" },
             { category: "⭐︎ 今週の練習 2026-07-20", jp: "正直に言うと、よく分かりません", en: "To tell the truth, I'm not sure.", exampleJp: "正直に言うと、よく分かりません。", exampleEn: "To tell the truth, I'm not sure." },
 
+
+            // Lesson 47 (7/22 TOEIC Q19-24): シャトルバス・道案内
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが", en: "Excuse me, I was wondering where I can get the shuttle bus to the airport.", exampleJp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが。", exampleEn: "Excuse me, I was wondering where I can get the shuttle bus to the airport." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ロビーの正面ドアを出てください", en: "Just go out the main door of the lobby.", exampleJp: "ロビーの正面ドアを出てください。", exampleEn: "Just go out the main door of the lobby." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "シャトルバス乗り場は右手にあります", en: "The shuttle bus stop is on your right.", exampleJp: "シャトルバス乗り場は右手にあります。", exampleEn: "The shuttle bus stop is on your right." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "次のバスまでどのくらいか分かりますか？", en: "Do you know how long it is until the next one?", exampleJp: "次のバスまでどのくらいか分かりますか？", exampleEn: "Do you know how long it is until the next one?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "30分ごとに1本あります", en: "There is one every half hour.", exampleJp: "30分ごとに1本あります。", exampleEn: "There is one every half hour." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "次は10時発なので、あと15分ほどで来ます", en: "The next one will be at 10 o'clock, so it will be here in about 15 minutes.", exampleJp: "次は10時発なので、あと15分ほどで来ます。", exampleEn: "The next one will be at 10 o'clock, so it will be here in about 15 minutes." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ホテルの宿泊客は無料ですよね？", en: "It's free for hotel guests, right?", exampleJp: "ホテルの宿泊客は無料ですよね？", exampleEn: "It's free for hotel guests, right?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "レシートか何かを見せる必要がありますか？", en: "Do I need to show my receipt or something?", exampleJp: "レシートか何かを見せる必要がありますか？", exampleEn: "Do I need to show my receipt or something?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "誰でも無料で乗れます", en: "Anyone can ride for free.", exampleJp: "誰でも無料で乗れます。", exampleEn: "Anyone can ride for free." },
+
+            // Lesson 47: get in line（列に並ぶ・今週の最重要チャンク）
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "座りたいなら、すぐに列に並んだほうがいいですよ", en: "If you want to sit, you should get in line right away.", exampleJp: "座りたいなら、すぐに列に並んだほうがいいですよ。", exampleEn: "If you want to sit, you should get in line right away." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "列に並んでください", en: "Please get in line.", exampleJp: "列に並んでください。", exampleEn: "Please get in line." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "これはシャトルバスの列ですか？", en: "Is this the line for the shuttle bus?", exampleJp: "これはシャトルバスの列ですか？", exampleEn: "Is this the line for the shuttle bus?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "早い者勝ちです", en: "It's first come, first served.", exampleJp: "早い者勝ちです。", exampleEn: "It's first come, first served." },
+
+            // Lesson 47: 設備トラブル・代替案つき依頼
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もしもし、会議室Bから電話しています", en: "Hello, I'm calling from conference room B.", exampleJp: "もしもし、会議室Bから電話しています。", exampleEn: "Hello, I'm calling from conference room B." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません", en: "I booked it for a presentation, but the projector is not working properly.", exampleJp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません。", exampleEn: "I booked it for a presentation, but the projector is not working properly." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "直していただくか、別の部屋を使わせていただけますか？", en: "Can you either fix it or let me use another room?", exampleJp: "直していただくか、別の部屋を使わせていただけますか？", exampleEn: "Can you either fix it or let me use another room?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "大変申し訳ございません、お客様", en: "I'm terribly sorry about that, ma'am.", exampleJp: "大変申し訳ございません、お客様。", exampleEn: "I'm terribly sorry about that, ma'am." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "保守の技術者がロビーの照明を修理しています", en: "Our maintenance technician is repairing a light in the lobby.", exampleJp: "保守の技術者がロビーの照明を修理しています。", exampleEn: "Our maintenance technician is repairing a light in the lobby." },
+
+            // Lesson 47: 雑談・依頼・確認の型
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "夫は育休を取っています", en: "My husband takes paternity leave.", exampleJp: "夫は育休を取っています。", exampleEn: "My husband takes paternity leave." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います", en: "Before I got married, I wanted to have two children. Fortunately, we have three now.", exampleJp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います。", exampleEn: "Before I got married, I wanted to have two children. Fortunately, we have three now." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もう一度言っていただけますか？", en: "Could you repeat that?", exampleJp: "もう一度言っていただけますか？", exampleEn: "Could you repeat that?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "「serve」はどういう意味ですか？", en: "What does \"serve\" mean?", exampleJp: "「serve」はどういう意味ですか？", exampleEn: "What does \"serve\" mean?" },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "今日は外に出るのは危険です。38度あります", en: "It's dangerous to go outside today. It's 38 degrees.", exampleJp: "今日は外に出るのは危険です。38度あります。", exampleEn: "It's dangerous to go outside today. It's 38 degrees." },
+
+            // Lesson 47: adopt / adapt ペア（7/22の会話から）
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "学校は新しい方針を採用しました", en: "The school adopted a new policy.", exampleJp: "学校は新しい方針を採用しました。", exampleEn: "The school adopted a new policy." },
+            { category: "⭐︎ 今週の練習 2026-07-20", jp: "子供は新しい環境にすぐ適応します", en: "Children adapt to a new environment quickly.", exampleJp: "子供は新しい環境にすぐ適応します。", exampleEn: "Children adapt to a new environment quickly." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
