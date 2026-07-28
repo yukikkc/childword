@@ -4524,93 +4524,144 @@ const vocabulary =
             // ===== 今週の練習 2026-07-20: Lesson 45 (7/17 TOEIC会話Q7-12) + Lesson 46 (7/21 TOEIC会話Q13-18) =====
 
             // Lesson 45: お泊まり会・感情3点セット (miss / grow up / proud)
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "娘は幼稚園のお泊まり会があります", en: "My daughter has an overnight event at her kindergarten.", exampleJp: "娘は幼稚園のお泊まり会があります。", exampleEn: "My daughter has an overnight event at her kindergarten." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "娘が私と離れて寝るのは初めてです", en: "It's the first time she has slept away from me.", exampleJp: "娘が私と離れて寝るのは初めてです。", exampleEn: "It's the first time she has slept away from me." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もう寂しいです", en: "I already miss her.", exampleJp: "もう寂しいです。", exampleEn: "I already miss her." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "日本の友達が恋しくなると思います", en: "I'm going to miss my friends in Japan.", exampleJp: "日本の友達が恋しくなると思います。", exampleEn: "I'm going to miss my friends in Japan." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "娘の成長を感じます", en: "I can see she's growing up.", exampleJp: "娘の成長を感じます。", exampleEn: "I can see she's growing up." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "娘を誇りに思います", en: "I'm proud of her.", exampleJp: "娘を誇りに思います。", exampleEn: "I'm proud of her." },
+            { category: "⭐︎ レッスン復習", jp: "娘は幼稚園のお泊まり会があります", en: "My daughter has an overnight event at her kindergarten.", exampleJp: "娘は幼稚園のお泊まり会があります。", exampleEn: "My daughter has an overnight event at her kindergarten." },
+            { category: "⭐︎ レッスン復習", jp: "娘が私と離れて寝るのは初めてです", en: "It's the first time she has slept away from me.", exampleJp: "娘が私と離れて寝るのは初めてです。", exampleEn: "It's the first time she has slept away from me." },
+            { category: "⭐︎ レッスン復習", jp: "もう寂しいです", en: "I already miss her.", exampleJp: "もう寂しいです。", exampleEn: "I already miss her." },
+            { category: "⭐︎ レッスン復習", jp: "日本の友達が恋しくなると思います", en: "I'm going to miss my friends in Japan.", exampleJp: "日本の友達が恋しくなると思います。", exampleEn: "I'm going to miss my friends in Japan." },
+            { category: "⭐︎ レッスン復習", jp: "娘の成長を感じます", en: "I can see she's growing up.", exampleJp: "娘の成長を感じます。", exampleEn: "I can see she's growing up." },
+            { category: "⭐︎ レッスン復習", jp: "娘を誇りに思います", en: "I'm proud of her.", exampleJp: "娘を誇りに思います。", exampleEn: "I'm proud of her." },
 
             // Lesson 45: 仕事会話 (電話・研修・ソフトウェア)
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "今日は3時にクライアントと電話があります", en: "I have a call with a client at 3 today.", exampleJp: "今日は3時にクライアントと電話があります。", exampleEn: "I have a call with a client at 3 today." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "じゃあ、確認してみます", en: "I should find out, then.", exampleJp: "じゃあ、確認してみます。", exampleEn: "I should find out, then." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "チーム全員必須です", en: "It's mandatory for the whole team.", exampleJp: "チーム全員必須です。", exampleEn: "It's mandatory for the whole team." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "そのソフトはもう知っているので、行かなくていいんです", en: "I already know the software, so I don't have to go.", exampleJp: "そのソフトはもう知っているので、行かなくていいんです。", exampleEn: "I already know the software, so I don't have to go." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "前の会社でそれを使っていました", en: "We used it at my previous company.", exampleJp: "前の会社でそれを使っていました。", exampleEn: "We used it at my previous company." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "覚えるのは簡単ですか？", en: "Is it easy to learn?", exampleJp: "覚えるのは簡単ですか？", exampleEn: "Is it easy to learn?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "今のソフトを使いこなすのにすごく時間がかかりました", en: "It took me ages to master our current software.", exampleJp: "今のソフトを使いこなすのにすごく時間がかかりました。", exampleEn: "It took me ages to master our current software." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ずっと良く設計された製品です", en: "It's a much better-designed product.", exampleJp: "ずっと良く設計された製品です。", exampleEn: "It's a much better-designed product." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "分からないことがあれば、いつでも聞いてくださいね", en: "If you're not sure about anything, you can always ask me.", exampleJp: "分からないことがあれば、いつでも聞いてくださいね。", exampleEn: "If you're not sure about anything, you can always ask me." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "新しい提案について、クライアントからもう返事はありましたか？", en: "Did you get an answer from the client about the new proposal yet?", exampleJp: "新しい提案について、クライアントからもう返事はありましたか？", exampleEn: "Did you get an answer from the client about the new proposal yet?" },
+            { category: "⭐︎ レッスン復習", jp: "今日は3時にクライアントと電話があります", en: "I have a call with a client at 3 today.", exampleJp: "今日は3時にクライアントと電話があります。", exampleEn: "I have a call with a client at 3 today." },
+            { category: "⭐︎ レッスン復習", jp: "じゃあ、確認してみます", en: "I should find out, then.", exampleJp: "じゃあ、確認してみます。", exampleEn: "I should find out, then." },
+            { category: "⭐︎ レッスン復習", jp: "チーム全員必須です", en: "It's mandatory for the whole team.", exampleJp: "チーム全員必須です。", exampleEn: "It's mandatory for the whole team." },
+            { category: "⭐︎ レッスン復習", jp: "そのソフトはもう知っているので、行かなくていいんです", en: "I already know the software, so I don't have to go.", exampleJp: "そのソフトはもう知っているので、行かなくていいんです。", exampleEn: "I already know the software, so I don't have to go." },
+            { category: "⭐︎ レッスン復習", jp: "前の会社でそれを使っていました", en: "We used it at my previous company.", exampleJp: "前の会社でそれを使っていました。", exampleEn: "We used it at my previous company." },
+            { category: "⭐︎ レッスン復習", jp: "覚えるのは簡単ですか？", en: "Is it easy to learn?", exampleJp: "覚えるのは簡単ですか？", exampleEn: "Is it easy to learn?" },
+            { category: "⭐︎ レッスン復習", jp: "今のソフトを使いこなすのにすごく時間がかかりました", en: "It took me ages to master our current software.", exampleJp: "今のソフトを使いこなすのにすごく時間がかかりました。", exampleEn: "It took me ages to master our current software." },
+            { category: "⭐︎ レッスン復習", jp: "ずっと良く設計された製品です", en: "It's a much better-designed product.", exampleJp: "ずっと良く設計された製品です。", exampleEn: "It's a much better-designed product." },
+            { category: "⭐︎ レッスン復習", jp: "分からないことがあれば、いつでも聞いてくださいね", en: "If you're not sure about anything, you can always ask me.", exampleJp: "分からないことがあれば、いつでも聞いてくださいね。", exampleEn: "If you're not sure about anything, you can always ask me." },
+            { category: "⭐︎ レッスン復習", jp: "新しい提案について、クライアントからもう返事はありましたか？", en: "Did you get an answer from the client about the new proposal yet?", exampleJp: "新しい提案について、クライアントからもう返事はありましたか？", exampleEn: "Did you get an answer from the client about the new proposal yet?" },
 
             // Lesson 45: 自分の弱点を説明する
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "文が長いと細かいところが聞き取れません", en: "I can't hear the details when the sentence is long.", exampleJp: "文が長いと細かいところが聞き取れません。", exampleEn: "I can't hear the details when the sentence is long." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "でも短い文なら理解できます", en: "But I can understand short sentences.", exampleJp: "でも短い文なら理解できます。", exampleEn: "But I can understand short sentences." },
+            { category: "⭐︎ レッスン復習", jp: "文が長いと細かいところが聞き取れません", en: "I can't hear the details when the sentence is long.", exampleJp: "文が長いと細かいところが聞き取れません。", exampleEn: "I can't hear the details when the sentence is long." },
+            { category: "⭐︎ レッスン復習", jp: "でも短い文なら理解できます", en: "But I can understand short sentences.", exampleJp: "でも短い文なら理解できます。", exampleEn: "But I can understand short sentences." },
 
             // Lesson 46: make it ファミリー (今週の最重要チャンク)
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "昨日のセミナーには行けましたか？", en: "Did you make it to your seminar yesterday?", exampleJp: "昨日のセミナーには行けましたか？", exampleEn: "Did you make it to your seminar yesterday?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "すみません、明日は都合がつきません", en: "Sorry, I can't make it tomorrow.", exampleJp: "すみません、明日は都合がつきません。", exampleEn: "Sorry, I can't make it tomorrow." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ぎりぎり間に合いました", en: "I made it just in time.", exampleJp: "ぎりぎり間に合いました。", exampleEn: "I made it just in time." },
+            { category: "⭐︎ レッスン復習", jp: "昨日のセミナーには行けましたか？", en: "Did you make it to your seminar yesterday?", exampleJp: "昨日のセミナーには行けましたか？", exampleEn: "Did you make it to your seminar yesterday?" },
+            { category: "⭐︎ レッスン復習", jp: "すみません、明日は都合がつきません", en: "Sorry, I can't make it tomorrow.", exampleJp: "すみません、明日は都合がつきません。", exampleEn: "Sorry, I can't make it tomorrow." },
+            { category: "⭐︎ レッスン復習", jp: "ぎりぎり間に合いました", en: "I made it just in time.", exampleJp: "ぎりぎり間に合いました。", exampleEn: "I made it just in time." },
 
             // Lesson 46: セミナーの会話
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "でも、行ってよかったです", en: "I'm glad I went, though.", exampleJp: "でも、行ってよかったです。", exampleEn: "I'm glad I went, though." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "時間通りに着くように早めに出ました", en: "I left early to get there on time.", exampleJp: "時間通りに着くように早めに出ました。", exampleEn: "I left early to get there on time." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "家を出るとき、雨がひどく降っていました", en: "It was raining really badly when I left home.", exampleJp: "家を出るとき、雨がひどく降っていました。", exampleEn: "It was raining really badly when I left home." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ふたを開けてみると、参加者の半分が来ていませんでした", en: "As it turns out, half the participants were missing.", exampleJp: "ふたを開けてみると、参加者の半分が来ていませんでした。", exampleEn: "As it turns out, half the participants were missing." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "日程を変更すべきだったのでは？", en: "Shouldn't they have rescheduled it?", exampleJp: "日程を変更すべきだったのでは？", exampleEn: "Shouldn't they have rescheduled it?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もっと早く言ってくれればよかったのに", en: "You should have told me earlier.", exampleJp: "もっと早く言ってくれればよかったのに。", exampleEn: "You should have told me earlier." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "職場の争いを解決するための良いヒントが得られました", en: "It gave me some good insights into resolving workplace disputes.", exampleJp: "職場の争いを解決するための良いヒントが得られました。", exampleEn: "It gave me some good insights into resolving workplace disputes." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "対立にプロらしく対処するのにとても役立ちます", en: "It will really help me handle conflict in a professional manner.", exampleJp: "対立にプロらしく対処するのにとても役立ちます。", exampleEn: "It will really help me handle conflict in a professional manner." },
+            { category: "⭐︎ レッスン復習", jp: "でも、行ってよかったです", en: "I'm glad I went, though.", exampleJp: "でも、行ってよかったです。", exampleEn: "I'm glad I went, though." },
+            { category: "⭐︎ レッスン復習", jp: "時間通りに着くように早めに出ました", en: "I left early to get there on time.", exampleJp: "時間通りに着くように早めに出ました。", exampleEn: "I left early to get there on time." },
+            { category: "⭐︎ レッスン復習", jp: "家を出るとき、雨がひどく降っていました", en: "It was raining really badly when I left home.", exampleJp: "家を出るとき、雨がひどく降っていました。", exampleEn: "It was raining really badly when I left home." },
+            { category: "⭐︎ レッスン復習", jp: "ふたを開けてみると、参加者の半分が来ていませんでした", en: "As it turns out, half the participants were missing.", exampleJp: "ふたを開けてみると、参加者の半分が来ていませんでした。", exampleEn: "As it turns out, half the participants were missing." },
+            { category: "⭐︎ レッスン復習", jp: "日程を変更すべきだったのでは？", en: "Shouldn't they have rescheduled it?", exampleJp: "日程を変更すべきだったのでは？", exampleEn: "Shouldn't they have rescheduled it?" },
+            { category: "⭐︎ レッスン復習", jp: "もっと早く言ってくれればよかったのに", en: "You should have told me earlier.", exampleJp: "もっと早く言ってくれればよかったのに。", exampleEn: "You should have told me earlier." },
+            { category: "⭐︎ レッスン復習", jp: "職場の争いを解決するための良いヒントが得られました", en: "It gave me some good insights into resolving workplace disputes.", exampleJp: "職場の争いを解決するための良いヒントが得られました。", exampleEn: "It gave me some good insights into resolving workplace disputes." },
+            { category: "⭐︎ レッスン復習", jp: "対立にプロらしく対処するのにとても役立ちます", en: "It will really help me handle conflict in a professional manner.", exampleJp: "対立にプロらしく対処するのにとても役立ちます。", exampleEn: "It will really help me handle conflict in a professional manner." },
 
             // Lesson 46: 新環境トーク (移住直後の台本)
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ジーナ、久しぶりですね", en: "Gina, I haven't seen you in a while.", exampleJp: "ジーナ、久しぶりですね。", exampleEn: "Gina, I haven't seen you in a while." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "新しい部署はどうですか？— 今のところなかなか面白いです", en: "How is your new position? — It's pretty interesting so far.", exampleJp: "新しい部署はどうですか？— 今のところなかなか面白いです。", exampleEn: "How is your new position? — It's pretty interesting so far." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "私にとって大きな変化です", en: "It's a big change for me.", exampleJp: "私にとって大きな変化です。", exampleEn: "It's a big change for me." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "フルタイムで働きながら研修も受けています", en: "I'm taking training courses besides working full time.", exampleJp: "フルタイムで働きながら研修も受けています。", exampleEn: "I'm taking training courses besides working full time." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "今はすべてについていくのが大変です", en: "It's a struggle to keep up with everything right now.", exampleJp: "今はすべてについていくのが大変です。", exampleEn: "It's a struggle to keep up with everything right now." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "慣れれば落ち着きますよ", en: "Things will settle down once you're used to it.", exampleJp: "慣れれば落ち着きますよ。", exampleEn: "Things will settle down once you're used to it." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "学校の調子はどうですか？", en: "How are things at school?", exampleJp: "学校の調子はどうですか？", exampleEn: "How are things at school?" },
+            { category: "⭐︎ レッスン復習", jp: "ジーナ、久しぶりですね", en: "Gina, I haven't seen you in a while.", exampleJp: "ジーナ、久しぶりですね。", exampleEn: "Gina, I haven't seen you in a while." },
+            { category: "⭐︎ レッスン復習", jp: "新しい部署はどうですか？— 今のところなかなか面白いです", en: "How is your new position? — It's pretty interesting so far.", exampleJp: "新しい部署はどうですか？— 今のところなかなか面白いです。", exampleEn: "How is your new position? — It's pretty interesting so far." },
+            { category: "⭐︎ レッスン復習", jp: "私にとって大きな変化です", en: "It's a big change for me.", exampleJp: "私にとって大きな変化です。", exampleEn: "It's a big change for me." },
+            { category: "⭐︎ レッスン復習", jp: "フルタイムで働きながら研修も受けています", en: "I'm taking training courses besides working full time.", exampleJp: "フルタイムで働きながら研修も受けています。", exampleEn: "I'm taking training courses besides working full time." },
+            { category: "⭐︎ レッスン復習", jp: "今はすべてについていくのが大変です", en: "It's a struggle to keep up with everything right now.", exampleJp: "今はすべてについていくのが大変です。", exampleEn: "It's a struggle to keep up with everything right now." },
+            { category: "⭐︎ レッスン復習", jp: "慣れれば落ち着きますよ", en: "Things will settle down once you're used to it.", exampleJp: "慣れれば落ち着きますよ。", exampleEn: "Things will settle down once you're used to it." },
+            { category: "⭐︎ レッスン復習", jp: "学校の調子はどうですか？", en: "How are things at school?", exampleJp: "学校の調子はどうですか？", exampleEn: "How are things at school?" },
 
             // Lesson 46: 確認質問・Could・To tell the truth
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "「dispute」はどういう意味ですか？", en: "What does \"dispute\" mean?", exampleJp: "「dispute」はどういう意味ですか？", exampleEn: "What does \"dispute\" mean?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もう一度再生していただけますか？", en: "Could you play it one more time?", exampleJp: "もう一度再生していただけますか？", exampleEn: "Could you play it one more time?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "正直に言うと、よく分かりません", en: "To tell the truth, I'm not sure.", exampleJp: "正直に言うと、よく分かりません。", exampleEn: "To tell the truth, I'm not sure." },
+            { category: "⭐︎ レッスン復習", jp: "「dispute」はどういう意味ですか？", en: "What does \"dispute\" mean?", exampleJp: "「dispute」はどういう意味ですか？", exampleEn: "What does \"dispute\" mean?" },
+            { category: "⭐︎ レッスン復習", jp: "もう一度再生していただけますか？", en: "Could you play it one more time?", exampleJp: "もう一度再生していただけますか？", exampleEn: "Could you play it one more time?" },
+            { category: "⭐︎ レッスン復習", jp: "正直に言うと、よく分かりません", en: "To tell the truth, I'm not sure.", exampleJp: "正直に言うと、よく分かりません。", exampleEn: "To tell the truth, I'm not sure." },
 
 
             // Lesson 47 (7/22 TOEIC Q19-24): シャトルバス・道案内
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが", en: "Excuse me, I was wondering where I can get the shuttle bus to the airport.", exampleJp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが。", exampleEn: "Excuse me, I was wondering where I can get the shuttle bus to the airport." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ロビーの正面ドアを出てください", en: "Just go out the main door of the lobby.", exampleJp: "ロビーの正面ドアを出てください。", exampleEn: "Just go out the main door of the lobby." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "シャトルバス乗り場は右手にあります", en: "The shuttle bus stop is on your right.", exampleJp: "シャトルバス乗り場は右手にあります。", exampleEn: "The shuttle bus stop is on your right." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "次のバスまでどのくらいか分かりますか？", en: "Do you know how long it is until the next one?", exampleJp: "次のバスまでどのくらいか分かりますか？", exampleEn: "Do you know how long it is until the next one?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "30分ごとに1本あります", en: "There is one every half hour.", exampleJp: "30分ごとに1本あります。", exampleEn: "There is one every half hour." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "次は10時発なので、あと15分ほどで来ます", en: "The next one will be at 10 o'clock, so it will be here in about 15 minutes.", exampleJp: "次は10時発なので、あと15分ほどで来ます。", exampleEn: "The next one will be at 10 o'clock, so it will be here in about 15 minutes." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "ホテルの宿泊客は無料ですよね？", en: "It's free for hotel guests, right?", exampleJp: "ホテルの宿泊客は無料ですよね？", exampleEn: "It's free for hotel guests, right?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "レシートか何かを見せる必要がありますか？", en: "Do I need to show my receipt or something?", exampleJp: "レシートか何かを見せる必要がありますか？", exampleEn: "Do I need to show my receipt or something?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "誰でも無料で乗れます", en: "Anyone can ride for free.", exampleJp: "誰でも無料で乗れます。", exampleEn: "Anyone can ride for free." },
+            { category: "⭐︎ レッスン復習", jp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが", en: "Excuse me, I was wondering where I can get the shuttle bus to the airport.", exampleJp: "すみません、空港行きのシャトルバスはどこで乗れるか伺いたいのですが。", exampleEn: "Excuse me, I was wondering where I can get the shuttle bus to the airport." },
+            { category: "⭐︎ レッスン復習", jp: "ロビーの正面ドアを出てください", en: "Just go out the main door of the lobby.", exampleJp: "ロビーの正面ドアを出てください。", exampleEn: "Just go out the main door of the lobby." },
+            { category: "⭐︎ レッスン復習", jp: "シャトルバス乗り場は右手にあります", en: "The shuttle bus stop is on your right.", exampleJp: "シャトルバス乗り場は右手にあります。", exampleEn: "The shuttle bus stop is on your right." },
+            { category: "⭐︎ レッスン復習", jp: "次のバスまでどのくらいか分かりますか？", en: "Do you know how long it is until the next one?", exampleJp: "次のバスまでどのくらいか分かりますか？", exampleEn: "Do you know how long it is until the next one?" },
+            { category: "⭐︎ レッスン復習", jp: "30分ごとに1本あります", en: "There is one every half hour.", exampleJp: "30分ごとに1本あります。", exampleEn: "There is one every half hour." },
+            { category: "⭐︎ レッスン復習", jp: "次は10時発なので、あと15分ほどで来ます", en: "The next one will be at 10 o'clock, so it will be here in about 15 minutes.", exampleJp: "次は10時発なので、あと15分ほどで来ます。", exampleEn: "The next one will be at 10 o'clock, so it will be here in about 15 minutes." },
+            { category: "⭐︎ レッスン復習", jp: "ホテルの宿泊客は無料ですよね？", en: "It's free for hotel guests, right?", exampleJp: "ホテルの宿泊客は無料ですよね？", exampleEn: "It's free for hotel guests, right?" },
+            { category: "⭐︎ レッスン復習", jp: "レシートか何かを見せる必要がありますか？", en: "Do I need to show my receipt or something?", exampleJp: "レシートか何かを見せる必要がありますか？", exampleEn: "Do I need to show my receipt or something?" },
+            { category: "⭐︎ レッスン復習", jp: "誰でも無料で乗れます", en: "Anyone can ride for free.", exampleJp: "誰でも無料で乗れます。", exampleEn: "Anyone can ride for free." },
 
             // Lesson 47: get in line（列に並ぶ・今週の最重要チャンク）
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "座りたいなら、すぐに列に並んだほうがいいですよ", en: "If you want to sit, you should get in line right away.", exampleJp: "座りたいなら、すぐに列に並んだほうがいいですよ。", exampleEn: "If you want to sit, you should get in line right away." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "列に並んでください", en: "Please get in line.", exampleJp: "列に並んでください。", exampleEn: "Please get in line." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "これはシャトルバスの列ですか？", en: "Is this the line for the shuttle bus?", exampleJp: "これはシャトルバスの列ですか？", exampleEn: "Is this the line for the shuttle bus?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "早い者勝ちです", en: "It's first come, first served.", exampleJp: "早い者勝ちです。", exampleEn: "It's first come, first served." },
+            { category: "⭐︎ レッスン復習", jp: "座りたいなら、すぐに列に並んだほうがいいですよ", en: "If you want to sit, you should get in line right away.", exampleJp: "座りたいなら、すぐに列に並んだほうがいいですよ。", exampleEn: "If you want to sit, you should get in line right away." },
+            { category: "⭐︎ レッスン復習", jp: "列に並んでください", en: "Please get in line.", exampleJp: "列に並んでください。", exampleEn: "Please get in line." },
+            { category: "⭐︎ レッスン復習", jp: "これはシャトルバスの列ですか？", en: "Is this the line for the shuttle bus?", exampleJp: "これはシャトルバスの列ですか？", exampleEn: "Is this the line for the shuttle bus?" },
+            { category: "⭐︎ レッスン復習", jp: "早い者勝ちです", en: "It's first come, first served.", exampleJp: "早い者勝ちです。", exampleEn: "It's first come, first served." },
 
             // Lesson 47: 設備トラブル・代替案つき依頼
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もしもし、会議室Bから電話しています", en: "Hello, I'm calling from conference room B.", exampleJp: "もしもし、会議室Bから電話しています。", exampleEn: "Hello, I'm calling from conference room B." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません", en: "I booked it for a presentation, but the projector is not working properly.", exampleJp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません。", exampleEn: "I booked it for a presentation, but the projector is not working properly." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "直していただくか、別の部屋を使わせていただけますか？", en: "Can you either fix it or let me use another room?", exampleJp: "直していただくか、別の部屋を使わせていただけますか？", exampleEn: "Can you either fix it or let me use another room?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "大変申し訳ございません、お客様", en: "I'm terribly sorry about that, ma'am.", exampleJp: "大変申し訳ございません、お客様。", exampleEn: "I'm terribly sorry about that, ma'am." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "保守の技術者がロビーの照明を修理しています", en: "Our maintenance technician is repairing a light in the lobby.", exampleJp: "保守の技術者がロビーの照明を修理しています。", exampleEn: "Our maintenance technician is repairing a light in the lobby." },
+            { category: "⭐︎ レッスン復習", jp: "もしもし、会議室Bから電話しています", en: "Hello, I'm calling from conference room B.", exampleJp: "もしもし、会議室Bから電話しています。", exampleEn: "Hello, I'm calling from conference room B." },
+            { category: "⭐︎ レッスン復習", jp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません", en: "I booked it for a presentation, but the projector is not working properly.", exampleJp: "プレゼンのために予約したのですが、プロジェクターがちゃんと動きません。", exampleEn: "I booked it for a presentation, but the projector is not working properly." },
+            { category: "⭐︎ レッスン復習", jp: "直していただくか、別の部屋を使わせていただけますか？", en: "Can you either fix it or let me use another room?", exampleJp: "直していただくか、別の部屋を使わせていただけますか？", exampleEn: "Can you either fix it or let me use another room?" },
+            { category: "⭐︎ レッスン復習", jp: "大変申し訳ございません、お客様", en: "I'm terribly sorry about that, ma'am.", exampleJp: "大変申し訳ございません、お客様。", exampleEn: "I'm terribly sorry about that, ma'am." },
+            { category: "⭐︎ レッスン復習", jp: "保守の技術者がロビーの照明を修理しています", en: "Our maintenance technician is repairing a light in the lobby.", exampleJp: "保守の技術者がロビーの照明を修理しています。", exampleEn: "Our maintenance technician is repairing a light in the lobby." },
 
             // Lesson 47: 雑談・依頼・確認の型
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "夫は育休を取っています", en: "My husband takes paternity leave.", exampleJp: "夫は育休を取っています。", exampleEn: "My husband takes paternity leave." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います", en: "Before I got married, I wanted to have two children. Fortunately, we have three now.", exampleJp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います。", exampleEn: "Before I got married, I wanted to have two children. Fortunately, we have three now." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "もう一度言っていただけますか？", en: "Could you repeat that?", exampleJp: "もう一度言っていただけますか？", exampleEn: "Could you repeat that?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "「serve」はどういう意味ですか？", en: "What does \"serve\" mean?", exampleJp: "「serve」はどういう意味ですか？", exampleEn: "What does \"serve\" mean?" },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "今日は外に出るのは危険です。38度あります", en: "It's dangerous to go outside today. It's 38 degrees.", exampleJp: "今日は外に出るのは危険です。38度あります。", exampleEn: "It's dangerous to go outside today. It's 38 degrees." },
+            { category: "⭐︎ レッスン復習", jp: "夫は育休を取っています", en: "My husband takes paternity leave.", exampleJp: "夫は育休を取っています。", exampleEn: "My husband takes paternity leave." },
+            { category: "⭐︎ レッスン復習", jp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います", en: "Before I got married, I wanted to have two children. Fortunately, we have three now.", exampleJp: "結婚する前は子供は2人のつもりでした。幸い、今は3人います。", exampleEn: "Before I got married, I wanted to have two children. Fortunately, we have three now." },
+            { category: "⭐︎ レッスン復習", jp: "もう一度言っていただけますか？", en: "Could you repeat that?", exampleJp: "もう一度言っていただけますか？", exampleEn: "Could you repeat that?" },
+            { category: "⭐︎ レッスン復習", jp: "「serve」はどういう意味ですか？", en: "What does \"serve\" mean?", exampleJp: "「serve」はどういう意味ですか？", exampleEn: "What does \"serve\" mean?" },
+            { category: "⭐︎ レッスン復習", jp: "今日は外に出るのは危険です。38度あります", en: "It's dangerous to go outside today. It's 38 degrees.", exampleJp: "今日は外に出るのは危険です。38度あります。", exampleEn: "It's dangerous to go outside today. It's 38 degrees." },
 
             // Lesson 47: adopt / adapt ペア（7/22の会話から）
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "学校は新しい方針を採用しました", en: "The school adopted a new policy.", exampleJp: "学校は新しい方針を採用しました。", exampleEn: "The school adopted a new policy." },
-            { category: "⭐︎ 今週の練習 2026-07-20", jp: "子供は新しい環境にすぐ適応します", en: "Children adapt to a new environment quickly.", exampleJp: "子供は新しい環境にすぐ適応します。", exampleEn: "Children adapt to a new environment quickly." },
+            { category: "⭐︎ レッスン復習", jp: "学校は新しい方針を採用しました", en: "The school adopted a new policy.", exampleJp: "学校は新しい方針を採用しました。", exampleEn: "The school adopted a new policy." },
+            { category: "⭐︎ レッスン復習", jp: "子供は新しい環境にすぐ適応します", en: "Children adapt to a new environment quickly.", exampleJp: "子供は新しい環境にすぐ適応します。", exampleEn: "Children adapt to a new environment quickly." },
+
+            // ===== 今週の練習 2026-07-27: Lesson 48 (7/23 TOEIC Q25-30) + Lesson 49 (7/28 TOEIC Q31-36) =====
+
+            // Lesson 48: be + -ing で確定した予定を言う（自分から質問した文法・今週の主役）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "金曜に会って相談する予定です", en: "I'm meeting them on Friday to talk about it.", exampleJp: "金曜に会って相談する予定です。", exampleEn: "I'm meeting them on Friday to talk about it." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "金曜に先生と面談の予定です", en: "I'm meeting the teacher on Friday.", exampleJp: "金曜に先生と面談の予定です。", exampleEn: "I'm meeting the teacher on Friday." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "今日は3時に子供を迎えに行きます", en: "I'm picking up my kids at three today.", exampleJp: "今日は3時に子供を迎えに行きます。", exampleEn: "I'm picking up my kids at three today." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "月曜に医者に診てもらう予定です", en: "We're seeing the doctor on Monday.", exampleJp: "月曜に医者に診てもらう予定です。", exampleEn: "We're seeing the doctor on Monday." },
+
+            // Lesson 48: デザイン会社の会話・確認質問・文法質問
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "まだ詳細が全部は分かっていません", en: "I don't have all the details yet.", exampleJp: "まだ詳細が全部は分かっていません。", exampleEn: "I don't have all the details yet." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼らはうちに依頼することを決めました", en: "They've decided to hire us.", exampleJp: "彼らはうちに依頼することを決めました。", exampleEn: "They've decided to hire us." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "こういう案件は新しい顧客の獲得につながります", en: "A project like this could help us attract new clients.", exampleJp: "こういう案件は新しい顧客の獲得につながります。", exampleEn: "A project like this could help us attract new clients." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "「sculpture」はどういう意味ですか？", en: "What does \"sculpture\" mean?", exampleJp: "「sculpture」はどういう意味ですか？", exampleEn: "What does \"sculpture\" mean?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "1つ質問があります。be + -ing はどう使いますか？", en: "I have one question. How do you use \"be plus -ing\"?", exampleJp: "1つ質問があります。be + -ing はどう使いますか？", exampleEn: "I have one question. How do you use \"be plus -ing\"?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "-ing の使い方がいつも少し混乱します", en: "I'm always a little confused about how to use -ing.", exampleJp: "-ing の使い方がいつも少し混乱します。", exampleEn: "I'm always a little confused about how to use -ing." },
+
+            // Lesson 48: zero 根絶（six and four and zero が再発）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "子供が3人います。6歳、4歳、あと赤ちゃんです", en: "I have three children. They are six, four, and a baby.", exampleJp: "子供が3人います。6歳、4歳、あと赤ちゃんです。", exampleEn: "I have three children. They are six, four, and a baby." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "一番下は生後9ヶ月です", en: "My youngest is nine months old.", exampleJp: "一番下は生後9ヶ月です。", exampleEn: "My youngest is nine months old." },
+
+            // Lesson 49: 聞き返しの精密化（部位を指定して聞き返す）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "最初の単語が聞き取れませんでした", en: "I couldn't catch the first word.", exampleJp: "最初の単語が聞き取れませんでした。", exampleEn: "I couldn't catch the first word." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "主語の部分が聞き取れませんでした", en: "I couldn't catch the subject.", exampleJp: "主語の部分が聞き取れませんでした。", exampleEn: "I couldn't catch the subject." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "最初の部分だけもう一度言っていただけますか？", en: "Could you say just the first part again?", exampleJp: "最初の部分だけもう一度言っていただけますか？", exampleEn: "Could you say just the first part again?" },
+
+            // Lesson 49: meet with / 採用の会話
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "今朝、ある人と会って話しました", en: "I met with someone this morning.", exampleJp: "今朝、ある人と会って話しました。", exampleEn: "I met with someone this morning." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "明日、先生と会って話す予定です", en: "I'm meeting with the teacher tomorrow.", exampleJp: "明日、先生と会って話す予定です。", exampleEn: "I'm meeting with the teacher tomorrow." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女は素晴らしい資格と推薦状を持っています", en: "She has excellent qualifications and references.", exampleJp: "彼女は素晴らしい資格と推薦状を持っています。", exampleEn: "She has excellent qualifications and references." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女は今のところ最有力の応募者です", en: "She is the strongest applicant so far.", exampleJp: "彼女は今のところ最有力の応募者です。", exampleEn: "She is the strongest applicant so far." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女の経歴は主に金融分野です", en: "Her background is mainly in the finance field.", exampleJp: "彼女の経歴は主に金融分野です。", exampleEn: "Her background is mainly in the finance field." },
+
+            // Lesson 49: a good fit（学校選びの決まり文句・実用度最高）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女はうちの会社に合うと思います", en: "She'd be a good fit for our company.", exampleJp: "彼女はうちの会社に合うと思います。", exampleEn: "She'd be a good fit for our company." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "この学校は娘に合っています", en: "This school is a good fit for my daughter.", exampleJp: "この学校は娘に合っています。", exampleEn: "This school is a good fit for my daughter." },
+
+            // Lesson 49: 問題の切り出し・給与交渉・長い主語
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "ただ、1つ問題があります", en: "Well, there's one issue.", exampleJp: "ただ、1つ問題があります。", exampleEn: "Well, there's one issue." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女は同じ給料を出してほしいそうです", en: "She wants us to match the salary.", exampleJp: "彼女は同じ給料を出してほしいそうです。", exampleEn: "She wants us to match the salary." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女が今働いている会社は、うちの提示より高い給料を払っています", en: "The firm where she currently works is paying her more than what we are offering.", exampleJp: "彼女が今働いている会社は、うちの提示より高い給料を払っています。", exampleEn: "The firm where she currently works is paying her more than what we are offering." },
+
+            // Lesson 49: consider doing / agree to
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女が適任なら、それを検討すべきです", en: "If she's right for the job, we should consider doing that.", exampleJp: "彼女が適任なら、それを検討すべきです。", exampleEn: "If she's right for the job, we should consider doing that." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "息子をその学校に入れることを検討しています", en: "I'm considering sending my son to that school.", exampleJp: "息子をその学校に入れることを検討しています。", exampleEn: "I'm considering sending my son to that school." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "私のお願いに同意してくれるか待っているところです", en: "I'm waiting to see if they agree to my request.", exampleJp: "私のお願いに同意してくれるか待っているところです。", exampleEn: "I'm waiting to see if they agree to my request." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼らは私のお願いに同意してくれました", en: "They agreed to my request.", exampleJp: "彼らは私のお願いに同意してくれました。", exampleEn: "They agreed to my request." },
+
+            // Lesson 49: 助動詞エコー・その場の決定
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "「カント君のお母さんですよね？」「はい、そうです」", en: "— You're Kanto's mom, right? — Yes, I am.", exampleJp: "「カント君のお母さんですよね？」「はい、そうです」", exampleEn: "— You're Kanto's mom, right? — Yes, I am." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "もう一度選ばせてください", en: "Let me choose again.", exampleJp: "もう一度選ばせてください。", exampleEn: "Let me choose again." },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
@@ -4638,7 +4689,7 @@ const vocabulary =
             { category: "⭐︎ 反射練習", jp: "私は疲れています", en: "I'm tired.", exampleJp: "赤ちゃんのお世話で私は疲れています。", exampleEn: "I'm tired from taking care of the baby." },
             { category: "⭐︎ 反射練習", jp: "私は不安です", en: "I'm anxious.", exampleJp: "新しい環境に慣れるまで私は不安です。", exampleEn: "I'm anxious until I get used to the new environment." },
             { category: "⭐︎ 反射練習", jp: "私は忙しいです", en: "I'm busy.", exampleJp: "今朝は子供の幼稚園があって私は忙しいです。", exampleEn: "I'm busy this morning because of kindergarten." },
-            { category: "⭐︎ 反射練習", jp: "3人の子供がいます", en: "I have three children.", exampleJp: "私には3人の子供がいます。5歳、3歳、0歳です。", exampleEn: "I have three children. They are five, three, and zero." },
+            { category: "⭐︎ 反射練習", jp: "3人の子供がいます", en: "I have three children.", exampleJp: "私には3人の子供がいます。6歳、4歳、あと赤ちゃんです。", exampleEn: "I have three children. They are six, four, and a baby." },
             { category: "⭐︎ 反射練習", jp: "十分あります", en: "I have enough.", exampleJp: "家と食べ物があれば十分あります。", exampleEn: "If I have a house and food, I have enough." },
             { category: "⭐︎ 反射練習", jp: "経験があります", en: "I have experience.", exampleJp: "理学療法士としての経験があります。", exampleEn: "I have experience as a physical therapist." },
             { category: "⭐︎ 反射練習", jp: "運転免許を持っています", en: "I have a driver's license.", exampleJp: "日本の運転免許を持っています。", exampleEn: "I have a Japanese driver's license." },
