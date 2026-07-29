@@ -4663,6 +4663,34 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-07-27", jp: "「カント君のお母さんですよね？」「はい、そうです」", en: "— You're Kanto's mom, right? — Yes, I am.", exampleJp: "「カント君のお母さんですよね？」「はい、そうです」", exampleEn: "— You're Kanto's mom, right? — Yes, I am." },
             { category: "⭐︎ 今週の練習 2026-07-27", jp: "もう一度選ばせてください", en: "Let me choose again.", exampleJp: "もう一度選ばせてください。", exampleEn: "Let me choose again." },
 
+            // Lesson 50 (7/29 TOEIC Q37-42): 使役 have + 物 + 過去分詞（修理の生命線）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "スマホの画面を直してもらう必要があります", en: "I need to have the screen on my phone fixed.", exampleJp: "スマホの画面を直してもらう必要があります。", exampleEn: "I need to have the screen on my phone fixed." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "これを直してもらいたいのですが", en: "I need to have this fixed.", exampleJp: "これを直してもらいたいのですが。", exampleEn: "I need to have this fixed." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "スマホはどこで修理してもらえますか？", en: "Where can I get my phone repaired?", exampleJp: "スマホはどこで修理してもらえますか？", exampleEn: "Where can I get my phone repaired?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "エアコンを直してもらいました", en: "I had my air conditioner fixed.", exampleJp: "エアコンを直してもらいました。", exampleEn: "I had my air conditioner fixed." },
+
+            // Lesson 50: 修理ショップの台本
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "リュックから落ちて、ケースに入れていたのに割れました", en: "It fell out of my backpack and cracked, even though it's in a case.", exampleJp: "リュックから落ちて、ケースに入れていたのに割れました。", exampleEn: "It fell out of my backpack and cracked, even though it's in a case." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "その電話を見せていただけますか？", en: "May I take a look at the phone?", exampleJp: "その電話を見せていただけますか？", exampleEn: "May I take a look at the phone?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "新しい画面を付けるのは問題ありません", en: "It will be no problem to put a new screen on this.", exampleJp: "新しい画面を付けるのは問題ありません。", exampleEn: "It will be no problem to put a new screen on this." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "明日には受け取れますか？", en: "Will I be able to get it back tomorrow?", exampleJp: "明日には受け取れますか？", exampleEn: "Will I be able to get it back tomorrow?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "今すぐ対応できますよ", en: "I can take care of it right now.", exampleJp: "今すぐ対応できますよ。", exampleEn: "I can take care of it right now." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "ここで待つか、20分後くらいに戻ってきてもいいですよ", en: "You can wait here or come back in about 20 minutes.", exampleJp: "ここで待つか、20分後くらいに戻ってきてもいいですよ。", exampleEn: "You can wait here or come back in about 20 minutes." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "その頃には仕上がっているはずです", en: "It should be ready then.", exampleJp: "その頃には仕上がっているはずです。", exampleEn: "It should be ready then." },
+
+            // Lesson 50: スマホなし生活・in- 接頭語
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "スマホがないと本当に不便でしょうね", en: "Not having my phone would be really inconvenient.", exampleJp: "スマホがないと本当に不便でしょうね。", exampleEn: "Not having my phone would be really inconvenient." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "スマホなしでは生きていけません", en: "I can't live without my phone.", exampleJp: "スマホなしでは生きていけません。", exampleEn: "I can't live without my phone." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "仕事や他のいろいろなことがいつも心配です", en: "I'm always worried about my work and many other things.", exampleJp: "仕事や他のいろいろなことがいつも心配です。", exampleEn: "I'm always worried about my work and many other things." },
+
+            // Lesson 50: 仕事の遅れ・期限
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "それは予定より遅れています", en: "We're behind schedule on that.", exampleJp: "それは予定より遅れています。", exampleEn: "We're behind schedule on that." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "彼女は他の仕事で忙しくしています", en: "She's been busy with other work.", exampleJp: "彼女は他の仕事で忙しくしています。", exampleEn: "She's been busy with other work." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "月末までにそれが必要です", en: "We need it by the end of the month.", exampleJp: "月末までにそれが必要です。", exampleEn: "We need it by the end of the month." },
+
+            // Lesson 50: 否定疑問文への応答（今日できた形を固定）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "「喉が渇いてるんじゃない？」「いいえ、眠いんです」", en: "— Isn't he thirsty? — No, he's sleepy.", exampleJp: "「喉が渇いてるんじゃない？」「いいえ、眠いんです」", exampleEn: "— Isn't he thirsty? — No, he's sleepy." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
