@@ -4691,6 +4691,26 @@ const vocabulary =
             // Lesson 50: 否定疑問文への応答（今日できた形を固定）
             { category: "⭐︎ 今週の練習 2026-07-27", jp: "「喉が渇いてるんじゃない？」「いいえ、眠いんです」", en: "— Isn't he thirsty? — No, he's sleepy.", exampleJp: "「喉が渇いてるんじゃない？」「いいえ、眠いんです」", exampleEn: "— Isn't he thirsty? — No, he's sleepy." },
 
+            // Lesson 51 (7/30 TOEIC Q43-48): bother/worry/borrow の意味ごと言い分け
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "邪魔したくないのですが", en: "I don't want to bother you.", exampleJp: "邪魔したくないのですが。", exampleEn: "I don't want to bother you." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "休憩中にすみません", en: "I don't want to bother you during your break.", exampleJp: "休憩中にすみません。", exampleEn: "I don't want to bother you during your break." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "それが心配です", en: "I'm worried about it.", exampleJp: "それが心配です。", exampleEn: "I'm worried about it." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "息子の熱が心配です", en: "I'm worried about my son's fever.", exampleJp: "息子の熱が心配です。", exampleEn: "I'm worried about my son's fever." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "これを借りてもいいですか？", en: "Can I borrow this?", exampleJp: "これを借りてもいいですか？", exampleEn: "Can I borrow this?" },
+
+            // Lesson 51: get a quote（見積もりをもらう）
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "この修理の見積もりをいただけますか？", en: "Could I get a quote for this repair?", exampleJp: "この修理の見積もりをいただけますか？", exampleEn: "Could I get a quote for this repair?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "あなたから見積もりをいただきたいのですが", en: "I was hoping to get a quote from you.", exampleJp: "あなたから見積もりをいただきたいのですが。", exampleEn: "I was hoping to get a quote from you." },
+
+            // Lesson 51: 電話応対・折り返し
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "もしもし、ユキです", en: "Hello, this is Yuki speaking.", exampleJp: "もしもし、ユキです。", exampleEn: "Hello, this is Yuki speaking." },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "30分後くらいに折り返してもらえますか？", en: "Can you call me back in about 30 minutes?", exampleJp: "30分後くらいに折り返してもらえますか？", exampleEn: "Can you call me back in about 30 minutes?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "お昼過ぎならお話しできます", en: "I'll be free to speak with you after lunch.", exampleJp: "お昼過ぎならお話しできます。", exampleEn: "I'll be free to speak with you after lunch." },
+
+            // Lesson 51: 確認質問の2つの型
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "「exposure」はどういう意味ですか？", en: "What does \"exposure\" mean?", exampleJp: "「exposure」はどういう意味ですか？", exampleEn: "What does \"exposure\" mean?" },
+            { category: "⭐︎ 今週の練習 2026-07-27", jp: "その単語を教えてください", en: "Please teach me that word.", exampleJp: "その単語を教えてください。", exampleEn: "Please teach me that word." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
