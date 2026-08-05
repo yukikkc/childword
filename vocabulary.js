@@ -4729,6 +4729,30 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-03", jp: "大勢の子がいるクラスに慣れない子もいます", en: "Some children can't get used to a class with so many other kids.", exampleJp: "大勢の子がいるクラスに慣れない子もいます。", exampleEn: "Some children can't get used to a class with so many other kids." },
             { category: "⭐︎ 今週の練習 2026-08-03", jp: "すみません、英語で説明するのが難しいです", en: "Sorry, it's difficult to explain in English.", exampleJp: "すみません、英語で説明するのが難しいです。", exampleEn: "Sorry, it's difficult to explain in English." },
 
+            // ===== Lesson 54 (8/5 Daily News: Screen Time and Brain Health) =====
+
+            // Lesson 54: R/L生活語の口癖化（rest→list ×2 / play→pray が自発話で再発）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "1〜2時間ごとに休憩を取ります", en: "I take a rest every one or two hours.", exampleJp: "1〜2時間ごとに休憩を取ります。", exampleEn: "I take a rest every one or two hours." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "休みの日はいつも子どもと遊びます", en: "I always play with my children on my days off.", exampleJp: "休みの日はいつも子どもと遊びます。", exampleEn: "I always play with my children on my days off." },
+
+            // Lesson 54: zero根絶（3例目）・家族構成を言うとき全部で発動
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "子どもが3人います。6歳と4歳と赤ちゃんです", en: "I have three children. They are six, four, and a baby.", exampleJp: "子どもが3人います。6歳と4歳と赤ちゃんです。", exampleEn: "I have three children. They are six, four, and a baby." },
+
+            // Lesson 54: フリーランス・ルーティン台本（第5のホームグラウンド候補）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "家族が寝ているので、毎朝4時から7時まで働きます", en: "I work from four to seven every morning because my family is sleeping.", exampleJp: "家族が寝ているので、毎朝4時から7時まで働きます。", exampleEn: "I work from four to seven every morning because my family is sleeping." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "だからフリーランスになることを選びました", en: "That's why I chose to be a freelancer.", exampleJp: "だからフリーランスになることを選びました。", exampleEn: "That's why I chose to be a freelancer." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "集中できるのは長くても1〜2時間です", en: "I can concentrate for one or two hours at most.", exampleJp: "集中できるのは長くても1〜2時間です。", exampleEn: "I can concentrate for one or two hours at most." },
+
+            // Lesson 54: 家族説明の再メンテ（daughter/He混在・paternity leave・移住理由）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "夫が赤ちゃんの世話をしています。生後9ヶ月です", en: "My husband is taking care of our baby. He's nine months old.", exampleJp: "夫が赤ちゃんの世話をしています。生後9ヶ月です。", exampleEn: "My husband is taking care of our baby. He's nine months old." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "夫は今、育児休業を取っています", en: "My husband is taking paternity leave now.", exampleJp: "夫は今、育児休業を取っています。", exampleEn: "My husband is taking paternity leave now." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "家族全員で、子どもの教育のためにマレーシアに移住します", en: "Our whole family is moving to Malaysia for my children's education.", exampleJp: "家族全員で、子どもの教育のためにマレーシアに移住します。", exampleEn: "Our whole family is moving to Malaysia for my children's education." },
+
+            // Lesson 54: 挨拶・型の再メンテ
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "元気にしていました。あなたはどうですか？", en: "I've been good. How about you?", exampleJp: "元気にしていました。あなたはどうですか？", exampleEn: "I've been good. How about you?" },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "毎日の計画だけでなく、月間の計画もです", en: "Not only daily plans but also monthly plans.", exampleJp: "毎日の計画だけでなく、月間の計画もです。", exampleEn: "Not only daily plans but also monthly plans." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "Xは1日3回くらい、1回5〜10分だけ見ます", en: "I check X about three times a day, five to ten minutes each time.", exampleJp: "Xは1日3回くらい、1回5〜10分だけ見ます。", exampleEn: "I check X about three times a day, five to ten minutes each time." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
