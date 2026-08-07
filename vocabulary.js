@@ -4753,6 +4753,32 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-03", jp: "毎日の計画だけでなく、月間の計画もです", en: "Not only daily plans but also monthly plans.", exampleJp: "毎日の計画だけでなく、月間の計画もです。", exampleEn: "Not only daily plans but also monthly plans." },
             { category: "⭐︎ 今週の練習 2026-08-03", jp: "Xは1日3回くらい、1回5〜10分だけ見ます", en: "I check X about three times a day, five to ten minutes each time.", exampleJp: "Xは1日3回くらい、1回5〜10分だけ見ます。", exampleEn: "I check X about three times a day, five to ten minutes each time." },
 
+            // ===== 今週の練習 2026-08-03: Lesson 55 (8/7 Daily News: Housework Services) =====
+
+            // Lesson 55: シッター・助成金トークの台本化（第6のホームグラウンド候補）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "ベビーシッターを選ぶのに時間がかかりました", en: "It took me a long time to choose a babysitter.", exampleJp: "ベビーシッターを選ぶのに時間がかかりました。", exampleEn: "It took me a long time to choose a babysitter." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "シッターさんの評価と交通費をチェックします", en: "I check the babysitter's reviews and the transportation fee.", exampleJp: "シッターさんの評価と交通費をチェックします。", exampleEn: "I check the babysitter's reviews and the transportation fee." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "シッターさんで大事なのは心構えです", en: "What's important about babysitters is their mindset.", exampleJp: "シッターさんで大事なのは心構えです。", exampleEn: "What's important about babysitters is their mindset." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "東京では、ベビーシッター利用に助成金が出ます", en: "In Tokyo, the government gives us grants for babysitting services.", exampleJp: "東京では、ベビーシッター利用に助成金が出ます。", exampleEn: "In Tokyo, the government gives us grants for babysitting services." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "1時間あたり最大2,500円まで受け取れます", en: "We can get up to 2,500 yen per hour.", exampleJp: "1時間あたり最大2,500円まで受け取れます。", exampleEn: "We can get up to 2,500 yen per hour." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "他の地域でも助成金が使えるようになるといいなと思います", en: "I hope the grants will be available in other regions too.", exampleJp: "他の地域でも助成金が使えるようになるといいなと思います。", exampleEn: "I hope the grants will be available in other regions too." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "幸い東京に住んでいるので、安くシッターサービスを使えます", en: "Fortunately, I live in Tokyo, so I can use babysitting services at a low cost.", exampleJp: "幸い東京に住んでいるので、安くシッターサービスを使えます。", exampleEn: "Fortunately, I live in Tokyo, so I can use babysitting services at a low cost." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "週に1〜2回シッターサービスを使います", en: "I use a babysitting service once or twice a week.", exampleJp: "週に1〜2回シッターサービスを使います。", exampleEn: "I use a babysitting service once or twice a week." },
+
+            // Lesson 55: ワンオペ体験談を過去形で（語り出しの1文目から過去形）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "夫が1週間マレーシアにいたので、1人で子どもの世話をしました", en: "My husband was in Malaysia for a week, so I took care of the kids by myself.", exampleJp: "夫が1週間マレーシアにいたので、1人で子どもの世話をしました。", exampleEn: "My husband was in Malaysia for a week, so I took care of the kids by myself." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "1日に3人のヘルパーさんを頼みました", en: "I hired three helpers in one day.", exampleJp: "1日に3人のヘルパーさんを頼みました。", exampleEn: "I hired three helpers in one day." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "午前中はヘルパーさんが夕食を作ってくれました", en: "In the morning, a helper cooked dinner for us.", exampleJp: "午前中はヘルパーさんが夕食を作ってくれました。", exampleEn: "In the morning, a helper cooked dinner for us." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "私が上の子とお風呂に入る間、3人目の方が赤ちゃんを見てくれました", en: "The third helper took care of my baby while I took a bath with the older kids.", exampleJp: "私が上の子とお風呂に入る間、3人目の方が赤ちゃんを見てくれました。", exampleEn: "The third helper took care of my baby while I took a bath with the older kids." },
+
+            // Lesson 55: シッター・家事代行の表現メンテ（use + -ing / 冠詞・三単現）
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "良いシッターさんは赤ちゃんにたくさん話しかけて笑わせてくれます", en: "A good babysitter talks to my baby a lot and makes them laugh.", exampleJp: "良いシッターさんは赤ちゃんにたくさん話しかけて笑わせてくれます。", exampleEn: "A good babysitter talks to my baby a lot and makes them laugh." },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "家事代行を使うことに抵抗はありません", en: "I feel comfortable using a housekeeper.", exampleJp: "家事代行を使うことに抵抗はありません。", exampleEn: "I feel comfortable using a housekeeper." },
+
+            // Lesson 55: チャット翻訳の獲得ルートを型に
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "これは英語で何と言いますか？", en: "How do you say this in English?", exampleJp: "これは英語で何と言いますか？", exampleEn: "How do you say this in English?" },
+            { category: "⭐︎ 今週の練習 2026-08-03", jp: "それが言いたかったんです。ありがとう", en: "That's what I wanted to say. Thank you.", exampleJp: "それが言いたかったんです。ありがとう。", exampleEn: "That's what I wanted to say. Thank you." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
