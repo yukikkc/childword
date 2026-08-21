@@ -4821,6 +4821,27 @@ const vocabulary =
             // Lesson 57: used to（過去の習慣）
             { category: "⭐︎ 今週の練習 2026-08-17", jp: "昔は先生が紙のお便りを配っていました", en: "Teachers used to hand out paper notices many years ago.", exampleJp: "昔は先生が紙のお便りを配っていました。", exampleEn: "Teachers used to hand out paper notices many years ago." },
 
+            // ===== 今週の練習 2026-08-17: Lesson 58 (8/21 Anastasia Megumi: Japan's Young Educator) =====
+
+            // Lesson 58: 「人の目を気にする」— 文化比較（Why Malaysia?）の台本
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "日本では、多くの人が人の目を気にします", en: "In Japan, many people worry about what others think.", exampleJp: "日本では、多くの人が人の目を気にします。", exampleEn: "In Japan, many people worry about what others think." },
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "だから自分の意見を言いにくいのです", en: "So it's hard for them to say their opinions.", exampleJp: "だから自分の意見を言いにくいのです。", exampleEn: "So it's hard for them to say their opinions." },
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "マレーシアでは、人と違うことが普通です", en: "In Malaysia, being different is normal.", exampleJp: "マレーシアでは、人と違うことが普通です。", exampleEn: "In Malaysia, being different is normal." },
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "あちらの人たちは多様性を受け入れています", en: "People there accept diversity.", exampleJp: "あちらの人たちは多様性を受け入れています。", exampleEn: "People there accept diversity." },
+
+            // Lesson 58: I'd rather A than B（Would you rather...? への返答型）
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "教師より医者になりたいです", en: "I'd rather become a doctor than a teacher.", exampleJp: "教師より医者になりたいです。", exampleEn: "I'd rather become a doctor than a teacher." },
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "医者はとても大変な仕事です", en: "Being a doctor is a very tough job.", exampleJp: "医者はとても大変な仕事です。", exampleEn: "Being a doctor is a very tough job." },
+
+            // Lesson 58: 現在完了の仕上げ（have already まで出た→過去分詞＋to）
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "そのことは会社にもう話してあります", en: "I have already talked to the company about it.", exampleJp: "そのことは会社にもう話してあります。", exampleEn: "I have already talked to the company about it." },
+
+            // Lesson 58: at noon → during the day
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "日中は時間がない人もいます", en: "Some people don't have time during the day.", exampleJp: "日中は時間がない人もいます。", exampleEn: "Some people don't have time during the day." },
+
+            // Lesson 58: 相手に質問を返す型（双方向化）
+            { category: "⭐︎ 今週の練習 2026-08-17", jp: "あなたはどうですか？", en: "How about you?", exampleJp: "あなたはどうですか？", exampleEn: "How about you?" },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
