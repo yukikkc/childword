@@ -4782,65 +4782,92 @@ const vocabulary =
             // ===== 今週の練習 2026-08-17: Lesson 56 (8/17 Daily News: City & Theme Park) =====
 
             // Lesson 56: 休暇明けスモールトーク台本（過去形で始める）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "ほとんど子どもたちと遊んでいました", en: "I mostly played with my children.", exampleJp: "ほとんど子どもたちと遊んでいました。", exampleEn: "I mostly played with my children." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "ほとんど家で過ごしました", en: "We stayed home most of the time.", exampleJp: "ほとんど家で過ごしました。", exampleEn: "We stayed home most of the time." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "昨日は娘の友達とママたちに会いに出かけました", en: "Yesterday, I went out to meet my daughter's friends and their moms.", exampleJp: "昨日は娘の友達とママたちに会いに出かけました。", exampleEn: "Yesterday, I went out to meet my daughter's friends and their moms." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "子どもたちが遊んでいる間、ママたちはおしゃべりしました", en: "The moms chatted while the children played.", exampleJp: "子どもたちが遊んでいる間、ママたちはおしゃべりしました。", exampleEn: "The moms chatted while the children played." },
+            { category: "⭐︎ レッスン復習", jp: "ほとんど子どもたちと遊んでいました", en: "I mostly played with my children.", exampleJp: "ほとんど子どもたちと遊んでいました。", exampleEn: "I mostly played with my children." },
+            { category: "⭐︎ レッスン復習", jp: "ほとんど家で過ごしました", en: "We stayed home most of the time.", exampleJp: "ほとんど家で過ごしました。", exampleEn: "We stayed home most of the time." },
+            { category: "⭐︎ レッスン復習", jp: "昨日は娘の友達とママたちに会いに出かけました", en: "Yesterday, I went out to meet my daughter's friends and their moms.", exampleJp: "昨日は娘の友達とママたちに会いに出かけました。", exampleEn: "Yesterday, I went out to meet my daughter's friends and their moms." },
+            { category: "⭐︎ レッスン復習", jp: "子どもたちが遊んでいる間、ママたちはおしゃべりしました", en: "The moms chatted while the children played.", exampleJp: "子どもたちが遊んでいる間、ママたちはおしゃべりしました。", exampleEn: "The moms chatted while the children played." },
 
             // Lesson 56: zeroのセルフ言い直し（5例目→出たら直す練習へ）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "6歳と4歳と、赤ちゃんです", en: "They are six, four, and a baby.", exampleJp: "6歳と4歳と、赤ちゃんです。（zeroと言ってしまったら → I mean, a baby.）", exampleEn: "They are six, four, and a baby. — I mean, a baby." },
+            { category: "⭐︎ レッスン復習", jp: "6歳と4歳と、赤ちゃんです", en: "They are six, four, and a baby.", exampleJp: "6歳と4歳と、赤ちゃんです。（zeroと言ってしまったら → I mean, a baby.）", exampleEn: "They are six, four, and a baby. — I mean, a baby." },
 
             // Lesson 56: 「お任せします」の型
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "あなたが選んでください。どちらでもいいです", en: "You can choose. Either is fine.", exampleJp: "あなたが選んでください。どちらでもいいです。", exampleEn: "You can choose. Either is fine." },
+            { category: "⭐︎ レッスン復習", jp: "あなたが選んでください。どちらでもいいです", en: "You can choose. Either is fine.", exampleJp: "あなたが選んでください。どちらでもいいです。", exampleEn: "You can choose. Either is fine." },
 
             // Lesson 56: お盆・日本文化の1文説明（冠詞つきで固定）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "先週はお盆という日本の祝日でした", en: "Last week was Obon, a Japanese holiday.", exampleJp: "先週はお盆という日本の祝日でした。", exampleEn: "Last week was Obon, a Japanese holiday." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "1週間ネイティブキャンプのレッスンを受けられませんでした", en: "I couldn't take Native Camp lessons for a week.", exampleJp: "1週間ネイティブキャンプのレッスンを受けられませんでした。", exampleEn: "I couldn't take Native Camp lessons for a week." },
+            { category: "⭐︎ レッスン復習", jp: "先週はお盆という日本の祝日でした", en: "Last week was Obon, a Japanese holiday.", exampleJp: "先週はお盆という日本の祝日でした。", exampleEn: "Last week was Obon, a Japanese holiday." },
+            { category: "⭐︎ レッスン復習", jp: "1週間ネイティブキャンプのレッスンを受けられませんでした", en: "I couldn't take Native Camp lessons for a week.", exampleJp: "1週間ネイティブキャンプのレッスンを受けられませんでした。", exampleEn: "I couldn't take Native Camp lessons for a week." },
 
             // ===== 今週の練習 2026-08-17: Lesson 57 (8/18 Daily News: Communication Divide in Education) =====
 
             // Lesson 57: If条件文の反射化（if落ち対策・今週の主役）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "もし子どもがケガをしたら、状況を説明できないかもしれません", en: "If my children get hurt, I might not be able to explain the situation.", exampleJp: "もし子どもがケガをしたら、状況を説明できないかもしれません。", exampleEn: "If my children get hurt, I might not be able to explain the situation." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "もしアプリが全部翻訳したら、子どもたちは話す練習をしなくなります", en: "If the app translates everything, my children won't practice speaking.", exampleJp: "もしアプリが全部翻訳したら、子どもたちは話す練習をしなくなります。", exampleEn: "If the app translates everything, my children won't practice speaking." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "もし明日も熱があったら、家で休ませます", en: "If she has a fever tomorrow, I will keep her home.", exampleJp: "もし明日も熱があったら、家で休ませます。", exampleEn: "If she has a fever tomorrow, I will keep her home." },
+            { category: "⭐︎ レッスン復習", jp: "もし子どもがケガをしたら、状況を説明できないかもしれません", en: "If my children get hurt, I might not be able to explain the situation.", exampleJp: "もし子どもがケガをしたら、状況を説明できないかもしれません。", exampleEn: "If my children get hurt, I might not be able to explain the situation." },
+            { category: "⭐︎ レッスン復習", jp: "もしアプリが全部翻訳したら、子どもたちは話す練習をしなくなります", en: "If the app translates everything, my children won't practice speaking.", exampleJp: "もしアプリが全部翻訳したら、子どもたちは話す練習をしなくなります。", exampleEn: "If the app translates everything, my children won't practice speaking." },
+            { category: "⭐︎ レッスン復習", jp: "もし明日も熱があったら、家で休ませます", en: "If she has a fever tomorrow, I will keep her home.", exampleJp: "もし明日も熱があったら、家で休ませます。", exampleEn: "If she has a fever tomorrow, I will keep her home." },
 
             // Lesson 57: might not be able to（maybe couldn't の置き換え）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "英語で説明できないかもしれません", en: "I might not be able to explain it in English.", exampleJp: "英語で説明できないかもしれません。", exampleEn: "I might not be able to explain it in English." },
+            { category: "⭐︎ レッスン復習", jp: "英語で説明できないかもしれません", en: "I might not be able to explain it in English.", exampleJp: "英語で説明できないかもしれません。", exampleEn: "I might not be able to explain it in English." },
 
             // Lesson 57: 「あとで調べます」（look after → look up の上書き）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "いくつか分からない表現があります。あとで調べます", en: "Some phrases are unclear. I'll look them up later.", exampleJp: "いくつか分からない表現があります。あとで調べます。", exampleEn: "Some phrases are unclear. I'll look them up later." },
+            { category: "⭐︎ レッスン復習", jp: "いくつか分からない表現があります。あとで調べます", en: "Some phrases are unclear. I'll look them up later.", exampleJp: "いくつか分からない表現があります。あとで調べます。", exampleEn: "Some phrases are unclear. I'll look them up later." },
 
             // Lesson 57: 口頭獲得の定型（What do you say? 成功を正しい形で固定）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "それは英語で何と言いますか？", en: "How do you say it in English?", exampleJp: "それは英語で何と言いますか？", exampleEn: "How do you say it in English?" },
+            { category: "⭐︎ レッスン復習", jp: "それは英語で何と言いますか？", en: "How do you say it in English?", exampleJp: "それは英語で何と言いますか？", exampleEn: "How do you say it in English?" },
 
             // Lesson 57: 家族の方針・翻訳アプリの説明
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "私たちの目的は英語を上達させることです", en: "Our purpose is to improve our English.", exampleJp: "私たちの目的は英語を上達させることです。", exampleEn: "Our purpose is to improve our English." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "Google翻訳のアプリを入れました。今のところそれで十分です", en: "I installed the Google Translate app. It's enough for now.", exampleJp: "Google翻訳のアプリを入れました。今のところそれで十分です。", exampleEn: "I installed the Google Translate app. It's enough for now." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "アプリの目的は、コミュニケーションを速くすることです", en: "The purpose of the app is to make communication faster.", exampleJp: "アプリの目的は、コミュニケーションを速くすることです。", exampleEn: "The purpose of the app is to make communication faster." },
+            { category: "⭐︎ レッスン復習", jp: "私たちの目的は英語を上達させることです", en: "Our purpose is to improve our English.", exampleJp: "私たちの目的は英語を上達させることです。", exampleEn: "Our purpose is to improve our English." },
+            { category: "⭐︎ レッスン復習", jp: "Google翻訳のアプリを入れました。今のところそれで十分です", en: "I installed the Google Translate app. It's enough for now.", exampleJp: "Google翻訳のアプリを入れました。今のところそれで十分です。", exampleEn: "I installed the Google Translate app. It's enough for now." },
+            { category: "⭐︎ レッスン復習", jp: "アプリの目的は、コミュニケーションを速くすることです", en: "The purpose of the app is to make communication faster.", exampleJp: "アプリの目的は、コミュニケーションを速くすることです。", exampleEn: "The purpose of the app is to make communication faster." },
 
             // Lesson 57: used to（過去の習慣）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "昔は先生が紙のお便りを配っていました", en: "Teachers used to hand out paper notices many years ago.", exampleJp: "昔は先生が紙のお便りを配っていました。", exampleEn: "Teachers used to hand out paper notices many years ago." },
+            { category: "⭐︎ レッスン復習", jp: "昔は先生が紙のお便りを配っていました", en: "Teachers used to hand out paper notices many years ago.", exampleJp: "昔は先生が紙のお便りを配っていました。", exampleEn: "Teachers used to hand out paper notices many years ago." },
 
             // ===== 今週の練習 2026-08-17: Lesson 58 (8/21 Anastasia Megumi: Japan's Young Educator) =====
 
             // Lesson 58: 「人の目を気にする」— 文化比較（Why Malaysia?）の台本
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "日本では、多くの人が人の目を気にします", en: "In Japan, many people worry about what others think.", exampleJp: "日本では、多くの人が人の目を気にします。", exampleEn: "In Japan, many people worry about what others think." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "だから自分の意見を言いにくいのです", en: "So it's hard for them to say their opinions.", exampleJp: "だから自分の意見を言いにくいのです。", exampleEn: "So it's hard for them to say their opinions." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "マレーシアでは、人と違うことが普通です", en: "In Malaysia, being different is normal.", exampleJp: "マレーシアでは、人と違うことが普通です。", exampleEn: "In Malaysia, being different is normal." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "あちらの人たちは多様性を受け入れています", en: "People there accept diversity.", exampleJp: "あちらの人たちは多様性を受け入れています。", exampleEn: "People there accept diversity." },
+            { category: "⭐︎ レッスン復習", jp: "日本では、多くの人が人の目を気にします", en: "In Japan, many people worry about what others think.", exampleJp: "日本では、多くの人が人の目を気にします。", exampleEn: "In Japan, many people worry about what others think." },
+            { category: "⭐︎ レッスン復習", jp: "だから自分の意見を言いにくいのです", en: "So it's hard for them to say their opinions.", exampleJp: "だから自分の意見を言いにくいのです。", exampleEn: "So it's hard for them to say their opinions." },
+            { category: "⭐︎ レッスン復習", jp: "マレーシアでは、人と違うことが普通です", en: "In Malaysia, being different is normal.", exampleJp: "マレーシアでは、人と違うことが普通です。", exampleEn: "In Malaysia, being different is normal." },
+            { category: "⭐︎ レッスン復習", jp: "あちらの人たちは多様性を受け入れています", en: "People there accept diversity.", exampleJp: "あちらの人たちは多様性を受け入れています。", exampleEn: "People there accept diversity." },
 
             // Lesson 58: I'd rather A than B（Would you rather...? への返答型）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "教師より医者になりたいです", en: "I'd rather become a doctor than a teacher.", exampleJp: "教師より医者になりたいです。", exampleEn: "I'd rather become a doctor than a teacher." },
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "医者はとても大変な仕事です", en: "Being a doctor is a very tough job.", exampleJp: "医者はとても大変な仕事です。", exampleEn: "Being a doctor is a very tough job." },
+            { category: "⭐︎ レッスン復習", jp: "教師より医者になりたいです", en: "I'd rather become a doctor than a teacher.", exampleJp: "教師より医者になりたいです。", exampleEn: "I'd rather become a doctor than a teacher." },
+            { category: "⭐︎ レッスン復習", jp: "医者はとても大変な仕事です", en: "Being a doctor is a very tough job.", exampleJp: "医者はとても大変な仕事です。", exampleEn: "Being a doctor is a very tough job." },
 
             // Lesson 58: 現在完了の仕上げ（have already まで出た→過去分詞＋to）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "そのことは会社にもう話してあります", en: "I have already talked to the company about it.", exampleJp: "そのことは会社にもう話してあります。", exampleEn: "I have already talked to the company about it." },
+            { category: "⭐︎ レッスン復習", jp: "そのことは会社にもう話してあります", en: "I have already talked to the company about it.", exampleJp: "そのことは会社にもう話してあります。", exampleEn: "I have already talked to the company about it." },
 
             // Lesson 58: at noon → during the day
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "日中は時間がない人もいます", en: "Some people don't have time during the day.", exampleJp: "日中は時間がない人もいます。", exampleEn: "Some people don't have time during the day." },
+            { category: "⭐︎ レッスン復習", jp: "日中は時間がない人もいます", en: "Some people don't have time during the day.", exampleJp: "日中は時間がない人もいます。", exampleEn: "Some people don't have time during the day." },
 
             // Lesson 58: 相手に質問を返す型（双方向化）
-            { category: "⭐︎ 今週の練習 2026-08-17", jp: "あなたはどうですか？", en: "How about you?", exampleJp: "あなたはどうですか？", exampleEn: "How about you?" },
+            { category: "⭐︎ レッスン復習", jp: "あなたはどうですか？", en: "How about you?", exampleJp: "あなたはどうですか？", exampleEn: "How about you?" },
+
+            // ===== 今週の練習 2026-08-24: Lesson 59 (8/24 TOEIC LNR 600 Part 3 Q79-84) =====
+
+            // Lesson 59: 「聞きたい」の方向（I want you to ask → I want to ask you）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "この単語の意味をお聞きしたいです", en: "I want to ask you the meaning of this word.", exampleJp: "この単語の意味をお聞きしたいです。", exampleEn: "I want to ask you the meaning of this word." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "「eligible」はどういう意味ですか？", en: "What does \"eligible\" mean?", exampleJp: "「eligible」はどういう意味ですか？", exampleEn: "What does \"eligible\" mean?" },
+
+            // Lesson 59: 肩こり・整体の健康台本（クリニック用）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "肩がこっています", en: "My shoulders are stiff.", exampleJp: "肩がこっています。", exampleEn: "My shoulders are stiff." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "一日中パソコンの前に座っています", en: "I sit in front of a computer all day.", exampleJp: "一日中パソコンの前に座っています。", exampleEn: "I sit in front of a computer all day." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "整体に行きました。今はだいぶ楽です", en: "I went to an osteopath. I feel much better now.", exampleJp: "整体に行きました。今はだいぶ楽です。", exampleEn: "I went to an osteopath. I feel much better now." },
+
+            // Lesson 59: I'll 系の反射化（will落ち2連続への対策）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "答えてみます", en: "I'll try to answer.", exampleJp: "答えてみます。", exampleEn: "I'll try to answer." },
+
+            // Lesson 59: レッスン運営（音声の再生依頼）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "もう一度再生してもらえますか？", en: "Could you play it again, please?", exampleJp: "もう一度再生してもらえますか？", exampleEn: "Could you play it again, please?" },
+
+            // Lesson 59: 定番形で言い直す
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "記憶力が悪くて、すみません", en: "I have a bad memory, sorry.", exampleJp: "記憶力が悪くて、すみません。", exampleEn: "I have a bad memory, sorry." },
+
+            // Lesson 59: 間接話法（until at / she say の修正）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "彼女は7時までそこにいると言っていました", en: "She said she will be there until 7.", exampleJp: "彼女は7時までそこにいると言っていました。", exampleEn: "She said she will be there until 7." },
+
+            // Lesson 59: have been 〜ing を音で装備（例文再生を聞いてから真似る）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "新しいルールについて質問をたくさん受けています", en: "I've been getting a lot of questions about the new rules.", exampleJp: "新しいルールについて質問をたくさん受けています。", exampleEn: "I've been getting a lot of questions about the new rules." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "みんなが私にもそのことを聞いてきています", en: "People have been asking me about it too.", exampleJp: "みんなが私にもそのことを聞いてきています。", exampleEn: "People have been asking me about it too." },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
