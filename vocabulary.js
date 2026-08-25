@@ -4869,6 +4869,35 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-24", jp: "新しいルールについて質問をたくさん受けています", en: "I've been getting a lot of questions about the new rules.", exampleJp: "新しいルールについて質問をたくさん受けています。", exampleEn: "I've been getting a lot of questions about the new rules." },
             { category: "⭐︎ 今週の練習 2026-08-24", jp: "みんなが私にもそのことを聞いてきています", en: "People have been asking me about it too.", exampleJp: "みんなが私にもそのことを聞いてきています。", exampleEn: "People have been asking me about it too." },
 
+            // ===== 今週の練習 2026-08-24: Lesson 60 (8/25 Daily News: Money Worries Delay Marriage) =====
+
+            // Lesson 60: 結婚の経緯（過去形ナラティブの固定）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "若い頃は結婚したくありませんでした", en: "When I was young, I didn't want to get married.", exampleJp: "若い頃は結婚したくありませんでした。", exampleEn: "When I was young, I didn't want to get married." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "30歳のとき、結婚について考え始めました", en: "When I was thirty, I started thinking about getting married.", exampleJp: "30歳のとき、結婚について考え始めました。", exampleEn: "When I was thirty, I started thinking about getting married." },
+
+            // Lesson 60: 比較級 + than をひとかたまりで
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京は他の地域より子育てがしやすいです", en: "It's easier to raise children in Tokyo than in other regions.", exampleJp: "東京は他の地域より子育てがしやすいです。", exampleEn: "It's easier to raise children in Tokyo than in other regions." },
+
+            // Lesson 60: 東京の子育て支援台本
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京都は子育て家庭に給付金を出しています", en: "Tokyo gives families some grants for childcare.", exampleJp: "東京都は子育て家庭に給付金を出しています。", exampleEn: "Tokyo gives families some grants for childcare." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京は財政が豊かなので給付が手厚いです", en: "Tokyo has a lot of money, so the grants are generous.", exampleJp: "東京は財政が豊かなので給付が手厚いです。", exampleEn: "Tokyo has a lot of money, so the grants are generous." },
+
+            // Lesson 60: 娘の紹介台本（インター面談用・三単現込み）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘は来年マレーシアのインターに入ります", en: "My daughter will enter an international school in Malaysia next year.", exampleJp: "娘は来年マレーシアのインターに入ります。", exampleEn: "My daughter will enter an international school in Malaysia next year." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘は英語を習っていますが、少し恥ずかしがりです", en: "She takes English lessons, but she is a little shy.", exampleJp: "娘は英語を習っていますが、少し恥ずかしがりです。", exampleEn: "She takes English lessons, but she is a little shy." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘にどこかで英語を話す練習をさせたいです", en: "We want her to practice speaking English somewhere.", exampleJp: "娘にどこかで英語を話す練習をさせたいです。", exampleEn: "We want her to practice speaking English somewhere." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "今年の終わりにマレーシアに引っ越します", en: "We are moving to Malaysia at the end of this year.", exampleJp: "今年の終わりにマレーシアに引っ越します。", exampleEn: "We are moving to Malaysia at the end of this year." },
+
+            // Lesson 60: 意見パート（崩れた文の定番形）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "最近は結婚なんて紙一枚です", en: "Marriage is just a piece of paper these days.", exampleJp: "最近は結婚なんて紙一枚です。", exampleEn: "Marriage is just a piece of paper these days." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "全部読むのは大変です", en: "It's hard to read all of it.", exampleJp: "全部読むのは大変です。", exampleEn: "It's hard to read all of it." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "AIが発達して安定した仕事が減りました", en: "AI has developed a lot, so stable jobs have decreased.", exampleJp: "AIが発達して安定した仕事が減りました。", exampleEn: "AI has developed a lot, so stable jobs have decreased." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "将来どんな仕事が必要か考えるべきです", en: "They should think about what jobs will be needed in the future.", exampleJp: "将来どんな仕事が必要か考えるべきです。", exampleEn: "They should think about what jobs will be needed in the future." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "愛情がとても大切で、お金も同じく大切です", en: "Loving support is very important, and money is important as well.", exampleJp: "愛情がとても大切で、お金も同じく大切です。", exampleEn: "Loving support is very important, and money is important as well." },
+
+            // Lesson 60: if条件文（3回連続で出ず・最優先継続）
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "若者が安定した仕事に就けなければ、家庭を持てません", en: "If young people can't get stable jobs, they can't start a family.", exampleJp: "若者が安定した仕事に就けなければ、家庭を持てません。", exampleEn: "If young people can't get stable jobs, they can't start a family." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
