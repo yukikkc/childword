@@ -4898,6 +4898,25 @@ const vocabulary =
             // Lesson 60: if条件文（3回連続で出ず・最優先継続）
             { category: "⭐︎ 今週の練習 2026-08-24", jp: "若者が安定した仕事に就けなければ、家庭を持てません", en: "If young people can't get stable jobs, they can't start a family.", exampleJp: "若者が安定した仕事に就けなければ、家庭を持てません。", exampleEn: "If young people can't get stable jobs, they can't start a family." },
 
+            // Lesson 61 (8/26 Daily News: New drink sparks fun in healthy choices for kids): 飲み物台本 / 比較級の形 / save money on / 移住説明 / if条件文
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "ほぼ毎日、炭酸水を飲みます", en: "I drink sparkling water almost every day.", exampleJp: "ほぼ毎日、炭酸水を飲みます。", exampleEn: "I drink sparkling water almost every day." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "砂糖もカロリーもゼロです", en: "It has no sugar and no calories.", exampleJp: "砂糖もカロリーもゼロです。", exampleEn: "It has no sugar and no calories." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供にはいつも麦茶を買います", en: "For my children, I usually buy barley tea.", exampleJp: "子供にはいつも麦茶を買います。", exampleEn: "For my children, I usually buy barley tea." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "麦茶は緑茶よりあっさりしています", en: "Barley tea is lighter than green tea.", exampleJp: "麦茶は緑茶よりあっさりしています。", exampleEn: "Barley tea is lighter than green tea." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供にはソーダは買いません。砂糖が多すぎます", en: "I don't buy soda for my children. It has too much sugar.", exampleJp: "子供にはソーダは買いません。砂糖が多すぎます。", exampleEn: "I don't buy soda for my children. It has too much sugar." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供には無糖のスポーツドリンクを買います", en: "I buy sugar-free sports drinks for my children.", exampleJp: "子供には無糖のスポーツドリンクを買います。", exampleEn: "I buy sugar-free sports drinks for my children." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "健康的で安いほうが好きです", en: "I prefer healthier and cheaper ones.", exampleJp: "健康的で安いほうが好きです。", exampleEn: "I prefer healthier and cheaper ones." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "飲み物代を節約したいので、水筒を買いました", en: "I want to save money on drinks, so I bought a water bottle.", exampleJp: "飲み物代を節約したいので、水筒を買いました。", exampleEn: "I want to save money on drinks, so I bought a water bottle." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供用にお茶か水を入れます", en: "I put tea or water in it for my children.", exampleJp: "子供用にお茶か水を入れます。", exampleEn: "I put tea or water in it for my children." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "英語で何と言いますか？泡の入った水です", en: "What do you call it in English? It's water with bubbles.", exampleJp: "英語で何と言いますか？泡の入った水です。", exampleEn: "What do you call it in English? It's water with bubbles." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘のインターナショナルスクールの書類を準備しています", en: "I'm preparing documents for my daughter's international school.", exampleJp: "娘のインターナショナルスクールの書類を準備しています。", exampleEn: "I'm preparing documents for my daughter's international school." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "準備に少し疲れています", en: "I'm a little tired of preparing them.", exampleJp: "準備に少し疲れています。", exampleEn: "I'm a little tired of preparing them." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "家族はまだ日本にいて、来年マレーシアに引っ越します", en: "My family is still in Japan, and we are moving to Malaysia next year.", exampleJp: "家族はまだ日本にいて、来年マレーシアに引っ越します。", exampleEn: "My family is still in Japan, and we are moving to Malaysia next year." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "夫は海外の教育が好きです", en: "My husband likes education in foreign countries.", exampleJp: "夫は海外の教育が好きです。", exampleEn: "My husband likes education in foreign countries." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました", en: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet.", exampleJp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました。", exampleEn: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです", en: "Mirin makes food mild and a little sweet. It's an alternative to sugar.", exampleJp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです。", exampleEn: "Mirin makes food mild and a little sweet. It's an alternative to sugar." },
+            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供に選ぶなら、無糖の飲み物を買います", en: "If I choose for my children, I buy sugar-free drinks.", exampleJp: "子供に選ぶなら、無糖の飲み物を買います。", exampleEn: "If I choose for my children, I buy sugar-free drinks." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
