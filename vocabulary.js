@@ -4845,97 +4845,122 @@ const vocabulary =
             // ===== 今週の練習 2026-08-24: Lesson 59 (8/24 TOEIC LNR 600 Part 3 Q79-84) =====
 
             // Lesson 59: 「聞きたい」の方向（I want you to ask → I want to ask you）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "この単語の意味をお聞きしたいです", en: "I want to ask you the meaning of this word.", exampleJp: "この単語の意味をお聞きしたいです。", exampleEn: "I want to ask you the meaning of this word." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "「eligible」はどういう意味ですか？", en: "What does \"eligible\" mean?", exampleJp: "「eligible」はどういう意味ですか？", exampleEn: "What does \"eligible\" mean?" },
+            { category: "⭐︎ レッスン復習", jp: "この単語の意味をお聞きしたいです", en: "I want to ask you the meaning of this word.", exampleJp: "この単語の意味をお聞きしたいです。", exampleEn: "I want to ask you the meaning of this word." },
+            { category: "⭐︎ レッスン復習", jp: "「eligible」はどういう意味ですか？", en: "What does \"eligible\" mean?", exampleJp: "「eligible」はどういう意味ですか？", exampleEn: "What does \"eligible\" mean?" },
 
             // Lesson 59: 肩こり・整体の健康台本（クリニック用）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "肩がこっています", en: "My shoulders are stiff.", exampleJp: "肩がこっています。", exampleEn: "My shoulders are stiff." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "一日中パソコンの前に座っています", en: "I sit in front of a computer all day.", exampleJp: "一日中パソコンの前に座っています。", exampleEn: "I sit in front of a computer all day." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "整体に行きました。今はだいぶ楽です", en: "I went to an osteopath. I feel much better now.", exampleJp: "整体に行きました。今はだいぶ楽です。", exampleEn: "I went to an osteopath. I feel much better now." },
+            { category: "⭐︎ レッスン復習", jp: "肩がこっています", en: "My shoulders are stiff.", exampleJp: "肩がこっています。", exampleEn: "My shoulders are stiff." },
+            { category: "⭐︎ レッスン復習", jp: "一日中パソコンの前に座っています", en: "I sit in front of a computer all day.", exampleJp: "一日中パソコンの前に座っています。", exampleEn: "I sit in front of a computer all day." },
+            { category: "⭐︎ レッスン復習", jp: "整体に行きました。今はだいぶ楽です", en: "I went to an osteopath. I feel much better now.", exampleJp: "整体に行きました。今はだいぶ楽です。", exampleEn: "I went to an osteopath. I feel much better now." },
 
             // Lesson 59: I'll 系の反射化（will落ち2連続への対策）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "答えてみます", en: "I'll try to answer.", exampleJp: "答えてみます。", exampleEn: "I'll try to answer." },
+            { category: "⭐︎ レッスン復習", jp: "答えてみます", en: "I'll try to answer.", exampleJp: "答えてみます。", exampleEn: "I'll try to answer." },
 
             // Lesson 59: レッスン運営（音声の再生依頼）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "もう一度再生してもらえますか？", en: "Could you play it again, please?", exampleJp: "もう一度再生してもらえますか？", exampleEn: "Could you play it again, please?" },
+            { category: "⭐︎ レッスン復習", jp: "もう一度再生してもらえますか？", en: "Could you play it again, please?", exampleJp: "もう一度再生してもらえますか？", exampleEn: "Could you play it again, please?" },
 
             // Lesson 59: 定番形で言い直す
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "記憶力が悪くて、すみません", en: "I have a bad memory, sorry.", exampleJp: "記憶力が悪くて、すみません。", exampleEn: "I have a bad memory, sorry." },
+            { category: "⭐︎ レッスン復習", jp: "記憶力が悪くて、すみません", en: "I have a bad memory, sorry.", exampleJp: "記憶力が悪くて、すみません。", exampleEn: "I have a bad memory, sorry." },
 
             // Lesson 59: 間接話法（until at / she say の修正）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "彼女は7時までそこにいると言っていました", en: "She said she will be there until 7.", exampleJp: "彼女は7時までそこにいると言っていました。", exampleEn: "She said she will be there until 7." },
+            { category: "⭐︎ レッスン復習", jp: "彼女は7時までそこにいると言っていました", en: "She said she will be there until 7.", exampleJp: "彼女は7時までそこにいると言っていました。", exampleEn: "She said she will be there until 7." },
 
             // Lesson 59: have been 〜ing を音で装備（例文再生を聞いてから真似る）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "新しいルールについて質問をたくさん受けています", en: "I've been getting a lot of questions about the new rules.", exampleJp: "新しいルールについて質問をたくさん受けています。", exampleEn: "I've been getting a lot of questions about the new rules." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "みんなが私にもそのことを聞いてきています", en: "People have been asking me about it too.", exampleJp: "みんなが私にもそのことを聞いてきています。", exampleEn: "People have been asking me about it too." },
+            { category: "⭐︎ レッスン復習", jp: "新しいルールについて質問をたくさん受けています", en: "I've been getting a lot of questions about the new rules.", exampleJp: "新しいルールについて質問をたくさん受けています。", exampleEn: "I've been getting a lot of questions about the new rules." },
+            { category: "⭐︎ レッスン復習", jp: "みんなが私にもそのことを聞いてきています", en: "People have been asking me about it too.", exampleJp: "みんなが私にもそのことを聞いてきています。", exampleEn: "People have been asking me about it too." },
 
             // ===== 今週の練習 2026-08-24: Lesson 60 (8/25 Daily News: Money Worries Delay Marriage) =====
 
             // Lesson 60: 結婚の経緯（過去形ナラティブの固定）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "若い頃は結婚したくありませんでした", en: "When I was young, I didn't want to get married.", exampleJp: "若い頃は結婚したくありませんでした。", exampleEn: "When I was young, I didn't want to get married." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "30歳のとき、結婚について考え始めました", en: "When I was thirty, I started thinking about getting married.", exampleJp: "30歳のとき、結婚について考え始めました。", exampleEn: "When I was thirty, I started thinking about getting married." },
+            { category: "⭐︎ レッスン復習", jp: "若い頃は結婚したくありませんでした", en: "When I was young, I didn't want to get married.", exampleJp: "若い頃は結婚したくありませんでした。", exampleEn: "When I was young, I didn't want to get married." },
+            { category: "⭐︎ レッスン復習", jp: "30歳のとき、結婚について考え始めました", en: "When I was thirty, I started thinking about getting married.", exampleJp: "30歳のとき、結婚について考え始めました。", exampleEn: "When I was thirty, I started thinking about getting married." },
 
             // Lesson 60: 比較級 + than をひとかたまりで
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京は他の地域より子育てがしやすいです", en: "It's easier to raise children in Tokyo than in other regions.", exampleJp: "東京は他の地域より子育てがしやすいです。", exampleEn: "It's easier to raise children in Tokyo than in other regions." },
+            { category: "⭐︎ レッスン復習", jp: "東京は他の地域より子育てがしやすいです", en: "It's easier to raise children in Tokyo than in other regions.", exampleJp: "東京は他の地域より子育てがしやすいです。", exampleEn: "It's easier to raise children in Tokyo than in other regions." },
 
             // Lesson 60: 東京の子育て支援台本
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京都は子育て家庭に給付金を出しています", en: "Tokyo gives families some grants for childcare.", exampleJp: "東京都は子育て家庭に給付金を出しています。", exampleEn: "Tokyo gives families some grants for childcare." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "東京は財政が豊かなので給付が手厚いです", en: "Tokyo has a lot of money, so the grants are generous.", exampleJp: "東京は財政が豊かなので給付が手厚いです。", exampleEn: "Tokyo has a lot of money, so the grants are generous." },
+            { category: "⭐︎ レッスン復習", jp: "東京都は子育て家庭に給付金を出しています", en: "Tokyo gives families some grants for childcare.", exampleJp: "東京都は子育て家庭に給付金を出しています。", exampleEn: "Tokyo gives families some grants for childcare." },
+            { category: "⭐︎ レッスン復習", jp: "東京は財政が豊かなので給付が手厚いです", en: "Tokyo has a lot of money, so the grants are generous.", exampleJp: "東京は財政が豊かなので給付が手厚いです。", exampleEn: "Tokyo has a lot of money, so the grants are generous." },
 
             // Lesson 60: 娘の紹介台本（インター面談用・三単現込み）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘は来年マレーシアのインターに入ります", en: "My daughter will enter an international school in Malaysia next year.", exampleJp: "娘は来年マレーシアのインターに入ります。", exampleEn: "My daughter will enter an international school in Malaysia next year." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘は英語を習っていますが、少し恥ずかしがりです", en: "She takes English lessons, but she is a little shy.", exampleJp: "娘は英語を習っていますが、少し恥ずかしがりです。", exampleEn: "She takes English lessons, but she is a little shy." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘にどこかで英語を話す練習をさせたいです", en: "We want her to practice speaking English somewhere.", exampleJp: "娘にどこかで英語を話す練習をさせたいです。", exampleEn: "We want her to practice speaking English somewhere." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "今年の終わりにマレーシアに引っ越します", en: "We are moving to Malaysia at the end of this year.", exampleJp: "今年の終わりにマレーシアに引っ越します。", exampleEn: "We are moving to Malaysia at the end of this year." },
+            { category: "⭐︎ レッスン復習", jp: "娘は来年マレーシアのインターに入ります", en: "My daughter will enter an international school in Malaysia next year.", exampleJp: "娘は来年マレーシアのインターに入ります。", exampleEn: "My daughter will enter an international school in Malaysia next year." },
+            { category: "⭐︎ レッスン復習", jp: "娘は英語を習っていますが、少し恥ずかしがりです", en: "She takes English lessons, but she is a little shy.", exampleJp: "娘は英語を習っていますが、少し恥ずかしがりです。", exampleEn: "She takes English lessons, but she is a little shy." },
+            { category: "⭐︎ レッスン復習", jp: "娘にどこかで英語を話す練習をさせたいです", en: "We want her to practice speaking English somewhere.", exampleJp: "娘にどこかで英語を話す練習をさせたいです。", exampleEn: "We want her to practice speaking English somewhere." },
+            { category: "⭐︎ レッスン復習", jp: "今年の終わりにマレーシアに引っ越します", en: "We are moving to Malaysia at the end of this year.", exampleJp: "今年の終わりにマレーシアに引っ越します。", exampleEn: "We are moving to Malaysia at the end of this year." },
 
             // Lesson 60: 意見パート（崩れた文の定番形）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "最近は結婚なんて紙一枚です", en: "Marriage is just a piece of paper these days.", exampleJp: "最近は結婚なんて紙一枚です。", exampleEn: "Marriage is just a piece of paper these days." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "全部読むのは大変です", en: "It's hard to read all of it.", exampleJp: "全部読むのは大変です。", exampleEn: "It's hard to read all of it." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "AIが発達して安定した仕事が減りました", en: "AI has developed a lot, so stable jobs have decreased.", exampleJp: "AIが発達して安定した仕事が減りました。", exampleEn: "AI has developed a lot, so stable jobs have decreased." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "将来どんな仕事が必要か考えるべきです", en: "They should think about what jobs will be needed in the future.", exampleJp: "将来どんな仕事が必要か考えるべきです。", exampleEn: "They should think about what jobs will be needed in the future." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "愛情がとても大切で、お金も同じく大切です", en: "Loving support is very important, and money is important as well.", exampleJp: "愛情がとても大切で、お金も同じく大切です。", exampleEn: "Loving support is very important, and money is important as well." },
+            { category: "⭐︎ レッスン復習", jp: "最近は結婚なんて紙一枚です", en: "Marriage is just a piece of paper these days.", exampleJp: "最近は結婚なんて紙一枚です。", exampleEn: "Marriage is just a piece of paper these days." },
+            { category: "⭐︎ レッスン復習", jp: "全部読むのは大変です", en: "It's hard to read all of it.", exampleJp: "全部読むのは大変です。", exampleEn: "It's hard to read all of it." },
+            { category: "⭐︎ レッスン復習", jp: "AIが発達して安定した仕事が減りました", en: "AI has developed a lot, so stable jobs have decreased.", exampleJp: "AIが発達して安定した仕事が減りました。", exampleEn: "AI has developed a lot, so stable jobs have decreased." },
+            { category: "⭐︎ レッスン復習", jp: "将来どんな仕事が必要か考えるべきです", en: "They should think about what jobs will be needed in the future.", exampleJp: "将来どんな仕事が必要か考えるべきです。", exampleEn: "They should think about what jobs will be needed in the future." },
+            { category: "⭐︎ レッスン復習", jp: "愛情がとても大切で、お金も同じく大切です", en: "Loving support is very important, and money is important as well.", exampleJp: "愛情がとても大切で、お金も同じく大切です。", exampleEn: "Loving support is very important, and money is important as well." },
 
             // Lesson 60: if条件文（3回連続で出ず・最優先継続）
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "若者が安定した仕事に就けなければ、家庭を持てません", en: "If young people can't get stable jobs, they can't start a family.", exampleJp: "若者が安定した仕事に就けなければ、家庭を持てません。", exampleEn: "If young people can't get stable jobs, they can't start a family." },
+            { category: "⭐︎ レッスン復習", jp: "若者が安定した仕事に就けなければ、家庭を持てません", en: "If young people can't get stable jobs, they can't start a family.", exampleJp: "若者が安定した仕事に就けなければ、家庭を持てません。", exampleEn: "If young people can't get stable jobs, they can't start a family." },
 
             // Lesson 61 (8/26 Daily News: New drink sparks fun in healthy choices for kids): 飲み物台本 / 比較級の形 / save money on / 移住説明 / if条件文
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "ほぼ毎日、炭酸水を飲みます", en: "I drink sparkling water almost every day.", exampleJp: "ほぼ毎日、炭酸水を飲みます。", exampleEn: "I drink sparkling water almost every day." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "砂糖もカロリーもゼロです", en: "It has no sugar and no calories.", exampleJp: "砂糖もカロリーもゼロです。", exampleEn: "It has no sugar and no calories." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供にはいつも麦茶を買います", en: "For my children, I usually buy barley tea.", exampleJp: "子供にはいつも麦茶を買います。", exampleEn: "For my children, I usually buy barley tea." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "麦茶は緑茶よりあっさりしています", en: "Barley tea is lighter than green tea.", exampleJp: "麦茶は緑茶よりあっさりしています。", exampleEn: "Barley tea is lighter than green tea." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供にはソーダは買いません。砂糖が多すぎます", en: "I don't buy soda for my children. It has too much sugar.", exampleJp: "子供にはソーダは買いません。砂糖が多すぎます。", exampleEn: "I don't buy soda for my children. It has too much sugar." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供には無糖のスポーツドリンクを買います", en: "I buy sugar-free sports drinks for my children.", exampleJp: "子供には無糖のスポーツドリンクを買います。", exampleEn: "I buy sugar-free sports drinks for my children." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "健康的で安いほうが好きです", en: "I prefer healthier and cheaper ones.", exampleJp: "健康的で安いほうが好きです。", exampleEn: "I prefer healthier and cheaper ones." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "飲み物代を節約したいので、水筒を買いました", en: "I want to save money on drinks, so I bought a water bottle.", exampleJp: "飲み物代を節約したいので、水筒を買いました。", exampleEn: "I want to save money on drinks, so I bought a water bottle." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供用にお茶か水を入れます", en: "I put tea or water in it for my children.", exampleJp: "子供用にお茶か水を入れます。", exampleEn: "I put tea or water in it for my children." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "英語で何と言いますか？泡の入った水です", en: "What do you call it in English? It's water with bubbles.", exampleJp: "英語で何と言いますか？泡の入った水です。", exampleEn: "What do you call it in English? It's water with bubbles." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "娘のインターナショナルスクールの書類を準備しています", en: "I'm preparing documents for my daughter's international school.", exampleJp: "娘のインターナショナルスクールの書類を準備しています。", exampleEn: "I'm preparing documents for my daughter's international school." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "準備に少し疲れています", en: "I'm a little tired of preparing them.", exampleJp: "準備に少し疲れています。", exampleEn: "I'm a little tired of preparing them." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "家族はまだ日本にいて、来年マレーシアに引っ越します", en: "My family is still in Japan, and we are moving to Malaysia next year.", exampleJp: "家族はまだ日本にいて、来年マレーシアに引っ越します。", exampleEn: "My family is still in Japan, and we are moving to Malaysia next year." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "夫は海外の教育が好きです", en: "My husband likes education in foreign countries.", exampleJp: "夫は海外の教育が好きです。", exampleEn: "My husband likes education in foreign countries." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました", en: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet.", exampleJp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました。", exampleEn: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです", en: "Mirin makes food mild and a little sweet. It's an alternative to sugar.", exampleJp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです。", exampleEn: "Mirin makes food mild and a little sweet. It's an alternative to sugar." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供に選ぶなら、無糖の飲み物を買います", en: "If I choose for my children, I buy sugar-free drinks.", exampleJp: "子供に選ぶなら、無糖の飲み物を買います。", exampleEn: "If I choose for my children, I buy sugar-free drinks." },
+            { category: "⭐︎ レッスン復習", jp: "ほぼ毎日、炭酸水を飲みます", en: "I drink sparkling water almost every day.", exampleJp: "ほぼ毎日、炭酸水を飲みます。", exampleEn: "I drink sparkling water almost every day." },
+            { category: "⭐︎ レッスン復習", jp: "砂糖もカロリーもゼロです", en: "It has no sugar and no calories.", exampleJp: "砂糖もカロリーもゼロです。", exampleEn: "It has no sugar and no calories." },
+            { category: "⭐︎ レッスン復習", jp: "子供にはいつも麦茶を買います", en: "For my children, I usually buy barley tea.", exampleJp: "子供にはいつも麦茶を買います。", exampleEn: "For my children, I usually buy barley tea." },
+            { category: "⭐︎ レッスン復習", jp: "麦茶は緑茶よりあっさりしています", en: "Barley tea is lighter than green tea.", exampleJp: "麦茶は緑茶よりあっさりしています。", exampleEn: "Barley tea is lighter than green tea." },
+            { category: "⭐︎ レッスン復習", jp: "子供にはソーダは買いません。砂糖が多すぎます", en: "I don't buy soda for my children. It has too much sugar.", exampleJp: "子供にはソーダは買いません。砂糖が多すぎます。", exampleEn: "I don't buy soda for my children. It has too much sugar." },
+            { category: "⭐︎ レッスン復習", jp: "子供には無糖のスポーツドリンクを買います", en: "I buy sugar-free sports drinks for my children.", exampleJp: "子供には無糖のスポーツドリンクを買います。", exampleEn: "I buy sugar-free sports drinks for my children." },
+            { category: "⭐︎ レッスン復習", jp: "健康的で安いほうが好きです", en: "I prefer healthier and cheaper ones.", exampleJp: "健康的で安いほうが好きです。", exampleEn: "I prefer healthier and cheaper ones." },
+            { category: "⭐︎ レッスン復習", jp: "飲み物代を節約したいので、水筒を買いました", en: "I want to save money on drinks, so I bought a water bottle.", exampleJp: "飲み物代を節約したいので、水筒を買いました。", exampleEn: "I want to save money on drinks, so I bought a water bottle." },
+            { category: "⭐︎ レッスン復習", jp: "子供用にお茶か水を入れます", en: "I put tea or water in it for my children.", exampleJp: "子供用にお茶か水を入れます。", exampleEn: "I put tea or water in it for my children." },
+            { category: "⭐︎ レッスン復習", jp: "英語で何と言いますか？泡の入った水です", en: "What do you call it in English? It's water with bubbles.", exampleJp: "英語で何と言いますか？泡の入った水です。", exampleEn: "What do you call it in English? It's water with bubbles." },
+            { category: "⭐︎ レッスン復習", jp: "娘のインターナショナルスクールの書類を準備しています", en: "I'm preparing documents for my daughter's international school.", exampleJp: "娘のインターナショナルスクールの書類を準備しています。", exampleEn: "I'm preparing documents for my daughter's international school." },
+            { category: "⭐︎ レッスン復習", jp: "準備に少し疲れています", en: "I'm a little tired of preparing them.", exampleJp: "準備に少し疲れています。", exampleEn: "I'm a little tired of preparing them." },
+            { category: "⭐︎ レッスン復習", jp: "家族はまだ日本にいて、来年マレーシアに引っ越します", en: "My family is still in Japan, and we are moving to Malaysia next year.", exampleJp: "家族はまだ日本にいて、来年マレーシアに引っ越します。", exampleEn: "My family is still in Japan, and we are moving to Malaysia next year." },
+            { category: "⭐︎ レッスン復習", jp: "夫は海外の教育が好きです", en: "My husband likes education in foreign countries.", exampleJp: "夫は海外の教育が好きです。", exampleEn: "My husband likes education in foreign countries." },
+            { category: "⭐︎ レッスン復習", jp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました", en: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet.", exampleJp: "野菜と果物で生ジュースを作りましたが、甘くないので子供は嫌がりました。", exampleEn: "I made fresh juice with vegetables and fruit, but they didn't like it because it wasn't sweet." },
+            { category: "⭐︎ レッスン復習", jp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです", en: "Mirin makes food mild and a little sweet. It's an alternative to sugar.", exampleJp: "みりんは料理をまろやかで少し甘くします。砂糖の代わりです。", exampleEn: "Mirin makes food mild and a little sweet. It's an alternative to sugar." },
+            { category: "⭐︎ レッスン復習", jp: "子供に選ぶなら、無糖の飲み物を買います", en: "If I choose for my children, I buy sugar-free drinks.", exampleJp: "子供に選ぶなら、無糖の飲み物を買います。", exampleEn: "If I choose for my children, I buy sugar-free drinks." },
 
             // Lesson 62 (8/27 Daily News: Japanese teens giving up on marriage): on my own / if節の一致 / 第3子 / 教育環境の自分史 / 結婚台本の拡張
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "最終的には自分で解決するようにしています", en: "In the end, I try to solve it on my own.", exampleJp: "最終的には自分で解決するようにしています。", exampleEn: "In the end, I try to solve it on my own." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "親しい友人に相談することもありますが、たいてい自分で対処します", en: "I sometimes talk to close friends, but I usually handle it by myself.", exampleJp: "親しい友人に相談することもありますが、たいてい自分で対処します。", exampleEn: "I sometimes talk to close friends, but I usually handle it by myself." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "将来にプレッシャーを感じるなら、新しいスキルを学ぶべきです", en: "If someone feels pressure about the future, they should learn a new skill.", exampleJp: "将来にプレッシャーを感じるなら、新しいスキルを学ぶべきです。", exampleEn: "If someone feels pressure about the future, they should learn a new skill." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "不安なときは、翌日にやる小さなことを1つ決めます", en: "If I feel worried, I decide one small thing to do the next day.", exampleJp: "不安なときは、翌日にやる小さなことを1つ決めます。", exampleEn: "If I feel worried, I decide one small thing to do the next day." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "一度に全部は変えられませんが、一歩ずつなら変えられます", en: "We can't change everything at once, but we can change step by step.", exampleJp: "一度に全部は変えられませんが、一歩ずつなら変えられます。", exampleEn: "We can't change everything at once, but we can change step by step." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "第3子を妊娠しました", en: "I got pregnant with my third child.", exampleJp: "第3子を妊娠しました。", exampleEn: "I got pregnant with my third child." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "夫はとても喜びましたが、育児は大変なので私は少し心配でした", en: "My husband was very happy, but I was a little worried because childcare is hard.", exampleJp: "夫はとても喜びましたが、育児は大変なので私は少し心配でした。", exampleEn: "My husband was very happy, but I was a little worried because childcare is hard." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "夫は資産計画を立てて、そのお金を子供のために使うと決めました", en: "My husband made a financial plan and decided to use the money for the children.", exampleJp: "夫は資産計画を立てて、そのお金を子供のために使うと決めました。", exampleEn: "My husband made a financial plan and decided to use the money for the children." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "両親は私を私立に通わせてくれて、放課後に習い事もできました", en: "My parents sent me to a private school, and I could take lessons after school.", exampleJp: "両親は私を私立に通わせてくれて、放課後に習い事もできました。", exampleEn: "My parents sent me to a private school, and I could take lessons after school." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "教育環境が良かったので、理学療法士になれました", en: "I had a good environment for education, so I became a physical therapist.", exampleJp: "教育環境が良かったので、理学療法士になれました。", exampleEn: "I had a good environment for education, so I became a physical therapist." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "子供にも良い教育環境を与えたいです", en: "I want to give my children a good environment for education too.", exampleJp: "子供にも良い教育環境を与えたいです。", exampleEn: "I want to give my children a good environment for education too." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "独身のころは結婚したくなかったけど、仕事は好きでした", en: "When I was single, I didn't want to get married, but I liked my job.", exampleJp: "独身のころは結婚したくなかったけど、仕事は好きでした。", exampleEn: "When I was single, I didn't want to get married, but I liked my job." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "私の仕事を理解してくれる人と結婚したかったです", en: "I wanted to marry a man who understands my job.", exampleJp: "私の仕事を理解してくれる人と結婚したかったです。", exampleEn: "I wanted to marry a man who understands my job." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "誰と結婚するかによります", en: "It depends on who I marry.", exampleJp: "誰と結婚するかによります。", exampleEn: "It depends on who I marry." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "親は以前ほど口を出しません", en: "Parents don't say as much as before.", exampleJp: "親は以前ほど口を出しません。", exampleEn: "Parents don't say as much as before." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "兄はまだ独身ですが、とても幸せだと思います", en: "My brother is still single, and I think he is very happy.", exampleJp: "兄はまだ独身ですが、とても幸せだと思います。", exampleEn: "My brother is still single, and I think he is very happy." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "幸せな人生に子供は必須ではありません", en: "Having children is not necessary for a happy life.", exampleJp: "幸せな人生に子供は必須ではありません。", exampleEn: "Having children is not necessary for a happy life." },
-            { category: "⭐︎ 今週の練習 2026-08-24", jp: "理学療法士はそこそこ稼げます", en: "A physical therapist can earn good money.", exampleJp: "理学療法士はそこそこ稼げます。", exampleEn: "A physical therapist can earn good money." },
+            { category: "⭐︎ レッスン復習", jp: "最終的には自分で解決するようにしています", en: "In the end, I try to solve it on my own.", exampleJp: "最終的には自分で解決するようにしています。", exampleEn: "In the end, I try to solve it on my own." },
+            { category: "⭐︎ レッスン復習", jp: "親しい友人に相談することもありますが、たいてい自分で対処します", en: "I sometimes talk to close friends, but I usually handle it by myself.", exampleJp: "親しい友人に相談することもありますが、たいてい自分で対処します。", exampleEn: "I sometimes talk to close friends, but I usually handle it by myself." },
+            { category: "⭐︎ レッスン復習", jp: "将来にプレッシャーを感じるなら、新しいスキルを学ぶべきです", en: "If someone feels pressure about the future, they should learn a new skill.", exampleJp: "将来にプレッシャーを感じるなら、新しいスキルを学ぶべきです。", exampleEn: "If someone feels pressure about the future, they should learn a new skill." },
+            { category: "⭐︎ レッスン復習", jp: "不安なときは、翌日にやる小さなことを1つ決めます", en: "If I feel worried, I decide one small thing to do the next day.", exampleJp: "不安なときは、翌日にやる小さなことを1つ決めます。", exampleEn: "If I feel worried, I decide one small thing to do the next day." },
+            { category: "⭐︎ レッスン復習", jp: "一度に全部は変えられませんが、一歩ずつなら変えられます", en: "We can't change everything at once, but we can change step by step.", exampleJp: "一度に全部は変えられませんが、一歩ずつなら変えられます。", exampleEn: "We can't change everything at once, but we can change step by step." },
+            { category: "⭐︎ レッスン復習", jp: "第3子を妊娠しました", en: "I got pregnant with my third child.", exampleJp: "第3子を妊娠しました。", exampleEn: "I got pregnant with my third child." },
+            { category: "⭐︎ レッスン復習", jp: "夫はとても喜びましたが、育児は大変なので私は少し心配でした", en: "My husband was very happy, but I was a little worried because childcare is hard.", exampleJp: "夫はとても喜びましたが、育児は大変なので私は少し心配でした。", exampleEn: "My husband was very happy, but I was a little worried because childcare is hard." },
+            { category: "⭐︎ レッスン復習", jp: "夫は資産計画を立てて、そのお金を子供のために使うと決めました", en: "My husband made a financial plan and decided to use the money for the children.", exampleJp: "夫は資産計画を立てて、そのお金を子供のために使うと決めました。", exampleEn: "My husband made a financial plan and decided to use the money for the children." },
+            { category: "⭐︎ レッスン復習", jp: "両親は私を私立に通わせてくれて、放課後に習い事もできました", en: "My parents sent me to a private school, and I could take lessons after school.", exampleJp: "両親は私を私立に通わせてくれて、放課後に習い事もできました。", exampleEn: "My parents sent me to a private school, and I could take lessons after school." },
+            { category: "⭐︎ レッスン復習", jp: "教育環境が良かったので、理学療法士になれました", en: "I had a good environment for education, so I became a physical therapist.", exampleJp: "教育環境が良かったので、理学療法士になれました。", exampleEn: "I had a good environment for education, so I became a physical therapist." },
+            { category: "⭐︎ レッスン復習", jp: "子供にも良い教育環境を与えたいです", en: "I want to give my children a good environment for education too.", exampleJp: "子供にも良い教育環境を与えたいです。", exampleEn: "I want to give my children a good environment for education too." },
+            { category: "⭐︎ レッスン復習", jp: "独身のころは結婚したくなかったけど、仕事は好きでした", en: "When I was single, I didn't want to get married, but I liked my job.", exampleJp: "独身のころは結婚したくなかったけど、仕事は好きでした。", exampleEn: "When I was single, I didn't want to get married, but I liked my job." },
+            { category: "⭐︎ レッスン復習", jp: "私の仕事を理解してくれる人と結婚したかったです", en: "I wanted to marry a man who understands my job.", exampleJp: "私の仕事を理解してくれる人と結婚したかったです。", exampleEn: "I wanted to marry a man who understands my job." },
+            { category: "⭐︎ レッスン復習", jp: "誰と結婚するかによります", en: "It depends on who I marry.", exampleJp: "誰と結婚するかによります。", exampleEn: "It depends on who I marry." },
+            { category: "⭐︎ レッスン復習", jp: "親は以前ほど口を出しません", en: "Parents don't say as much as before.", exampleJp: "親は以前ほど口を出しません。", exampleEn: "Parents don't say as much as before." },
+            { category: "⭐︎ レッスン復習", jp: "兄はまだ独身ですが、とても幸せだと思います", en: "My brother is still single, and I think he is very happy.", exampleJp: "兄はまだ独身ですが、とても幸せだと思います。", exampleEn: "My brother is still single, and I think he is very happy." },
+            { category: "⭐︎ レッスン復習", jp: "幸せな人生に子供は必須ではありません", en: "Having children is not necessary for a happy life.", exampleJp: "幸せな人生に子供は必須ではありません。", exampleEn: "Having children is not necessary for a happy life." },
+            { category: "⭐︎ レッスン復習", jp: "理学療法士はそこそこ稼げます", en: "A physical therapist can earn good money.", exampleJp: "理学療法士はそこそこ稼げます。", exampleEn: "A physical therapist can earn good money." },
+
+
+            // ===== 今週の練習 2026-08-31（Lesson 63 / TOEIC Part 3・ディクテーション）=====
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "答えてみます", en: "I'll try to answer.", exampleJp: "まず自分で答えてみます。", exampleEn: "I'll try to answer." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まず自分でやってみます", en: "Let me try first.", exampleJp: "もう一度聞く前に、まず自分でやってみます。", exampleEn: "Let me try first." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ご両親のところに行きましたか？", en: "Have you visited your parents?", exampleJp: "この夏、ご両親のところに行きましたか？", exampleEn: "Have you visited your parents?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "宿題は終わりましたか？", en: "Have you finished your homework?", exampleJp: "もう宿題は終わりましたか？", exampleEn: "Have you finished your homework?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まだです。8月に会いました", en: "Not yet. I visited them in August.", exampleJp: "まだです。8月に会いました。", exampleEn: "Not yet. I visited them in August." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "年に一度実家に帰ります", en: "I go back to my hometown once a year.", exampleJp: "年に一度、実家に帰ります。", exampleEn: "I go back to my hometown once a year." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "両親は広島に住んでいます", en: "My parents live in Hiroshima, far from my home.", exampleJp: "両親は家から遠い広島に住んでいます。", exampleEn: "My parents live in Hiroshima, far from my home." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ちょうど電話しようとしていました", en: "I was just about to call you.", exampleJp: "ちょうどあなたに電話しようとしていました。", exampleEn: "I was just about to call you." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "メッセージを送ろうとしていました", en: "I was about to send you a message.", exampleJp: "ちょうどメッセージを送ろうとしていたところです。", exampleEn: "I was about to send you a message." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まだ10分遅れただけです", en: "You're only ten minutes late.", exampleJp: "まだ10分遅れただけですよ。", exampleEn: "You're only ten minutes late." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "あなたがいない間シフトに入りました", en: "I covered your shift while you were gone.", exampleJp: "あなたがいない間、シフトに入っておきました。", exampleEn: "I covered your shift while you were gone." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "電話をくれたので当日キャンセル扱いです", en: "You called us, so it's a same-day cancellation.", exampleJp: "電話をくれたので、当日キャンセル扱いになります。", exampleEn: "You called us, so it's a same-day cancellation." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "キャンセル料はかかりますか？", en: "Do you charge a cancellation fee?", exampleJp: "予約を変えたいのですが、キャンセル料はかかりますか？", exampleEn: "Do you charge a cancellation fee?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "予約をキャンセルしなければなりません", en: "I'm sorry, I have to cancel my appointment.", exampleJp: "すみません、予約をキャンセルしなければなりません。", exampleEn: "I'm sorry, I have to cancel my appointment." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "今仕事中なので行けません", en: "I'm at work now, so I can't come.", exampleJp: "今仕事中なので、そちらに行けません。", exampleEn: "I'm at work now, so I can't come." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "すみません、聞き取れませんでした", en: "Sorry, I couldn't catch that.", exampleJp: "すみません、今のが聞き取れませんでした。", exampleEn: "Sorry, I couldn't catch that." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "最後の部分が聞き取れませんでした", en: "I couldn't catch the last part.", exampleJp: "最後の部分が聞き取れませんでした。もう一度お願いします。", exampleEn: "I couldn't catch the last part." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "終わりました。どうぞ進めてください", en: "I'm done. Please go ahead.", exampleJp: "確認が終わりました。どうぞ進めてください。", exampleEn: "I'm done. Please go ahead." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "11月にはビザが取れそうです", en: "Maybe I will be able to get a visa in November.", exampleJp: "たぶん11月にはビザが取れると思います。", exampleEn: "Maybe I will be able to get a visa in November." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "今年の終わりに出発する予定です", en: "We are planning to leave at the end of this year.", exampleJp: "今年の終わりに日本を発つ予定です。", exampleEn: "We are planning to leave at the end of this year." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "なぜここで過去形を使うのですか？", en: "Why did you use the past tense here?", exampleJp: "質問です。なぜここで過去形を使うのですか？", exampleEn: "Why did you use the past tense here?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "それは同じ意味ですか？", en: "Does he mean the same thing?", exampleJp: "彼が言っているのは同じ意味ですか？", exampleEn: "Does he mean the same thing?" },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
