@@ -4962,6 +4962,31 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "なぜここで過去形を使うのですか？", en: "Why did you use the past tense here?", exampleJp: "質問です。なぜここで過去形を使うのですか？", exampleEn: "Why did you use the past tense here?" },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "それは同じ意味ですか？", en: "Does he mean the same thing?", exampleJp: "彼が言っているのは同じ意味ですか？", exampleEn: "Does he mean the same thing?" },
 
+
+            // ===== 追加: Lesson 64（2026-09-01 / Daily News・メンタルヘルス）=====
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "音楽を聴いて気分を変えます", en: "I listen to music to change my mood.", exampleJp: "音楽を聴いて気分を変えます。", exampleEn: "I listen to music to change my mood." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "音楽を聴くと気分が良くなります", en: "Music helps me feel better.", exampleJp: "音楽を聴くと気分が良くなります。", exampleEn: "Music helps me feel better." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "とても驚きました／衝撃的でした", en: "I was very shocked. It was shocking.", exampleJp: "とても驚きました。衝撃的な出来事でした。", exampleEn: "I was very shocked. It was shocking." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "興味があります／面白い授業でした", en: "I'm interested in it. The class was interesting.", exampleJp: "それに興味があります。授業も面白かったです。", exampleEn: "I'm interested in it. The class was interesting." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ひとりでいるのが好きです", en: "I like being alone.", exampleJp: "ひとりでいる時間が好きです。", exampleEn: "I like being alone." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "独身のころ、寂しく感じることがありました", en: "I sometimes felt lonely when I was single.", exampleJp: "独身のころは、寂しく感じることがありました。", exampleEn: "I sometimes felt lonely when I was single." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "毎朝、音楽を聴きます", en: "I listen to music every morning.", exampleJp: "毎朝、音楽を聴いています。", exampleEn: "I listen to music every morning." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "友達は聞いてくれるだけです", en: "My friends just listen to me. They don't give me advice.", exampleJp: "友達は助言はせず、話を聞いてくれるだけです。", exampleEn: "My friends just listen to me. They don't give me advice." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "先生には娘の話を聞いてほしいです", en: "I want the teacher to listen to my daughter.", exampleJp: "先生には、娘の話をよく聞いてほしいです。", exampleEn: "I want the teacher to listen to my daughter." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "何かあったら学校から知らせてほしいです", en: "I want the school to tell me if she has any trouble.", exampleJp: "何か困ったことがあれば、学校から知らせてほしいです。", exampleEn: "I want the school to tell me if she has any trouble." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "娘は少し内気なので、時間をください", en: "She is a little shy, so please give her time.", exampleJp: "娘は少し内気なので、慣れるまで時間をください。", exampleEn: "She is a little shy, so please give her time." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "14歳のとき、生徒が窓から落ちました", en: "When I was fourteen, a student fell from a window at my school.", exampleJp: "私が14歳のとき、学校で生徒が窓から落ちました。", exampleEn: "When I was fourteen, a student fell from a window at my school." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "見てはいませんが、音は聞こえました", en: "I didn't see it, but I heard the sound.", exampleJp: "その場面は見ていませんが、音は聞こえました。", exampleEn: "I didn't see it, but I heard the sound." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "最近ストレスを感じています", en: "I feel stressed these days.", exampleJp: "最近、ストレスを感じています。", exampleEn: "I feel stressed these days." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "最近元気がないようです", en: "She seems depressed lately.", exampleJp: "娘は最近、少し元気がないようです。", exampleEn: "She seems depressed lately." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "学校にカウンセラーはいますか？", en: "Does the school have a counselor?", exampleJp: "学校にカウンセラーの方はいますか？", exampleEn: "Does the school have a counselor?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "人が多い場所は苦手です", en: "I don't like places where there are a lot of people.", exampleJp: "人がたくさんいる場所は苦手です。", exampleEn: "I don't like places where there are a lot of people." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "母とは性格が違います", en: "My mother and I have different personalities.", exampleJp: "母とは性格が違います。", exampleEn: "My mother and I have different personalities." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "夫は私の状況を全部知っていて、理解してくれます", en: "He knows all about my situation, and he understands me.", exampleJp: "夫は私の状況を全部知っていて、理解してくれます。", exampleEn: "He knows all about my situation, and he understands me." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "先生には教育への情熱が必要です", en: "Teachers should have a passion for education.", exampleJp: "先生には教育への情熱が必要だと思います。", exampleEn: "Teachers should have a passion for education." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "私もそう思います", en: "I think so too.", exampleJp: "私もそう思います。", exampleEn: "I think so too." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "心の病気で食事がとれないこともあります", en: "People can't eat well because of mental illness.", exampleJp: "心の病気が原因で、食事がとれないこともあります。", exampleEn: "People can't eat well because of mental illness." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
