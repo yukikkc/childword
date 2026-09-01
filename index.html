@@ -597,6 +597,15 @@
                     </div>
                 </div>
 
+                <label style="display: block; margin-bottom: 5px; margin-top: 10px; font-size: 14px;">答えまでの間（自分で言う時間）:</label>
+                <select id="answerPause" style="width: 100%;" onchange="saveSettings()">
+                    <option value="0">なし</option>
+                    <option value="2000">2秒</option>
+                    <option value="3000">3秒</option>
+                    <option value="5000">5秒</option>
+                </select>
+                <small style="color: #666; margin-top: 4px; display: block;">「日→英」のとき、日本語のあとに無音の間を入れます。声に出して言ってから答えを聞く練習用。</small>
+
                 <button class="btn" onclick="resetPlaybackSettings()" style="margin-top: 10px; width: 100%;">デフォルト設定に戻す</button>
             </div>
 
@@ -613,7 +622,7 @@
     </div>
 
     <!-- 5000語の語彙データを読み込み -->
-    <script src="vocabulary.js?260831"></script>
+    <script src="vocabulary.js?260901"></script>
 
     <script>
         // グローバル変数
@@ -900,6 +909,9 @@
             const includeEnSentence = document.getElementById('includeEnSentence').checked;
             const readOrder = document.querySelector('input[name="readOrder"]:checked').value;
             const englishRepeat = parseInt(document.querySelector('input[name="englishRepeat"]:checked').value);
+            // 「日→英」のときだけ、日本語の直後に無音の間を入れる（自分で英語を言う時間）
+            const answerPauseEl = document.getElementById('answerPause');
+            const answerPause = (readOrder === 'jp-en' && answerPauseEl) ? parseInt(answerPauseEl.value) || 0 : 0;
 
             // 長文型：単語パートを飛ばし、例文だけで組み立てる（同じ長文を読む）
             if (isLongForm(word)) {
@@ -911,7 +923,7 @@
                     if (includeJpSentence) seq.push({ ...jpS });
                     if (includeEnSentence && englishRepeat === 2) seq.push({ ...enS });
                 } else {
-                    if (includeJpSentence) seq.push({ ...jpS });
+                    if (includeJpSentence) seq.push({ ...jpS, delay: jpS.delay + answerPause });
                     if (includeEnSentence) seq.push({ ...enS });
                     if (includeEnSentence && englishRepeat === 2) seq.push({ ...enS });
                 }
@@ -960,9 +972,10 @@
                 }
             } else {
                 // 日→英の順序
-                // 日本語単語
+                // 日本語単語（英語が続くなら、自分で言う間を入れる）
                 if (includeJpWord) {
-                    sequence.push({ ...items.jpWord, rate: speechRate });
+                    const gap = includeEnWord ? answerPause : 0;
+                    sequence.push({ ...items.jpWord, rate: speechRate, delay: items.jpWord.delay + gap });
                 }
                 // 英語単語
                 if (includeEnWord) {
@@ -972,9 +985,10 @@
                 if (includeEnWord && englishRepeat === 2) {
                     sequence.push({ ...items.enWord, rate: speechRate });
                 }
-                // 日本語例文
+                // 日本語例文（英文が続くなら、自分で言う間を入れる）
                 if (includeJpSentence) {
-                    sequence.push({ ...items.jpSentence, rate: speechRate, delay: 700 });
+                    const gap = includeEnSentence ? answerPause : 0;
+                    sequence.push({ ...items.jpSentence, rate: speechRate, delay: 700 + gap });
                 }
                 // 英語例文
                 if (includeEnSentence) {
@@ -1352,6 +1366,7 @@
                 document.getElementById('includeEnSentence').checked = true;
                 document.getElementById('readOrderEnJp').checked = true;
                 document.getElementById('englishRepeat2').checked = true;
+                document.getElementById('answerPause').value = '0';
                 saveSettings();
                 console.log('読み上げ設定をデフォルトに戻しました');
             } catch (error) {
@@ -1376,7 +1391,8 @@
                     includeJpSentence: document.getElementById('includeJpSentence').checked,
                     includeEnSentence: document.getElementById('includeEnSentence').checked,
                     readOrder: readOrderChecked ? readOrderChecked.value : 'en-jp',
-                    englishRepeat: englishRepeatChecked ? englishRepeatChecked.value : '2'
+                    englishRepeat: englishRepeatChecked ? englishRepeatChecked.value : '2',
+                    answerPause: document.getElementById('answerPause').value
                 };
                 localStorage.setItem('childWordSettings', JSON.stringify(settings));
             } catch (error) {
@@ -1407,6 +1423,8 @@
                     } else {
                         document.getElementById('readOrderJpEn').checked = true;
                     }
+
+                    document.getElementById('answerPause').value = parsed.answerPause !== undefined ? parsed.answerPause : '0';
 
                     const englishRepeat = parsed.englishRepeat || '2';
                     if (englishRepeat === '2') {
