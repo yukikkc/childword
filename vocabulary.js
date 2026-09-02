@@ -4987,6 +4987,31 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "私もそう思います", en: "I think so too.", exampleJp: "私もそう思います。", exampleEn: "I think so too." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "心の病気で食事がとれないこともあります", en: "People can't eat well because of mental illness.", exampleJp: "心の病気が原因で、食事がとれないこともあります。", exampleEn: "People can't eat well because of mental illness." },
 
+
+            // ===== 追加: Lesson 65（2026-09-02 / TOEIC Part 4・ディクテーション）=====
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まだビザがないので、動けません", en: "I don't have a visa yet, so I can't move yet.", exampleJp: "まだビザが出ていないので、動くことができません。", exampleEn: "I don't have a visa yet, so I can't move yet." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "今日は行けません", en: "I'm not able to go today.", exampleJp: "申し訳ありませんが、今日は行けません。", exampleEn: "I'm not able to go today." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まだです。たぶん11月です", en: "Not yet. Maybe in November.", exampleJp: "まだです。たぶん11月になります。", exampleEn: "Not yet. Maybe in November." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ビザが出るまで動けません", en: "We can't move until the visa comes.", exampleJp: "ビザが出るまでは動けません。", exampleEn: "We can't move until the visa comes." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "子供たちは1時間後に帰ってきます", en: "My children will come back in an hour.", exampleJp: "子供たちは1時間後に帰ってきます。", exampleEn: "My children will come back in an hour." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "10分後に戻ります", en: "I'll be back in ten minutes.", exampleJp: "10分後に戻ります。", exampleEn: "I'll be back in ten minutes." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "バスは5分後に来ます", en: "The bus comes in five minutes.", exampleJp: "バスは5分後に来ます。", exampleEn: "The bus comes in five minutes." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "7月に娘の学校を決めました", en: "I chose my daughter's school in July.", exampleJp: "7月に娘の学校を決めました。", exampleEn: "I chose my daughter's school in July." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "先月、願書を提出しました", en: "I submitted the application form last month.", exampleJp: "先月、学校に願書を提出しました。", exampleEn: "I submitted the application form last month." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "今はビザを待っています", en: "Now I'm waiting for my visa.", exampleJp: "今はビザが出るのを待っています。", exampleEn: "Now I'm waiting for my visa." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと、住む場所を決められます", en: "After that, we can decide where to live.", exampleJp: "そのあとで、住む場所を決めることができます。", exampleEn: "After that, we can decide where to live." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "これが私の唯一の自由時間です", en: "This is my only free time.", exampleJp: "子供が帰ってくるまでが、私の唯一の自由時間です。", exampleEn: "This is my only free time." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ユキです。はじめまして", en: "My name's Yuki. Nice to meet you.", exampleJp: "ユキです。はじめまして。", exampleEn: "My name's Yuki. Nice to meet you." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと先生に会います", en: "And then you'll meet your teacher.", exampleJp: "そのあと、先生に会っていただきます。", exampleEn: "And then you'll meet your teacher." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "オリエンテーションをご案内します", en: "I'll be guiding you through the orientation.", exampleJp: "本日はオリエンテーションをご案内します。", exampleEn: "I'll be guiding you through the orientation." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "スケジュールをざっと確認しましょう", en: "Let's go over the schedule.", exampleJp: "スケジュールをざっと確認しましょう。", exampleEn: "Let's go over the schedule." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "書類に目を通します", en: "We'll go over some paperwork.", exampleJp: "このあと、書類に目を通します。", exampleEn: "We'll go over some paperwork." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "go over とはどういう意味ですか？", en: "What does 'go over' mean?", exampleJp: "すみません、go over とはどういう意味ですか？", exampleEn: "What does 'go over' mean?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "人事担当者がルールを説明します", en: "Our HR manager will explain the rules.", exampleJp: "人事担当者がルールを説明します。", exampleEn: "Our HR manager will explain the rules." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと上司と1対1で面談します", en: "And then you'll meet one-on-one with your supervisor.", exampleJp: "そのあと、上司と1対1で面談します。", exampleEn: "And then you'll meet one-on-one with your supervisor." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "いえ、自分で答えてみます", en: "No thank you, I'll try to answer.", exampleJp: "いえ、大丈夫です。自分で答えてみます。", exampleEn: "No thank you, I'll try to answer." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "もう学校は決めました", en: "I have already chosen her school.", exampleJp: "もう娘の学校は決めました。", exampleEn: "I have already chosen her school." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
