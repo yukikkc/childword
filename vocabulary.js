@@ -5009,7 +5009,9 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "go over とはどういう意味ですか？", en: "What does 'go over' mean?", exampleJp: "すみません、go over とはどういう意味ですか？", exampleEn: "What does 'go over' mean?" },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "人事担当者がルールを説明します", en: "Our HR manager will explain the rules.", exampleJp: "人事担当者がルールを説明します。", exampleEn: "Our HR manager will explain the rules." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと上司と1対1で面談します", en: "And then you'll meet one-on-one with your supervisor.", exampleJp: "そのあと、上司と1対1で面談します。", exampleEn: "And then you'll meet one-on-one with your supervisor." },
-            { category: "⭐︎ 今週の練習 2026-08-31", jp: "いえ、自分で答えてみます", en: "No thank you, I'll try to answer.", exampleJp: "いえ、大丈夫です。自分で答えてみます。", exampleEn: "No thank you, I'll try to answer." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "いえ、自分で答えてみます", en: "No thank you, I will try to answer.", exampleJp: "いえ、大丈夫です。自分で答えてみます。（will を2音節ではっきり）", exampleEn: "No thank you, I will try to answer." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まず自分でやらせてください", en: "Let me try first.", exampleJp: "まず自分でやらせてください。（語頭のLは出しやすい）", exampleEn: "Let me try first." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "語末のL練習（舌先を歯ぐきにつけたまま次へ）", en: "I'll try. We'll go. She'll come.", exampleJp: "語末のLの練習です。舌先を上の歯ぐきにつけたまま、次の語に入ります。", exampleEn: "I'll try. We'll go. She'll come. It'll be fine." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "もう学校は決めました", en: "I have already chosen her school.", exampleJp: "もう娘の学校は決めました。", exampleEn: "I have already chosen her school." },
 
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
