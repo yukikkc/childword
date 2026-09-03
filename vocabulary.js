@@ -5014,6 +5014,31 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "語末のL練習（舌先を歯ぐきにつけたまま次へ）", en: "I'll try. We'll go. She'll come.", exampleJp: "語末のLの練習です。舌先を上の歯ぐきにつけたまま、次の語に入ります。", exampleEn: "I'll try. We'll go. She'll come. It'll be fine." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "もう学校は決めました", en: "I have already chosen her school.", exampleJp: "もう娘の学校は決めました。", exampleEn: "I have already chosen her school." },
 
+
+            // ===== 追加: Lesson 66（2026-09-03 / Daily News・依存性のあるアプリと訴訟）=====
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "独身のころは徹夜でゲームをしていました", en: "When I was single, I sometimes played games all night.", exampleJp: "独身のころは、ときどき徹夜でゲームをしていました。", exampleEn: "When I was single, I sometimes played games all night." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "昔はよく徹夜でゲームをしました", en: "I used to play games all night.", exampleJp: "昔はよく徹夜でゲームをしていました。", exampleEn: "I used to play games all night." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "Xで他のフリーランスとつながっています", en: "I connect with other freelancers on X.", exampleJp: "Xで他のフリーランスの人とつながっています。", exampleEn: "I connect with other freelancers on X." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "Xで最新の仕事情報を得ています", en: "I get the latest work information from X.", exampleJp: "Xで最新の仕事の情報を得ています。", exampleEn: "I get the latest work information from X." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "毎日みんなの投稿を読んでいます", en: "I read their posts every day.", exampleJp: "毎日、みんなの投稿を読んでいます。", exampleEn: "I read their posts every day." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "投稿だけでなくAIの情報も見ます", en: "Not only their posts, but also AI news.", exampleJp: "投稿だけでなく、AIの情報も見ています。", exampleEn: "Not only their posts, but also AI news." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "5分と決めたのに、たいてい長く見てしまいます", en: "I decided to watch it for five minutes, but I usually watch longer.", exampleJp: "5分だけと決めているのに、たいてい長く見てしまいます。", exampleEn: "I decided to watch it for five minutes, but I usually watch longer." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "料理や家事の間、娘はYouTubeを見ています", en: "My daughter watches YouTube while I'm cooking or doing housework.", exampleJp: "私が料理や家事をしている間、娘はYouTubeを見ています。", exampleEn: "My daughter watches YouTube while I'm cooking or doing housework." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "見せるのは1日2時間までです", en: "I let her watch two hours a day at most.", exampleJp: "見せるのは1日2時間までにしています。", exampleEn: "I let her watch two hours a day at most." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "見すぎないようによく言っています", en: "I often tell her not to watch too much.", exampleJp: "見すぎないように、よく言い聞かせています。", exampleEn: "I often tell her not to watch too much." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "スクリーンタイムを制限することが大切です", en: "It's important to limit their screen time.", exampleJp: "子供のスクリーンタイムを制限することが大切です。", exampleEn: "It's important to limit their screen time." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "親は子供と過ごす時間をつくるべきです", en: "Parents should make time for their children.", exampleJp: "親は子供と過ごす時間をつくるべきだと思います。", exampleEn: "Parents should make time for their children." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "子供は他の子と関わるべきです", en: "Children should socialize with other children.", exampleJp: "子供は他の子供と関わるべきだと思います。", exampleEn: "Children should socialize with other children." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "自分で判断すべきです", en: "We should decide for ourselves.", exampleJp: "最後は自分で判断すべきだと思います。", exampleEn: "We should decide for ourselves." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "どんなアプリかによります", en: "It depends on what kind of app it is.", exampleJp: "それはどんなアプリかによります。", exampleEn: "It depends on what kind of app it is." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "依存させる設計は企業には得ですが子供には害です", en: "Addictive design is good for companies, but bad for children.", exampleJp: "依存させる設計は企業には得ですが、子供には害があります。", exampleEn: "Addictive design is good for companies, but bad for children." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "この文の主語はどれですか？", en: "Which word is the subject of this sentence?", exampleJp: "すみません、この文の主語はどれですか？", exampleEn: "Which word is the subject of this sentence?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "長い文が苦手です", en: "Long sentences are difficult for me.", exampleJp: "私は長い文を理解するのが苦手です。", exampleEn: "Long sentences are difficult for me." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "話す練習がしたいので、進めてください", en: "I'd like to practice speaking, so please proceed.", exampleJp: "話す練習がしたいので、先に進めてください。", exampleEn: "I'd like to practice speaking, so please proceed." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "もう一度音声を流していただけますか？", en: "Could you play the audio again?", exampleJp: "すみません、もう一度音声を流していただけますか？", exampleEn: "Could you play the audio again?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "お子さんはいらっしゃいますか？", en: "Do you have children?", exampleJp: "ところで、お子さんはいらっしゃいますか？", exampleEn: "Do you have children?" },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "夏休みが終わったので、いつも通り働けます", en: "My children's summer vacation is over, so I can work as usual.", exampleJp: "子供たちの夏休みが終わったので、いつも通り働けます。", exampleEn: "My children's summer vacation is over, so I can work as usual." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
