@@ -4939,7 +4939,6 @@ const vocabulary =
 
 
             // ===== 今週の練習 2026-08-31（Lesson 63 / TOEIC Part 3・ディクテーション）=====
-            { category: "⭐︎ 今週の練習 2026-08-31", jp: "答えてみます", en: "I'll try to answer.", exampleJp: "まず自分で答えてみます。", exampleEn: "I'll try to answer." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "まず自分でやってみます", en: "Let me try first.", exampleJp: "もう一度聞く前に、まず自分でやってみます。", exampleEn: "Let me try first." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "ご両親のところに行きましたか？", en: "Have you visited your parents?", exampleJp: "この夏、ご両親のところに行きましたか？", exampleEn: "Have you visited your parents?" },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "宿題は終わりましたか？", en: "Have you finished your homework?", exampleJp: "もう宿題は終わりましたか？", exampleEn: "Have you finished your homework?" },
@@ -4970,7 +4969,6 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "興味があります／面白い授業でした", en: "I'm interested in it. The class was interesting.", exampleJp: "それに興味があります。授業も面白かったです。", exampleEn: "I'm interested in it. The class was interesting." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "ひとりでいるのが好きです", en: "I like being alone.", exampleJp: "ひとりでいる時間が好きです。", exampleEn: "I like being alone." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "独身のころ、寂しく感じることがありました", en: "I sometimes felt lonely when I was single.", exampleJp: "独身のころは、寂しく感じることがありました。", exampleEn: "I sometimes felt lonely when I was single." },
-            { category: "⭐︎ 今週の練習 2026-08-31", jp: "毎朝、音楽を聴きます", en: "I listen to music every morning.", exampleJp: "毎朝、音楽を聴いています。", exampleEn: "I listen to music every morning." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "友達は聞いてくれるだけです", en: "My friends just listen to me. They don't give me advice.", exampleJp: "友達は助言はせず、話を聞いてくれるだけです。", exampleEn: "My friends just listen to me. They don't give me advice." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "先生には娘の話を聞いてほしいです", en: "I want the teacher to listen to my daughter.", exampleJp: "先生には、娘の話をよく聞いてほしいです。", exampleEn: "I want the teacher to listen to my daughter." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "何かあったら学校から知らせてほしいです", en: "I want the school to tell me if she has any trouble.", exampleJp: "何か困ったことがあれば、学校から知らせてほしいです。", exampleEn: "I want the school to tell me if she has any trouble." },
@@ -5002,7 +5000,6 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと、住む場所を決められます", en: "After that, we can decide where to live.", exampleJp: "そのあとで、住む場所を決めることができます。", exampleEn: "After that, we can decide where to live." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "これが私の唯一の自由時間です", en: "This is my only free time.", exampleJp: "子供が帰ってくるまでが、私の唯一の自由時間です。", exampleEn: "This is my only free time." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "ユキです。はじめまして", en: "My name's Yuki. Nice to meet you.", exampleJp: "ユキです。はじめまして。", exampleEn: "My name's Yuki. Nice to meet you." },
-            { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと先生に会います", en: "And then you'll meet your teacher.", exampleJp: "そのあと、先生に会っていただきます。", exampleEn: "And then you'll meet your teacher." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "オリエンテーションをご案内します", en: "I'll be guiding you through the orientation.", exampleJp: "本日はオリエンテーションをご案内します。", exampleEn: "I'll be guiding you through the orientation." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "スケジュールをざっと確認しましょう", en: "Let's go over the schedule.", exampleJp: "スケジュールをざっと確認しましょう。", exampleEn: "Let's go over the schedule." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "書類に目を通します", en: "We'll go over some paperwork.", exampleJp: "このあと、書類に目を通します。", exampleEn: "We'll go over some paperwork." },
@@ -5010,7 +5007,6 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "人事担当者がルールを説明します", en: "Our HR manager will explain the rules.", exampleJp: "人事担当者がルールを説明します。", exampleEn: "Our HR manager will explain the rules." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "そのあと上司と1対1で面談します", en: "And then you'll meet one-on-one with your supervisor.", exampleJp: "そのあと、上司と1対1で面談します。", exampleEn: "And then you'll meet one-on-one with your supervisor." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "いえ、自分で答えてみます", en: "No thank you, I will try to answer.", exampleJp: "いえ、大丈夫です。自分で答えてみます。（will を2音節ではっきり）", exampleEn: "No thank you, I will try to answer." },
-            { category: "⭐︎ 今週の練習 2026-08-31", jp: "まず自分でやらせてください", en: "Let me try first.", exampleJp: "まず自分でやらせてください。（語頭のLは出しやすい）", exampleEn: "Let me try first." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "語末のL練習（舌先を歯ぐきにつけたまま次へ）", en: "I'll try. We'll go. She'll come.", exampleJp: "語末のLの練習です。舌先を上の歯ぐきにつけたまま、次の語に入ります。", exampleEn: "I'll try. We'll go. She'll come. It'll be fine." },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "もう学校は決めました", en: "I have already chosen her school.", exampleJp: "もう娘の学校は決めました。", exampleEn: "I have already chosen her school." },
 
