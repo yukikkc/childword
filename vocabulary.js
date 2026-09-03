@@ -5035,6 +5035,24 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "お子さんはいらっしゃいますか？", en: "Do you have children?", exampleJp: "ところで、お子さんはいらっしゃいますか？", exampleEn: "Do you have children?" },
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "夏休みが終わったので、いつも通り働けます", en: "My children's summer vacation is over, so I can work as usual.", exampleJp: "子供たちの夏休みが終わったので、いつも通り働けます。", exampleEn: "My children's summer vacation is over, so I can work as usual." },
 
+
+            // ===== 反射練習: leave / keep + 人 + -ing（〜している状態のままにする）=====
+            { category: "⭐︎ 反射練習", jp: "お待たせしてすみません", en: "Sorry to keep you waiting.", exampleJp: "お待たせしてすみません。（受付・お迎え・クリニックで最頻出）", exampleEn: "Sorry to keep you waiting." },
+            { category: "⭐︎ 反射練習", jp: "お待たせして申し訳ありません", en: "I'm sorry to have kept you waiting.", exampleJp: "長くお待たせして申し訳ありません。", exampleEn: "I'm sorry to have kept you waiting." },
+            { category: "⭐︎ 反射練習", jp: "娘を寝かせたままにしてきました", en: "I left her sleeping, so please be quiet.", exampleJp: "娘を寝かせたままにしてきたので、静かにしてください。", exampleEn: "I left her sleeping, so please be quiet." },
+            { category: "⭐︎ 反射練習", jp: "外で待たせたくありません", en: "I don't want to leave her waiting outside.", exampleJp: "娘を外で待たせたままにしたくありません。", exampleEn: "I don't want to leave her waiting outside." },
+            { category: "⭐︎ 反射練習", jp: "子供たちをリビングで遊ばせたままにしてきました", en: "I left the children playing in the living room.", exampleJp: "子供たちをリビングで遊ばせたまま、こちらに来ました。", exampleEn: "I left the children playing in the living room." },
+            { category: "⭐︎ 反射練習", jp: "待たせてしまってごめんね", en: "Sorry, I left you waiting.", exampleJp: "待たせたままにしてしまって、ごめんなさい。", exampleEn: "Sorry, I left you waiting." },
+            { category: "⭐︎ 反射練習", jp: "そっとしておいてください", en: "Please leave me alone for a while.", exampleJp: "少しの間、そっとしておいてください。", exampleEn: "Please leave me alone for a while." },
+            { category: "⭐︎ 反射練習", jp: "ドアを開けたままにしておいてください", en: "Please leave the door open.", exampleJp: "ドアは開けたままにしておいてください。", exampleEn: "Please leave the door open." },
+            { category: "⭐︎ 反射練習", jp: "鍵をかけないままにしてしまいました", en: "I left the door unlocked.", exampleJp: "うっかりドアの鍵をかけないままにしてしまいました。", exampleEn: "I left the door unlocked." },
+            { category: "⭐︎ 反射練習", jp: "電気をつけっぱなしにしないで", en: "Don't leave the lights on.", exampleJp: "電気をつけっぱなしにしないでください。", exampleEn: "Don't leave the lights on." },
+            { category: "⭐︎ 反射練習", jp: "そのままにしておいてください", en: "Just leave it as it is.", exampleJp: "それはそのままにしておいてください。", exampleEn: "Just leave it as it is." },
+            { category: "⭐︎ 反射練習", jp: "彼女を長く待たせないでください", en: "Please don't keep her waiting too long.", exampleJp: "娘を長く待たせないようにしてください。", exampleEn: "Please don't keep her waiting too long." },
+            { category: "⭐︎ 反射練習", jp: "keepは待たせ続ける、leaveは放っておく", en: "keep her waiting = keep it going / leave her waiting = walk away", exampleJp: "keepは自分が待たせ続ける、leaveはその状態のまま放っておく、という違いです。", exampleEn: "Keep her waiting means you keep it going. Leave her waiting means you walk away and leave it that way." },
+            { category: "⭐︎ 反射練習", jp: "記事で読む形：その結果〜になった", en: "TikTok and Snapchat have settled, leaving Meta and Google facing the claims.", exampleJp: "TikTokとSnapchatは和解し、その結果MetaとGoogleが訴訟を抱えることになりました。（文末のleavingは結果を表す。読めればよい形）", exampleEn: "TikTok and Snapchat have settled, leaving Meta and Google facing the claims." },
+            { category: "⭐︎ 反射練習", jp: "記事で読む形：もう一例", en: "She quit her job, leaving her team short of people.", exampleJp: "彼女が仕事を辞め、その結果チームは人手不足になりました。", exampleEn: "She quit her job, leaving her team short of people." },
+
             // ===== 反射練習: 三単現のs / I'm vs I have / マレーシア台本 =====
             // ※このカテゴリは「レッスン復習」に移動しない永続ドリル
 
