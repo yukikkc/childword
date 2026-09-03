@@ -5036,6 +5036,22 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-08-31", jp: "夏休みが終わったので、いつも通り働けます", en: "My children's summer vacation is over, so I can work as usual.", exampleJp: "子供たちの夏休みが終わったので、いつも通り働けます。", exampleEn: "My children's summer vacation is over, so I can work as usual." },
 
 
+
+            // ===== 反射練習: 伝える・伝わる（get my point across / make myself understood）=====
+            { category: "⭐︎ 反射練習", jp: "うまく伝えられませんでした", en: "I couldn't get my point across.", exampleJp: "すみません、うまく伝えられませんでした。", exampleEn: "I couldn't get my point across." },
+            { category: "⭐︎ 反射練習", jp: "伝わりましたか？", en: "Did I get my point across?", exampleJp: "私の言いたいこと、伝わりましたか？", exampleEn: "Did I get my point across?" },
+            { category: "⭐︎ 反射練習", jp: "もう一度言わせてください", en: "Let me try again to get my point across.", exampleJp: "うまく言えなかったので、もう一度言わせてください。", exampleEn: "Let me try again to get my point across." },
+            { category: "⭐︎ 反射練習", jp: "間違いだらけでも、言いたいことは伝わりました", en: "I made a lot of mistakes, but I got my point across.", exampleJp: "間違いはたくさんありましたが、言いたいことは伝わりました。", exampleEn: "I made a lot of mistakes, but I got my point across." },
+            { category: "⭐︎ 反射練習", jp: "簡単な英語でも伝えられます", en: "I can get my point across even with simple English.", exampleJp: "簡単な英語でも、言いたいことは伝えられます。", exampleEn: "I can get my point across even with simple English." },
+            { category: "⭐︎ 反射練習", jp: "完璧に話すより、伝わることが大事です", en: "It's more important to get your point across than to speak perfectly.", exampleJp: "完璧に話すことより、言いたいことが伝わることのほうが大事です。", exampleEn: "It's more important to get your point across than to speak perfectly." },
+            { category: "⭐︎ 反射練習", jp: "先生にきちんと伝えたいです", en: "I want to make sure I get my point across to the teacher.", exampleJp: "先生に、きちんと伝わるようにしたいです。", exampleEn: "I want to make sure I get my point across to the teacher." },
+            { category: "⭐︎ 反射練習", jp: "なんとか分かってもらえました", en: "I could make myself understood.", exampleJp: "うまくはありませんでしたが、なんとか分かってもらえました。", exampleEn: "I could make myself understood." },
+            { category: "⭐︎ 反射練習", jp: "分かってもらえませんでした", en: "I couldn't make myself understood.", exampleJp: "残念ながら、分かってもらえませんでした。", exampleEn: "I couldn't make myself understood." },
+            { category: "⭐︎ 反射練習", jp: "英語で分かってもらえますか？", en: "Can I make myself understood in English?", exampleJp: "英語で自分の言いたいことを分かってもらえるでしょうか。", exampleEn: "Can I make myself understood in English?" },
+            { category: "⭐︎ 反射練習", jp: "彼にはどうしても伝わりませんでした", en: "I couldn't get through to him.", exampleJp: "何度説明しても、彼には伝わりませんでした。", exampleEn: "I couldn't get through to him." },
+            { category: "⭐︎ 反射練習", jp: "言い方を変えてみます", en: "Let me put it another way.", exampleJp: "うまく伝わらなかったので、言い方を変えてみます。", exampleEn: "Let me put it another way." },
+            { category: "⭐︎ 反射練習", jp: "これで伝わりますか？", en: "Does that make sense?", exampleJp: "これで伝わりますか？", exampleEn: "Does that make sense?" },
+
             // ===== 反射練習: leave / keep + 人 + -ing（〜している状態のままにする）=====
             { category: "⭐︎ 反射練習", jp: "お待たせしてすみません", en: "Sorry to keep you waiting.", exampleJp: "お待たせしてすみません。（受付・お迎え・クリニックで最頻出）", exampleEn: "Sorry to keep you waiting." },
             { category: "⭐︎ 反射練習", jp: "お待たせして申し訳ありません", en: "I'm sorry to have kept you waiting.", exampleJp: "長くお待たせして申し訳ありません。", exampleEn: "I'm sorry to have kept you waiting." },
