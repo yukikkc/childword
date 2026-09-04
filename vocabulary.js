@@ -5037,6 +5037,31 @@ const vocabulary =
 
 
 
+
+            // ===== 追加: Lesson 67（2026-09-04 / Daily News・子連れ出勤と企業内保育所）=====
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "増えてほしいと思います", en: "I hope they will increase.", exampleJp: "保育所がもっと増えてほしいと思います。", exampleEn: "I hope they will increase." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "もっと保育所があってほしいです", en: "I want there to be more daycare centers.", exampleJp: "もっと保育所があってほしいです。", exampleEn: "I want there to be more daycare centers." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "もっと必要です", en: "We need more of them.", exampleJp: "この地域には、もっと必要だと思います。", exampleEn: "We need more of them." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "子供のころ、祖父母が隣に住んでいました", en: "When I was a child, my grandparents lived next to my house.", exampleJp: "子供のころ、祖父母が家の隣に住んでいました。", exampleEn: "When I was a child, my grandparents lived next to my house." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "毎日来て、夕食を作ってくれました", en: "They came over every day and cooked dinner for us.", exampleJp: "祖父母は毎日来て、夕食を作ってくれました。", exampleEn: "They came over every day and cooked dinner for us." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "理学療法士だったので、子供を職場に連れて行けませんでした", en: "I was a physical therapist, so I couldn't bring my children to work.", exampleJp: "理学療法士だったので、子供を職場に連れて行くことはできませんでした。", exampleEn: "I was a physical therapist, so I couldn't bring my children to work." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "患者さんの家を訪問する必要がありました", en: "I had to visit patients at their homes.", exampleJp: "患者さんのお宅を訪問する必要がありました。", exampleEn: "I had to visit patients at their homes." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "子供が一緒だったら、仕事はできませんでした", en: "If my children came with me, I couldn't work.", exampleJp: "子供が一緒に来ていたら、仕事はできませんでした。", exampleEn: "If my children came with me, I couldn't work." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "友達が子供を好きでなければ、連れて行きません", en: "If my friends don't like children, I don't bring them.", exampleJp: "友達が子供を好きでない場合は、連れて行きません。", exampleEn: "If my friends don't like children, I don't bring them." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "ときどきベビーシッターを頼みます", en: "Sometimes I hire a babysitter. They help me a lot.", exampleJp: "ときどきベビーシッターを頼みます。とても助かっています。", exampleEn: "Sometimes I hire a babysitter. They help me a lot." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "東京都から補助が出ます", en: "The Tokyo government gives us grants.", exampleJp: "東京都から補助金が出ます。", exampleEn: "The Tokyo government gives us grants." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "時給2500円以上のシッターもいます", en: "Some babysitters charge more than 2,500 yen an hour.", exampleJp: "時給2500円以上を請求するシッターもいます。", exampleEn: "Some babysitters charge more than 2,500 yen an hour." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "保育所が不足しています", en: "There is a lack of daycare centers.", exampleJp: "この地域は保育所が不足しています。", exampleEn: "There is a lack of daycare centers." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "良い学校が見つかって幸運でした", en: "I was lucky to find a good school.", exampleJp: "良い学校が見つかって幸運でした。", exampleEn: "I was lucky to find a good school." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "会社は良い環境を整える必要があります", en: "The company needs to prepare a good environment.", exampleJp: "会社は良い環境を整える必要があります。", exampleEn: "The company needs to prepare a good environment." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "在宅の仕事を続けたいです", en: "I want to keep working from home.", exampleJp: "このまま在宅で仕事を続けたいです。", exampleEn: "I want to keep working from home." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "子供のそばにいるために転職しました", en: "I changed my job so I could be with my children.", exampleJp: "子供のそばにいられるように転職しました。", exampleEn: "I changed my job so I could be with my children." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "補助金は親にとってとても助かります", en: "Subsidies are very helpful for parents.", exampleJp: "補助金は親にとってとても助かるものです。", exampleEn: "Subsidies are very helpful for parents." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "この質問の意味が分かりません", en: "I can't make sense of this question.", exampleJp: "すみません、この質問の意味が分かりません。", exampleEn: "I can't make sense of this question." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "その単語を知りません", en: "What does that mean? I don't know that word.", exampleJp: "それはどういう意味ですか？その単語を知りません。", exampleEn: "What does that mean? I don't know that word." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "親は周りへの配慮をすべきです", en: "Parents should be considerate of other people.", exampleJp: "親は周りの人への配慮をすべきだと思います。", exampleEn: "Parents should be considerate of other people." },
+            { category: "⭐︎ 今週の練習 2026-08-31", jp: "少し翻訳アプリを使ってもいいですか？", en: "Can I use a translation app for a moment?", exampleJp: "すみません、少し翻訳アプリを使ってもいいですか？", exampleEn: "Can I use a translation app for a moment?" },
+
             // ===== 反射練習: 伝える・伝わる（get my point across / make myself understood）=====
             { category: "⭐︎ 反射練習", jp: "うまく伝えられませんでした", en: "I couldn't get my point across.", exampleJp: "すみません、うまく伝えられませんでした。", exampleEn: "I couldn't get my point across." },
             { category: "⭐︎ 反射練習", jp: "伝わりましたか？", en: "Did I get my point across?", exampleJp: "私の言いたいこと、伝わりましたか？", exampleEn: "Did I get my point across?" },
