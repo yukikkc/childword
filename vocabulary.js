@@ -5245,7 +5245,7 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-09-28", jp: "最初の英語は「I was happy」でした", en: "Her first English words were \"I was happy.\"", exampleJp: "長女が最初に話した英語は「I was happy」でした。", exampleEn: "Her first English words were \"I was happy.\"" },
 
             // ===== 今週の練習 2026-09-28（Lesson 76 / Daily News・男性の育休＝万→thousand・出産一時金の3文台本・職歴ストーリー・mom friends）=====
-            { category: "⭐︎ 今週の練習 2026-09-28", jp: "50万円（万に0を1つ足して thousand）", en: "five hundred thousand yen", exampleJp: "50万円 → 500 thousand → five hundred thousand yen", exampleEn: "Fifty man yen is five hundred thousand yen." },
+            { category: "⭐︎ 今週の練習 2026-09-28", jp: "50万円（万に0を1つ足して thousand）", en: "five hundred thousand yen", exampleJp: "50万円 → 500 thousand → five hundred thousand yen", exampleEn: "It costs five hundred thousand yen." },
             { category: "⭐︎ 今週の練習 2026-09-28", jp: "42万円（万に0を1つ足して thousand）", en: "four hundred twenty thousand yen", exampleJp: "42万円 → 420 thousand → four hundred twenty thousand yen", exampleEn: "I got four hundred twenty thousand yen." },
             { category: "⭐︎ 今週の練習 2026-09-28", jp: "3万円（万に0を1つ足して thousand）", en: "thirty thousand yen", exampleJp: "3万円 → 30 thousand → thirty thousand yen", exampleEn: "It costs thirty thousand yen." },
             { category: "⭐︎ 今週の練習 2026-09-28", jp: "一時金は50万円でした", en: "The grant was five hundred thousand yen.", exampleJp: "出産一時金は50万円でした。", exampleEn: "The grant was five hundred thousand yen." },
