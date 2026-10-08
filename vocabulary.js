@@ -5321,15 +5321,11 @@ const vocabulary =
             // ===== Lesson 78（2026-10-07 / Daily News・Z世代のお金の習慣＝赤ちゃんの雑談・お金の言葉・お小遣い）=====
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "夫が熱を出したので、今日は私が赤ちゃんを見ています", en: "My husband has a fever, so I'm taking care of the baby today.", exampleJp: "夫が熱を出したので、今日は私が赤ちゃんの世話をしています。", exampleEn: "My husband has a fever, so I'm taking care of the baby today." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "いつもは夫が赤ちゃんを見ていますが、今日は寝込んでいます", en: "My husband usually takes care of the baby, but today he's in bed.", exampleJp: "いつもは夫が赤ちゃんを見ていますが、今日は寝込んでいます。", exampleEn: "My husband usually takes care of the baby, but today he's in bed." },
-            { category: "⭐︎ 今週の練習 2026-10-05", jp: "赤ちゃんはお昼を食べたばかりで、ご機嫌です", en: "My baby just had lunch, and he's in a good mood.", exampleJp: "赤ちゃんはお昼を食べたばかりで、ご機嫌です。", exampleEn: "My baby just had lunch, and he's in a good mood." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "台風が近づいています", en: "A typhoon is coming.", exampleJp: "台風が近づいています。", exampleEn: "A typhoon is coming." },
-            { category: "⭐︎ 今週の練習 2026-10-05", jp: "子供たちの運動会が今週末にあります", en: "My children's sports day will be held this weekend.", exampleJp: "子供たちの運動会が今週末に行われます。", exampleEn: "My children's sports day will be held this weekend." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "天気予報によると、今週末は晴れます", en: "According to the weather forecast, it'll be sunny this weekend.", exampleJp: "天気予報によると、今週末は晴れるそうです。", exampleEn: "According to the weather forecast, it'll be sunny this weekend." },
-            { category: "⭐︎ 今週の練習 2026-10-05", jp: "赤ちゃんは何か月ですか？", en: "How old is your baby?", exampleJp: "赤ちゃんは何か月ですか？", exampleEn: "How old is your baby?" },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "赤ちゃんは女の子？男の子？", en: "Is your baby a girl or a boy?", exampleJp: "赤ちゃんは女の子ですか、男の子ですか？", exampleEn: "Is your baby a girl or a boy?" },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "もう首がすわっていますね", en: "She can hold her head up now.", exampleJp: "もう首がすわっていますね。", exampleEn: "She can hold her head up now." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "男の子です。体重は10キロ近くあります", en: "He's a boy. He weighs almost ten kilos.", exampleJp: "男の子です。体重は10キロ近くあります。", exampleEn: "He's a boy. He weighs almost ten kilos." },
-            { category: "⭐︎ 今週の練習 2026-10-05", jp: "カニとエビ以外はほぼ何でも食べられます", en: "He can eat almost anything except crab and shrimp.", exampleJp: "カニとエビ以外は、ほぼ何でも食べられます。", exampleEn: "He can eat almost anything except crab and shrimp." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "おかゆと野菜をたくさん食べます", en: "He eats rice porridge and a lot of vegetables.", exampleJp: "おかゆと野菜をたくさん食べます。", exampleEn: "He eats rice porridge and a lot of vegetables." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "私もそう思います（意見に賛成）", en: "I think so too.", exampleJp: "私もそう思います。", exampleEn: "I think so too." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "私も知りません", en: "I don't know either.", exampleJp: "私も知りません。", exampleEn: "I don't know either." },
@@ -5349,6 +5345,20 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "子供たちにお小遣いをあげようと思っています", en: "I'm planning to give my children an allowance.", exampleJp: "子供たちにお小遣いをあげようと思っています。", exampleEn: "I'm planning to give my children an allowance." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "お皿洗いを手伝ったら1ドルもらえます", en: "If they help with the dishes, they get one dollar.", exampleJp: "お皿洗いを手伝ったら、1ドルもらえるようにします。", exampleEn: "If they help with the dishes, they get one dollar." },
             { category: "⭐︎ 今週の練習 2026-10-05", jp: "5人家族でした。私は真ん中です", en: "There were five of us in my family. I'm the middle child.", exampleJp: "子供の頃は5人家族でした。私は真ん中の子です。", exampleEn: "There were five of us in my family. I'm the middle child." },
+
+            // ===== Lesson 79（2026-10-08 / 日本の若者の生活＝昔の話の気持ちの動詞は過去形）=====
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "もうすぐ1歳です", en: "He's almost one year old.", exampleJp: "この子はもうすぐ1歳です。", exampleEn: "He's almost one year old." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "哺乳瓶のほうが好きです", en: "He prefers the bottle.", exampleJp: "この子は哺乳瓶のほうが好きです。", exampleEn: "He prefers the bottle." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "子供の頃はYouTubeがありませんでした", en: "When I was a child, there was no YouTube.", exampleJp: "子供の頃は、YouTubeがありませんでした。", exampleEn: "When I was a child, there was no YouTube." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "親がレンタル店でビデオを借りて、家で観ていました", en: "My parents rented videos from the video store, and I watched them at home.", exampleJp: "親がレンタル店でビデオを借りてきて、家で観ていました。", exampleEn: "My parents rented videos from the video store, and I watched them at home." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "今でもジブリが好きです", en: "I still like Ghibli movies.", exampleJp: "今でもジブリ映画が好きです。", exampleEn: "I still like Ghibli movies." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "子供の頃、ピーチ味の水がとても流行っていました", en: "When I was a child, peach-flavored water was very popular.", exampleJp: "子供の頃、ピーチ味の水がとても流行っていました。", exampleEn: "When I was a child, peach-flavored water was very popular." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "そのあと、タピオカが流行りました", en: "After that, bubble tea became popular.", exampleJp: "そのあと、タピオカが流行りました。", exampleEn: "After that, bubble tea became popular." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "独身の頃は外食が好きでした", en: "When I was single, I liked eating out.", exampleJp: "独身の頃は外食が好きでした。", exampleEn: "When I was single, I liked eating out." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "夜カフェやバー、読書が好きでした", en: "I liked going to cafes late at night, going to bars, and reading books.", exampleJp: "夜遅くにカフェに行ったり、バーに行ったり、本を読んだりするのが好きでした。", exampleEn: "I liked going to cafes late at night, going to bars, and reading books." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "独身生活を楽しんだので、今は恋しくありません", en: "I enjoyed my single life, so I don't miss it now.", exampleJp: "独身生活を十分楽しんだので、今は恋しくありません。", exampleEn: "I enjoyed my single life, so I don't miss it now." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "結婚前はSMAPの大ファンでした", en: "Before I got married, I was a big fan of SMAP.", exampleJp: "結婚する前は、SMAPの大ファンでした。", exampleEn: "Before I got married, I was a big fan of SMAP." },
+            { category: "⭐︎ 今週の練習 2026-10-05", jp: "彼らのコンサートに行きました", en: "I went to their concerts.", exampleJp: "SMAPのコンサートに行きました。", exampleEn: "I went to their concerts." },
 
             // ===== 今週の練習 2026-09-21（Lesson 70 / Daily News・日本の結婚難＝なれそめ・夫の人柄・移住理由）=====
             { category: "⭐︎ レッスン復習", jp: "この2週間、少し忙しかったです", en: "I've been a little busy for the past two weeks.", exampleJp: "この2週間、少し忙しかったです。", exampleEn: "I've been a little busy for the past two weeks." },
