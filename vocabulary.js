@@ -5700,6 +5700,29 @@ const vocabulary =
             { category: "⭐︎ 今週の練習 2026-10-12", jp: "何でも話し合った", en: "We talked about everything before we got married.", exampleJp: "結婚する前に何でも話し合いました。", exampleEn: "We talked about everything before we got married." },
             { category: "⭐︎ 今週の練習 2026-10-12", jp: "愛が育った", en: "Our love grew after we got married.", exampleJp: "結婚してから愛が育ちました。", exampleEn: "Our love grew after we got married." },
             { category: "⭐︎ 今週の練習 2026-10-12", jp: "気持ちの動詞も過去形", en: "I enjoyed my single life until I was 31.", exampleJp: "31歳まで独身生活を楽しみました。", exampleEn: "I enjoyed my single life until I was 31." },
-            { category: "⭐︎ 今週の練習 2026-10-12", jp: "うまく説明できない", en: "Sorry, I'm not explaining it well.", exampleJp: "すみません、うまく説明できていません。", exampleEn: "Sorry, I'm not explaining it well." }
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "うまく説明できない", en: "Sorry, I'm not explaining it well.", exampleJp: "すみません、うまく説明できていません。", exampleEn: "Sorry, I'm not explaining it well." },
+            // ===== 今週の練習 2026-10-12: Lesson 81（混ぜるコスメ・NC）。report/10-15_lesson81.md =====
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "〜を休む（園）", en: "She is staying home from kindergarten today.", exampleJp: "娘は今日、幼稚園を休んでいます。", exampleEn: "She is staying home from kindergarten today." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "ミルクは飲めている", en: "But he is drinking enough milk, so he is okay.", exampleJp: "でもミルクは十分飲めているので、大丈夫です。", exampleEn: "But he is drinking enough milk, so he is okay." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "名詞で始める", en: "Vegetables didn't grow well, so prices went up.", exampleJp: "野菜がよく育たなかったので、値段が上がりました。", exampleEn: "Vegetables didn't grow well, so prices went up." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "流行が広がる", en: "The flu is spreading in schools and kindergartens.", exampleJp: "学校や幼稚園でインフルエンザが広がっています。", exampleEn: "The flu is spreading in schools and kindergartens." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "流行っている", en: "Pneumonia is going around in Japan right now.", exampleJp: "今、日本では肺炎が流行っています。", exampleEn: "Pneumonia is going around in Japan right now." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "聞いたことがない", en: "No, I haven't heard of it.", exampleJp: "いいえ、聞いたことがありません。", exampleEn: "No, I haven't heard of it." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "予防接種①", en: "In Japan, it's easy to get vaccines for children.", exampleJp: "日本では、子供の予防接種を受けやすいです。", exampleEn: "In Japan, it's easy to get vaccines for children." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "予防接種②", en: "Everyone has health insurance, so we only pay 30% at the hospital.", exampleJp: "みんな健康保険に入っているので、病院では3割だけ払います。", exampleEn: "Everyone has health insurance, so we only pay 30% at the hospital." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "予防接種③", en: "But vaccines are not covered by insurance.", exampleJp: "でも、予防接種は保険の対象外です。", exampleEn: "But vaccines are not covered by insurance." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "予防接種④", en: "The flu shot costs about 3,000 yen, and we pay the full price.", exampleJp: "インフルの予防接種は約3,000円で、全額自分で払います。", exampleEn: "The flu shot costs about 3,000 yen, and we pay the full price." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "予防接種を受けた", en: "My children and I got flu shots.", exampleJp: "子供たちと私はインフルの予防接種を受けました。", exampleEn: "My children and I got flu shots." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "〜する時間がない", en: "I don't have time for makeup or fashion now.", exampleJp: "今はメイクやおしゃれをする時間がありません。", exampleEn: "I don't have time for makeup or fashion now." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "同じメイク", en: "I wore the same makeup every day.", exampleJp: "毎日同じメイクをしていました。", exampleEn: "I wore the same makeup every day." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "一部は理解できる", en: "I can understand some of Gen Z's values.", exampleJp: "Z世代の価値観の一部は理解できます。", exampleEn: "I can understand some of Gen Z's values." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "It is important for 〇〇 to", en: "It is important for society to accept different values and personalities.", exampleJp: "社会がいろいろな価値観や個性を受け入れることが大切です。", exampleEn: "It is important for society to accept different values and personalities." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "hope ＋ will", en: "I hope these trends will change.", exampleJp: "こうした流行が変わるといいなと思います。", exampleEn: "I hope these trends will change." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "聞き取れなかった", en: "Sorry, I didn't catch that. Could you say it more simply?", exampleJp: "すみません、聞き取れませんでした。もっと簡単に言っていただけますか？", exampleEn: "Sorry, I didn't catch that. Could you say it more simply?" },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "意味の確認", en: "Do you mean it's good to show your own personality?", exampleJp: "自分らしさを出すのがいい、という意味ですか？", exampleEn: "Do you mean it's good to show your own personality?" },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "ないと思う", en: "I don't think I have.", exampleJp: "（買ったことは）ないと思います。", exampleEn: "I don't think I have." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "プレゼントでもらう", en: "I have a lot of lipsticks because my friends often give them to me as presents.", exampleJp: "友達がよくプレゼントでくれるので、口紅がたくさんあります。", exampleEn: "I have a lot of lipsticks because my friends often give them to me as presents." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "全額払わなくていい", en: "Oh, so you don't have to pay the full price.", exampleJp: "じゃあ、全額は払わなくていいんですね。", exampleEn: "Oh, so you don't have to pay the full price." },
+            { category: "⭐︎ 今週の練習 2026-10-12", jp: "〜は寒く感じる", en: "So 25 degrees feels cold for you?", exampleJp: "じゃあ、25度は寒く感じるんですか？", exampleEn: "So 25 degrees feels cold for you?" }
 
         ];
