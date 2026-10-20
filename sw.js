@@ -1,5 +1,5 @@
 // Service Worker for offline support
-const CACHE_NAME = 'child-word-v4-261016';
+const CACHE_NAME = 'child-word-v4-261020';
 const urlsToCache = [
   './index.html',
   './vocabulary.js',
